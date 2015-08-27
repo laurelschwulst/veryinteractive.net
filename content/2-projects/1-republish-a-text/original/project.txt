@@ -1,0 +1,37 @@
+Title: Republish a Text (Original Version from Clement Valla)
+
+----
+
+Project-code: P1
+
+----
+
+Color: #ffffff
+
+----
+
+Text: 
+
+## Instructions
+
+1. Choose a text or composition whose copyright has expired, or that has a creative commons copyright. (link: http://www.ubu.com/ text: Ubuweb) is a good source. For your own sake, the the text or composition should be no more than a few pages.
+
+2. Republish or process the composition through an online service such as YouTube, Flickr, Vimeo, Vine, Instagram, Twitter, Tumblr, Facebook, Google Docs, Second Life, Google Earth, World of Warcraft, Yahoo Answers, Craigslist, etc…
+
+3.  Make sure your text is publicly available or document it by taking screenshots.
+
+## Goals
+
+The goal of this project is to experiment with publishing or processing an existing text on the web without typing a single line of code. As a Graphic Designer working on the web, you should become adept at negotiating different platforms and social networks, understanding how information moves across these networks, how context is created by different tools and different communities. Is a successful online work one that spreads – like memes? Or is it a work that viewers might encounter through serendipity? Or a work that viewers must seek out and assemble themselves? How can you best leverage the existing online landscape in your own work?
+
+You should consider the context in which you place the text. How will the reading of the text be affected by the choice of platform? Does the Tumblr community create a different context for writing and images than the Second Life community, for example? Think also about the technical constraints of different platforms. How are texts broken up? In 140 character blurbs? In longer sequences? How does each piece of text link to the next? Are there different voices you can use? Can the text be broken up into sequential sections? What about parallel sections? How does the text look on the page? How do all these elements affect your reading of the text? How many of these elements can you control? What is the typical way we read text on the service you are using? Are you interrupting this ‘usual’ read and using it to your advantage?
+
+## Schedule
+
+(underline: Prototypes) — *Due Monday, September 14*
+
+You will republish at least 25% of your text at least *twice* using two different platforms, tools, forums, etc. These are meant to be separate studies, to see how different platforms affect the reading of a same text. You will present both studies to the class, though you may choose to emphasize one study in particular. 
+
+(underline: Final) — *Due Monday, September 21*
+
+Based on feedback from the class, you will republish at least 100% of your composition using a platform and a well-thought out method. You will present the work to the class.

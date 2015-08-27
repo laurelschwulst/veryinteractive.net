@@ -1,0 +1,39 @@
+Dates: Mon Aug 31 & Wed Sept 2
+
+----
+
+Text: 
+
+##Monday
+
+* Fill out intro survey
+* Hand out syllabus
+* Discuss reading groups format and then sign up for them
+* Discuss weekly presentations and then sign up for them
+* Laurel introduces herself and shows some past projects
+* *(15 minute intermission)*
+* Hand out (project: P1)
+
+##Wednesday
+
+* Download Sublime Text
+* Set up Github accounts
+* Start Code Academy
+
+##For next week (due on Wednesday)
+
+* Reading: (to come)
+* Code Academy: "HTML Basics", "HTML Basics II", and "HTML Basics III"
+* Start (project: P1) by finding your text and experimenting where you could republish it
+
+----
+
+Title: Week 1
+
+----
+
+Project-start: P1
+
+----
+
+Project-end: 

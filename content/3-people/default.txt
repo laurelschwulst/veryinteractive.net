@@ -1,0 +1,43 @@
+Title: People
+
+----
+
+Text: 
+
+(centered: Fall 2015)
+(centered: Interactive 2, GRAPH-228-01)
+(centered: California College of the Arts)
+(centered: SF Main Campus, Room E1)
+(centered: Monday, Wednesday [1] 12–3pm [2] 4–7pm)
+(centered: Instructor: Laurel Schwulst, lschwulst@cca.edu)
+
+(columns…)
+
+## Section 1
+
+Laluna Chabbani
+Gurleen Gill
+Emely Vertiz
+Chin Hwa Wu
+
+++++
+
+## Section 2
+
+Lauren Abele
+Michael Boyce
+Kianna Carlisle
+Wanwan Chen
+Shu-Chieh Chuang
+Janice Echevarria
+Nanfang Gong
+Yasmeen Khaja
+Jared Kitade
+Heike Kupp
+Eliot Larson
+Alfonso Martin
+Ashley Sabatino
+Kelly Stuckey
+Tinxing Tian
+
+(...columns)

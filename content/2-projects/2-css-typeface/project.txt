@@ -1,0 +1,46 @@
+Title: CSS Typeface
+
+----
+
+Project-code: P2
+
+----
+
+Color: #fdee2f
+
+----
+
+Text: 
+
+## Instructions
+
+1. Create a typeface using only HTML and CSS. It should have a complete character set.
+
+2. Once you've designed and built your typeface, create a website to display your complete typeface. On this website, your typeface itself should be used as the primary form of communication.
+
+
+## Goals
+
+The goal of this project is to experiment formally in HTML and CSS through creation of your very own typeface. That said, your typeface should somehow take advantage of its unique material. How is a typeface online (on a screen) different than one in a book (on a printed page)? How do the media differ? What are the dynamic properties of the web that printed matter lacks? And vice-versa: is there anything that printed matter has that the web doesn't? The concept for your typeface should come across formally and also allude to the way it was created (programming HTML and CSS).
+
+When it is time to create the website to display your typeface, consider its subject. How can your website's focus not only reinforce but push forward the concept of your typeface? How will your typeface be used? What material can you present in your typeface to take it to a new level? Can the website surprise viewers in some way to further explore the concept even more?
+
+
+## Schedule
+
+(underline: First Sketch) — *Due Monday, September 28*
+Create a first sketch for your typeface after the demo in class the previous week.
+
+(underline: Second Sketch) — *Due Monday, October 5*
+Design and develop three additional directions based on the feedback given last week.
+
+(underline: Website) — *Due Monday, October 12*
+Present two directions for your typeface's website.
+
+(underline: Final) — *Due Monday, October 19*
+Final critique of website.
+
+
+## Credit
+
+Thank you to (link: http://www.brianwatterson.com/ text: Brian Watterson) for letting me adapt this project to this class.
