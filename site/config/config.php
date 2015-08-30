@@ -15,7 +15,7 @@ for more information: http://getkirby.com/license
 
 */
 
-c::set('license', 'put your license key here');
+c::set('license', '8a02d708fcfa03f3a355a1d97291cae8');
 
 /*
 
