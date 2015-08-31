@@ -1,3 +1,8 @@
 nav { display: none !important; }
 
 h1 { font-size: 28px; line-height: 32px; font-weight: bold; }
+
+.document ul ul li {
+	list-style-type: circle;
+	padding-left: 1em;
+}

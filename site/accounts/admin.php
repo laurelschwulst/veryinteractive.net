@@ -8,7 +8,7 @@ language: en
 role: admin
 history:
   - calendar/1
+  - resources
   - syllabus
   - projects/living-aggregator
   - projects/css-typeface
-  - projects/republish-a-text

@@ -311,7 +311,8 @@ a.library-item {
     
 a.library-item:hover,
 a.top-link:hover {
-  background: #FDEE2F;/*
+  background: #FDEE2F;
+  cursor: pointer;/*
   -webkit-animation: pulse 1.2s ease-out;
   -webkit-animation-iteration-count: infinite;
   -webkit-animation-delay: 1s;
@@ -521,6 +522,14 @@ ul.calendar .body {
   width: 200px;
   right: -200px;
   top: 16px;
+}
+
+figure.reading {
+  margin-bottom: -0.75em;
+}
+
+.reading img {
+  max-width: 175px;
 }
 
 

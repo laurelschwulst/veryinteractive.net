@@ -6,25 +6,42 @@ Text:
 
 ##Monday
 
-* Fill out intro survey
-* Hand out syllabus
-* Discuss reading groups format and then sign up for them
-* Discuss weekly presentations and then sign up for them
+* Hand out syllabus, survey, and quiz
+* Spend 30 minutes filling out survey and quiz
+* Discuss syllabus
+* Sign up for weekly presentations
 * Laurel introduces herself and shows some past projects
-* *(15 minute intermission)*
-* Hand out (project: P1)
+* Students show own work and two websites
+* Explain (project: P1)
+
+##For Wednesday
+Read your assigned chapter of Italo Calvino's Six Memos for the Next Millennium.
 
 ##Wednesday
 
+* Discuss reading
 * Download Sublime Text
 * Set up Github accounts
-* Start Code Academy
+* Basic HTML demo to create your own class homepage
+* When you are done with your class homepage, paste link in Google Doc
+* Work in class on Codecademy
 
-##For next week (due on Wednesday)
+##For next week
 
-* Reading: (to come)
-* (link: https://www.codecademy.com/en/tracks/web text: Codecademy): "HTML Basics", "HTML Basics II", and "HTML Basics III"
-* Start (project: P1) by finding your text and experimenting where you could republish it
+Reading
+
+(image: content/6-library/8-post-internet-excerpts/cover-mchugh.jpg class:reading)
+(link: content/6-library/8-post-internet-excerpts/mchugh-020810b.pdf  text: February 8, 2010) and (link: content/6-library/8-post-internet-excerpts/mchugh-072310.pdf text: July 23, 2010) from Post Internet by Gene McHugh, 2010
+
+(image: content/6-library/1-spirit-surfing/purekev.gif class:reading)
+(link: content/6-library/1-spirit-surfing/bewersdorf-spiritsurfing.pdf text:Spirit Surfing) by Kevin Bewersdorf, 2008
+
+(image: content/6-library/7-change-over-time/whitney3_1258.jpg class:reading)
+(link: http://www.linkedbyair.net/Change text:Change Over Time) by Dan Michaelson, 2012
+
+Finish (link: https://www.codecademy.com/en/tracks/web text: Codecademy) lessons: HTML Basics I, HTML Basics II, HTML Basics III
+
+Start (project: P1) by finding your text and experimenting where you could republish it
 
 ----
 
