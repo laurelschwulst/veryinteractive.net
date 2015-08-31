@@ -39,17 +39,6 @@ The course will heavily employ real-world, contemporary examples of design, art,
 
 This course is open to ~15 students. It is a required course for graphic design majors. It is open to students who have taken (or are taking concurrently) Graphic Design 2 and Typography 2 (GRAPH-216 and GRAPH-220). No prior programming knowledge is required to take this class. Preference is given first to graphic design majors who have these prerequisites. Interested students with special circumstances can speak to me directly and, in addition, be sure to thoroughly fill out the intro survey I give during the first week of class.
 
-## Learning outcomes
-
-By the end of this course, students will: 
-
-* Understand the web holistically (historically, politically, socially)
-* Be familiar with a range of contemporary art and design practices online
-* Understand design principles unique to dynamic media
-* Have working knowledge of HTML, CSS, and JavaScript/jQuery
-* Be able to produce working prototypes of web pages
-* Have four complete, well-documented online projects of their very own
-
 
 ## Class activities
 
@@ -64,27 +53,20 @@ Monday’s class will include any combination of: 
 Wednesday’s class will include any combination of skill-based workshop with working lab time and/or individual consultation.
 
 
-## Weekly presentations
-
-Each week (starting Week 3), one student will give a short, ~10 minute presentation on a specific website, designer, artist, or idea. This presentation should introduce the class to the topic as a whole. The format of the presentation is up to you, but by the end of the semester you must deliver a file (either PDF or Website) that contains your presentation materials (a combination of visual, text, and important links or references). You will receive a list of available presentation topics on the first day of class.
-
-
 ## Readings
 
-Throughout the duration of the course, groups of readings (and sometimes videos) will be given around specific themes. For each group of readings, each student must be ready with five discussion questions at the beginning of class. The themes for each reading group are...
+Throughout the duration of the course, groups of readings (and sometimes videos) will be given. For each group of readings, each student must prepare three discussion questions and post them to that week’s Google Document (viewable on the Calendar section of the website) by 8am the day of class.
 
-* Performance is Change Over Time
-* Laws and Constraints
-* Typography re: Technology
-* Design is ... 
-* Multiplicity and the Internet
 
+## Weekly presentations
+
+Each student will given a number 1 to 5. This number refers to a chapter in Italo Calvino’s *(link: library/six-memos-for-the-next-millennium text: Six Memos for the Next Millennium)* (1985). The chapters  (1. Lightness, 2. Quickness, 3. Exactitude, 4. Visibility, 5. Multiplicity) refer to qualities that Calvino sought in writing and that he recommends to future writers. Students will read their assigned chapter and then give a 10–15 minute presentation showing the class five works (design or art that uses the web as medium) that pertain to this “memo”. Each presentation (Keynote or PDF) should include the specific “memo” as title, images of each work, and any important metadata (creator, year, link, etc.).
 
 ## Projects
 
-(project: P1) ... Republish a Text
-(project: P2) ... CSS Typeface
-(project: P3) ... Website for a Future Event
+(project: P1) ... (link: projects/republish-a-text text:Republish a Text)
+(project: P2) ... *TBA*
+(project: P3) ... *TBA*
 (project: P4) ... *TBA*
 
 
@@ -95,15 +77,13 @@ In this class, students will strive to make memorable, functional online experie
 
 ## Grading
 
-15% ... (project: P1)
-15% ... (project: P2)
-15% ... (project: P3)
-15% ... (project: P4)
-10% ... Reading questions
-10% ... Presentation
-20% ... Final documentation
+20% ... (project: P1)
+20% ... (project: P2)
+20% ... (project: P3)
+20% ... (project: P4)
+20% ... Reading questions and presentation
 
-At the end of the term, you will be required to send me an archival .zip file of all project materials divided into folders (project: P1), (project: P2), (project: P3), and (project: P4). Please keep this in mind as you organize your materials throughout the semester.
+At the end of the term, you will be required to send me an archival .zip file to document your projects. Divide your materials into five folders: (project: P1), (project: P2), (project: P3), (project: P4), and Presentation. Within each project ((project: P1), (project: P2), (project: P3), (project: P4)) folder, make three new folders: Project, Documentation, Description. Put all of your project materials (code and required assets) into the Project folder. In the video folder, place a video screen capture (made using Screenflick software or similar) to concisely document someone using your project. Within the Description folder, place a text file containing a paragraph description of your project. Within the Presentation folder, place a PDF version of your presentation into the folder. Please keep this in mind as you organize your materials throughout the semester.
 
 Letter grades represent the following: A = excellent; B = good; C = satisfactory; D = unsatisfactory; F = failure. A grade of C- or less is considered a failing grade for required courses within the major, and you will need to retake this course if you achieve a grade lower than a C.
 
@@ -120,4 +100,15 @@ Attendance is required. Students are expected to be on time and remain in class 
 
 ## Materials
 
-Students should bring their own personal laptops to class. They should also be responsible for their own files, making sure to back them up in some way. For editing and updating code, a code editor such as Sublime Text is needed. For image-making and sketching, Adobe Photoshop, Illustrator, and InDesign are standard tools that are available on most CCA computers. Other good digital-image making tools include a phone, digital camera, scanner, screen capture, etc.
+Students should bring their own personal laptops to class. They should also be responsible for their own files, making sure to back them up in some way. For editing and updating code, we will use the code editor Sublime Text. For website hosting, we will use Github Pages. For code learning, we will use Codecademy. For image-making and sketching, Adobe Photoshop, Illustrator, and InDesign are standard tools that all CCA students have. Other good digital-image making tools include a phone, digital camera, scanner, screen capture, etc.
+
+
+## Learning Outcomes
+
+By the end of this course, students will: 
+
+* Understand the web as its own public space
+* Understand design principles unique to dynamic media
+* Be familiar with a range of contemporary art and design practices online
+* Have working knowledge of HTML, CSS, and JavaScript/jQuery
+* Have complete, well-documented online projects of their very own

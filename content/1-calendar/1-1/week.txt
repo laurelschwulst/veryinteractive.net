@@ -15,11 +15,10 @@ Text:
 * Explain (project: P1)
 
 ##For Wednesday
-Read your assigned chapter of Italo Calvino's Six Memos for the Next Millennium.
+Read your assigned chapter of Italo Calvino's *(link: library/six-memos-for-the-next-millennium text: Six Memos for the Next Millennium)*.
 
 ##Wednesday
 
-* Discuss reading
 * Download Sublime Text
 * Set up Github accounts
 * Basic HTML demo to create your own class homepage
