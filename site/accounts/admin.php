@@ -7,8 +7,8 @@ password: >
 language: en
 role: admin
 history:
+  - calendar/1
   - syllabus
   - projects/living-aggregator
   - projects/css-typeface
   - projects/republish-a-text
-  - library/a-lawless-proposition
