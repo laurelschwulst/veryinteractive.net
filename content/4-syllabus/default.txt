@@ -37,7 +37,18 @@ This course focuses on interaction design with projects that are based online. Q
 
 The course will heavily employ real-world, contemporary examples of design, art, and presences online. These thematic groupings of artwork, portfolios, archives, exhibition platforms, blogs, web apps, etc. will be examined with a critical eye and mind. Additionally, we will discuss what makes a design practice and the importance of discovering each student’s unique approach and methodology.
 
-This course is open to ~15 students. It is a required course for graphic design majors. It is open to students who have taken (or are taking concurrently) Graphic Design 2 and Typography 2 (GRAPH-216 and GRAPH-220). Preference is given first to graphic design majors who have these prerequisites. Interested students with special circumstances can speak to me directly and, in addition, be sure to thoroughly fill out the intro survey I give during the first week of class.
+This course is open to ~15 students. It is a required course for graphic design majors. It is open to students who have taken (or are taking concurrently) Graphic Design 2 and Typography 2 (GRAPH-216 and GRAPH-220). No prior programming knowledge is required to take this class. Preference is given first to graphic design majors who have these prerequisites. Interested students with special circumstances can speak to me directly and, in addition, be sure to thoroughly fill out the intro survey I give during the first week of class.
+
+## Learning outcomes
+
+By the end of this course, students will: 
+
+* Understand the web holistically (historically, politically, socially)
+* Be familiar with a range of contemporary art and design practices online
+* Understand design principles unique to dynamic media
+* Have working knowledge of HTML, CSS, and JavaScript/jQuery
+* Be able to produce working prototypes of web pages
+* Have four complete, well-documented online projects of their very own
 
 
 ## Class activities
@@ -74,7 +85,7 @@ Throughout the duration of the course, groups of readings (and sometimes videos)
 (project: P1) ... Republish a Text
 (project: P2) ... CSS Typeface
 (project: P3) ... Website for a Future Event
-(project: P4) ... Living Aggregator
+(project: P4) ... *TBA*
 
 
 ## Evaluation

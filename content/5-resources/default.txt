@@ -17,7 +17,7 @@ For code editing, we will use (link: http://www.sublimetext.com text: Sublime Te
 
 For website hosting, we will use (link: https://pages.github.com/ text: Github Pages).
 
-For code learning, we will use (link:https://www.codecademy.com/ text: Code Academy).
+For code learning, we will use (link:https://www.codecademy.com/ text: Codecademy).
 
 
 ##Troubleshooting
@@ -29,9 +29,9 @@ However, if you reach a point in which you absolutely need help and must ask ano
 
 ## More
 
-(link: http://learn.shayhowe.com/html-css/ text: Beginner's Guide to HTML & CSS)
-(link: http://learn.shayhowe.com/advanced-html-css/ text: Advanced HTML & CSS)
-(link:http://eloquentjavascript.net/ text: Eloquent Javascript)
+(link: http://learn.shayhowe.com/ text: Shay Howe's Guide to HTML & CSS)
 (link: http://freecodecamp.com/ text: Free Code Camp)
+(link: http://6.470.scripts.mit.edu/2015/lectures text: MIT Code Lectures)
+(link:http://eloquentjavascript.net/ text: Eloquent Javascript)
 (link: resources/open-source-web-fonts text: Open Source Web Fonts)
 (link: http://copypastecharacter.com/ text: Copy Paste Character)

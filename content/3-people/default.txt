@@ -17,8 +17,10 @@ Text:
 
 Laluna Chabbani
 Gurleen Gill
+Yinxing Tian
 Emely Vertiz
 Chin Hwa Wu
+Zhiyu Xue
 
 ++++
 
@@ -38,6 +40,5 @@ Eliot Larson
 Alfonso Martin
 Ashley Sabatino
 Kelly Stuckey
-Tinxing Tian
 
 (...columns)

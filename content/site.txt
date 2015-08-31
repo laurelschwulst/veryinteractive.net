@@ -1,17 +1,17 @@
-Title: Kirby Starterkit
+Title: Very Interactive
 
 ----
 
-Author: Bastian Allgeier GmbH
+Author: Laurel Schwulst
 
 ----
 
-Description: This is Kirby's Starterkit.
+Description: 
 
 ----
 
-Keywords: Kirby, CMS, file-based
+Keywords: 
 
 ----
 
-Copyright: © 2009-(date: Year) (link: http://getkirby.com text: Kirby)
+Copyright: © 2013-(date: Year)

@@ -23,7 +23,7 @@ Text:
 ##For next week (due on Wednesday)
 
 * Reading: (to come)
-* Code Academy: "HTML Basics", "HTML Basics II", and "HTML Basics III"
+* (link: https://www.codecademy.com/en/tracks/web text: Codecademy): "HTML Basics", "HTML Basics II", and "HTML Basics III"
 * Start (project: P1) by finding your text and experimenting where you could republish it
 
 ----
