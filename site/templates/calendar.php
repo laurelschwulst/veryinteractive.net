@@ -29,6 +29,8 @@
             <?php endforeach ?>
         </ul>
 
+        <?php snippet('projects-list') ?>
+
     </div>
 
 </div>
