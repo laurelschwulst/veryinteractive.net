@@ -20,7 +20,7 @@ fields:
     width: 1/3
   year:
     label: Year
-    type:  number
+    type:  text
     width: 1/3
   further_authors:
     label: Further authorship credits

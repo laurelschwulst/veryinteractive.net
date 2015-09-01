@@ -2,7 +2,7 @@ $(document).ready(function(){
 	
 	/* MAKE ANCHOR LINKS SMOOTHLY SCROLL */
 
-	$('a.anchor').click(function(){
+	$('a.anchor, .footnotereverse a, sup.footnote a').click(function(){
 	    $('html, body').animate({
 	        scrollTop: $( $(this).attr('href') ).offset().top
 	    }, 500);

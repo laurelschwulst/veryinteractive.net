@@ -13,8 +13,8 @@
 
 		<h1><?php echo $page->title()->html() ?><?php echo $page->subtitle()->html() ?></h1>
 
-		<span class="byline"><?php echo $page->author_first()->html() ?> <?php echo $page->author_last()->html() ?></span>,
-		<span class="year"><?php echo $page->year()->html() ?></span>
+		<span class="byline"><?php echo $page->author_first()->html() ?> <?php echo $page->author_last()->html() ?></span><?php if(!$page->year()->empty()): ?>,
+		<span class="year"><?php echo $page->year()->html() ?></span><?php endif ?>
 
 		<div class="byline-extra"><?php echo $page->further_authors()->html() ?></div>
 

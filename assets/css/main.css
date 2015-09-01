@@ -120,7 +120,8 @@ footer a:hover {
 .caption, figcaption,
 .text .notes,
 .text blockquote,
-.document {
+.document,
+#footnotes {
   font-family: "Times New Roman", Times, serif;
   font-size: 19px;
   line-height: 1.2;
@@ -350,6 +351,25 @@ a.top-link:hover {
   margin-bottom: 56px;
 }
 
+sup.footnote {
+  font-size: 19px;
+  line-height: 1.2;
+}
+
+#footnotes {
+  margin-top: 56px;
+  max-width: 640px;
+}
+
+#footnotes li {
+  margin-bottom: 1em;
+}
+
+.footnotereverse a,
+.footnotereverse a:hover {
+  background: none;
+}
+
 /* INDIVIDUAL TEXT
 --------------------------------------------------------- */
 
@@ -519,8 +539,8 @@ ul.calendar .body {
 
 .projects-start-end {
   position: absolute;
-  width: 200px;
-  right: -200px;
+  width: 100px;
+  right: -100px;
   top: 16px;
 }
 
@@ -548,6 +568,10 @@ footer .source {
 
 /* MEDIA QUERIES
 --------------------------------------------------------- */
+
+@media screen and (max-width: 880px) {
+  .projects-start-end { display: none; }
+}
 
 @media screen and (max-width: 810px) {
   .document-side { display: none; }

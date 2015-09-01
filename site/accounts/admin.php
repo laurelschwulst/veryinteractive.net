@@ -7,8 +7,8 @@ password: >
 language: en
 role: admin
 history:
+  - library/interview-excerpts
   - calendar/1
   - syllabus
   - resources
   - projects/living-aggregator
-  - projects/css-typeface
