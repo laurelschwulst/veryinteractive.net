@@ -6,12 +6,16 @@ Dates: Mon Oct 19 & Wed Oct 21
 
 ----
 
-Text: To come
+Text: 
+
+##Monday
+
+* Presentations by [1] Emely [2] Nanfang
 
 ----
 
-Project-start: P3
+Project-start: 
 
 ----
 
-Project-end: P2
+Project-end: 

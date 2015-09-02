@@ -6,4 +6,16 @@ Dates: Mon Nov 23 & Wed Nov 25
 
 ----
 
-Text: To come
+Text: 
+
+##Monday
+
+* Presentation by [2] Heike
+
+----
+
+Project-start: 
+
+----
+
+Project-end: 

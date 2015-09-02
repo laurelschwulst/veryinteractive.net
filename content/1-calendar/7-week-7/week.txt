@@ -6,4 +6,16 @@ Dates: Mon Oct 12 & Wed Oct 14
 
 ----
 
-Text: To come
+Text: 
+
+##Monday
+
+* Presentations by [1] Alfonso [2] Jared
+
+----
+
+Project-start: 
+
+----
+
+Project-end: 

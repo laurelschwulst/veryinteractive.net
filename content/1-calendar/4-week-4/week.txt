@@ -10,6 +10,7 @@ Text:
 
 ##Monday
 
+* Presentations by [1] Ryan [2] Kelly
 * Final critique on (project: P1)
 
 ##Wednesday
@@ -22,7 +23,7 @@ To come
 
 ----
 
-Project-start: P2
+Project-start: 
 
 ----
 

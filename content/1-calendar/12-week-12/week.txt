@@ -6,4 +6,16 @@ Dates: Mon Nov 16 & Wed Nov 18
 
 ----
 
-Text: To come
+Text: 
+
+##Monday
+
+* Presentation by [2] Yasmeen
+
+----
+
+Project-start: 
+
+----
+
+Project-end: 

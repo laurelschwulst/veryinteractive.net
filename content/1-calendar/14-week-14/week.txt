@@ -6,7 +6,11 @@ Dates: Mon Nov 30 & Wed Dec 1
 
 ----
 
-Text: To come
+Text: 
+
+##Monday
+
+* Presentation by [2] Kianna
 
 ----
 
@@ -14,4 +18,4 @@ Project-start:
 
 ----
 
-Project-end: P4
+Project-end: 

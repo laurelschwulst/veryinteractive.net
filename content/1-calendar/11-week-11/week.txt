@@ -6,12 +6,16 @@ Dates: Mon Nov 9 & Wed Nov 11
 
 ----
 
-Text: To come
+Text: 
+
+##Monday
+
+* Presentations by [1] Chin Hwa [2] Lauren
 
 ----
 
-Project-start: P4
+Project-start: 
 
 ----
 
-Project-end: P3
+Project-end: 

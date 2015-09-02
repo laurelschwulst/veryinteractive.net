@@ -4,6 +4,8 @@ Dates: Mon Aug 31 & Wed Sept 2
 
 Text: 
 
+(link: https://docs.google.com/document/d/10KFWMto8MSQ99HsSst58N05hIT_V4GtO805aHZUjiO0/edit?usp=sharing text: Week 1 Google Doc)
+
 ##Monday
 
 * Hand out syllabus, survey, and quiz
@@ -25,23 +27,6 @@ Read your assigned chapter of Italo Calvino's *(link: library/six-memos-for-the-
 * When you are done with your class homepage, paste link in Google Doc
 * Work in class on Codecademy
 
-##For next week
-
-Reading
-
-(image: content/6-library/8-post-internet-excerpts/cover-mchugh.jpg class:reading)
-(link: content/6-library/8-post-internet-excerpts/mchugh-020810b.pdf  text: February 8, 2010) and (link: content/6-library/8-post-internet-excerpts/mchugh-072310.pdf text: July 23, 2010) from Post Internet by Gene McHugh, 2010
-
-(image: content/6-library/1-spirit-surfing/purekev.gif class:reading)
-(link: content/6-library/1-spirit-surfing/bewersdorf-spiritsurfing.pdf text:Spirit Surfing) by Kevin Bewersdorf, 2008
-
-(image: content/6-library/7-change-over-time/whitney3_1258.jpg class:reading)
-(link: http://www.linkedbyair.net/Change text:Change Over Time) by Dan Michaelson, 2012
-
-Finish (link: https://www.codecademy.com/en/tracks/web text: Codecademy) lessons: HTML Basics I, HTML Basics II, HTML Basics III
-
-Start (project: P1) by finding your text and experimenting where you could republish it
-
 ----
 
 Title: Week 1
@@ -53,7 +38,3 @@ Project-start: P1
 ----
 
 Project-end: 
-
-----
-
-Current: 1

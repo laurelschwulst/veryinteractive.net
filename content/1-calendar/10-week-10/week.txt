@@ -6,4 +6,16 @@ Dates: Mon Nov 2 & Wed Nov 4
 
 ----
 
-Text: To come
+Text: 
+
+##Monday
+
+* Presentations by [1] Yaqi [2] Janice
+
+----
+
+Project-start: 
+
+----
+
+Project-end: 
