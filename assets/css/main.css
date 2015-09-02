@@ -544,6 +544,16 @@ ul.calendar .body {
   top: 16px;
 }
 
+.current-week {
+  position: absolute;
+  width: 80px;
+  height: 54px;
+  left: -100px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+}
+
 figure.reading {
   margin-bottom: -0.75em;
 }
