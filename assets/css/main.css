@@ -562,8 +562,8 @@ figure.reading {
   max-width: 175px;
 }
 
-.this-is-a-test {
-  
+ul.calendar figure {
+  margin: 1em 0;
 }
 
 
