@@ -1,46 +1,0 @@
-Title: Living Aggregator
-
-----
-
-Project-code: P4
-
-----
-
-Color: #41bd22
-
-----
-
-Text: 
-
-## Instructions
-
-Make an aggregator that is alive. To do this, you will make use of an external data source in a way the source didn’t originally expect. In other words, your project should render a dead source alive, dependent on your treatment of the data.
-
-## Examples
-*(link: https://chrome.google.com/webstore/detail/craigslist-assisted-ready/mljomhgealchkbdmladniogahbefajcd text:Craigslist-Assisted Readymade)* by Adriana Ramić, 2011 
-“Randomly chooses an American region and 3 of its free items every 8 seconds.”  
-
-*(link: http://www.linkedbyair.net/PradaDataman text:Dataman)* by Linked by Air for 2x4, 2007 
-“Dataman is a lifesize 3D rendering of two walking runway models projected onto glass in Prada’s Los Angeles store. In keeping with the store’s themes of celebrity culture and narcissism, each day’s celebrity news headlines appear as a realtime ‘event garment’ on the 3D renderings.”
-
-*(link:https://twitter.com/TwoHeadlines text:Two Headlines)* by Darius Kazemi, 2013 
-“Mashes two headlines about different things together. Updates hourly.”
-
-## Means
-
-You will do this by creating and then using your own bespoke API. API, or application program interface, is a set of tools that allow programmers to use specific data sources. For example, Twitter, Instagram, Dropbox, Google Maps all have APIs that make it easy for programmers to make their own applications using their data. For the purposes of this project, we will use a new service called Kimono Labs (kimonolabs.com) that easily lets users create their own APIs and then integrate them with existing HTML, CSS, and jQuery. 
-
-
-## Schedule
-
-(underline: Step 1. Sketching )
-While it is important that this project “works”, it is first important to have a good idea and to sketch it out before fully programming so that you can communicate your idea to the class. Please make an InDesign sketch of your website before programming it completely.
-
-(underline: Step 2. Hard-coded mockup)
-After you know what you want to do, code a static HTML/CSS page from your InDesign sketch. It will not be dynamic, but it will contain an example of data you expect to present.
-
-(underline: Step 3. Programming )
-Create your own custom API on kimonolabs.com. I will show a demo on how to do this.
-
-(underline: Step 4. Presenting )
-When it is time to present your project, please have both your programmed piece and a backup plan. Your backup plan should be a thoughtful PDF or Keynote presentation containing your sketches to show your design intent. As Dan Michaelson of Linked by Air said, “It’s a natural part of this kind of work that there is a gap between implementation and aspiration. It’s important to show that gap in a beautiful, compelling way that can inspire others to understand where the project is going, or lead them to that destination. Practice showing this presentation so that it is smooth.” 
