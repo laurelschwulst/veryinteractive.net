@@ -28,7 +28,7 @@ fields:
     width: 1
   download_sentence:
     label: Download sentence
-    type:  text
+    type:  textarea
     help: e.g. Download video colon link or Link to article colon link
     width: 1
   further_metadata:
