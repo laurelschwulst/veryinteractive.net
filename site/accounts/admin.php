@@ -7,8 +7,8 @@ password: >
 language: en
 role: admin
 history:
+  - workshops/name-generator
   - projects/variations
   - calendar/1
   - library/interview-excerpts
   - syllabus
-  - resources
