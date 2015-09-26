@@ -580,6 +580,32 @@ footer .source {
 }
 
 
+/* WORKSHOP
+--------------------------------------------------------- */
+
+#naming-workshop {
+   width: 60px;
+   height: 82px;
+   position: fixed;
+   left: 33%;
+   bottom: 8%;
+   z-index: 7;
+   border: 1px solid #000;
+   -webkit-border-radius: 63px 63px 63px 63px / 108px 108px 72px 72px;
+   border-radius:         50%  50%  50%  50%  / 60%   60%   40%  40%;
+   background: #BEC6C9;
+   transition: .5s background ease-out;
+  -webkit-transition: .5s background ease-out;
+  -moz-transition: .5s background ease-out;
+  -o-transition: .5s background ease-out;
+}
+
+#naming-workshop:hover {
+  background: #fff;
+}
+
+
+
 /* MEDIA QUERIES
 --------------------------------------------------------- */
 
