@@ -23,7 +23,7 @@
                     </div>
                     <?php if($week->current() == '1'): ?>
                     <div class="current-week">
-                        <img src="assets/images/arrows/arrow03.gif">
+                        <img src="assets/images/arrows/arrow08.gif">
                     </div>
                     <?php endif ?>
                 </div>
