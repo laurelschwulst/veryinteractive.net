@@ -27,5 +27,22 @@ $(document).ready(function(){
 	$('ul.calendar .title').click(function(){
 		$(this).closest('li').find('.body').slideToggle('fast');
 	});
+
+	/* SHUFFLE REORDER LIST ABOVE */
+
+	$('a.shuffle').click(function(){
+		/* get html paragraph into array and shuffle it */
+		var w = $(this).closest('p').prev();
+		var x = w.text();
+		var y = x.split('\n');
+		var z = y.sort(function() { return 0.5 - Math.random() });
+		console.log("this is first array: " + z);
+
+		/* take new shuffled array and put it back into html paragraph */
+		var zz = z.reverse().join('<br />');
+		console.log("this is second array: " + zz);
+		w.html('<p>' + zz + '</p>');
+		$(this).fadeOut('fast');
+	});
 	
 });
