@@ -580,7 +580,7 @@ footer .source {
 }
 
 
-/* WORKSHOP
+/* WORKSHOP and SPECIAL HOMEPAGE THINGS
 --------------------------------------------------------- */
 
 #naming-workshop {
@@ -604,6 +604,40 @@ footer .source {
   background: #fff;
 }
 
+#coding-from-life {
+  width: 80px;
+  height: 80px;
+  position: fixed;
+  top: 80px;
+  right: 25px;
+  z-index: 7;
+  border: 1px solid #000;
+  background: #BEC6C9;
+  transition: .5s background ease-out;
+  -webkit-transition: .5s background ease-out;
+  -moz-transition: .5s background ease-out;
+  -o-transition: .5s background ease-out;
+}
+
+#coding-from-life:before {
+  border-left: 1px solid black;
+  height: 80px;
+  left: 50%;
+  position:absolute;
+  content:'';
+}
+
+#coding-from-life:after {
+  border-top: 1px solid black;
+  width: 80px;
+  top: 50%;
+  position:absolute;
+  content:'';
+}
+
+#coding-from-life:hover {
+  background: #fff;
+}
 
 /* SHUFFLE
 --------------------------------------------------------- */
