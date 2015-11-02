@@ -3,7 +3,7 @@
 
 <div id="town"></div>
 
-<a href="workshops/name-generator">
+<a href="content/name-generator">
 	<div id="naming-workshop"></div>
 </a>
 
