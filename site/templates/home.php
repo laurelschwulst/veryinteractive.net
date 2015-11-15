@@ -3,11 +3,11 @@
 
 <div id="town"></div>
 
-<a href="content/name-generator">
+<a href="content/pages/name-generator">
 	<div id="naming-workshop"></div>
 </a>
 
-<a href="content/coding-from-life/">
+<a href="content/pages/coding-from-life/">
 	<div id="coding-from-life"></div>
 </a>
 
