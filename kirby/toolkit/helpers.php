@@ -64,9 +64,9 @@ function param($key = null, $default = null) {
 /**
  * Smart version of return with an if condition as first argument
  *
- * @param boolean $condition
- * @param string $value The string to be returned if the condition is true
- * @param string $alternative An alternative string which should be returned when the condition is false
+ * @param mixed $condition
+ * @param mixed $value The string to be returned if the condition is true
+ * @param mixed $alternative An alternative string which should be returned when the condition is false
  * @return null
  */
 function r($condition, $value, $alternative = null) {
@@ -76,9 +76,9 @@ function r($condition, $value, $alternative = null) {
 /**
  * Smart version of echo with an if condition as first argument
  *
- * @param boolean $condition
- * @param string $value The string to be echoed if the condition is true
- * @param string $alternative An alternative string which should be echoed when the condition is false
+ * @param mixed $condition
+ * @param mixed $value The string to be echoed if the condition is true
+ * @param mixed $alternative An alternative string which should be echoed when the condition is false
  */
 function e($condition, $value, $alternative = null) {
   echo r($condition, $value, $alternative);
@@ -109,7 +109,7 @@ function dump($variable, $echo = true) {
   } else {
     $output = '<pre>' . print_r($variable, true) . '</pre>';
   }
-  if($echo == true) echo $output;
+  if($echo === true) echo $output;
   return $output;
 }
 
@@ -327,10 +327,10 @@ function invalid($data, $rules, $messages = array()) {
     foreach($validations as $method => $options) {
       if(is_numeric($method)) $method = $options;
       if($method == 'required') {
-        if(!isset($data[$field]) or (empty($data[$field]) and $data[$field] !== 0)) {
+        if(!isset($data[$field]) || (empty($data[$field]) && $data[$field] !== 0)) {
           $errors[$field] = a::get($messages, $field, $field);
         }
-      } else if(!empty($data[$field]) or $data[$field] === 0) {
+      } else if(!empty($data[$field]) || $data[$field] === 0) {
         if(!is_array($options)) $options = array($options);
         array_unshift($options, a::get($data, $field));
         if(!call(array('v', $method), $options)) {

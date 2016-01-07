@@ -4,6 +4,10 @@
 
     return this.each(function() {
 
+      if($(this).data('pikaday')) {
+        return $(this);
+      }
+
       var input  = $(this).attr('type', 'text');
       var hidden = input.next();
       var format = input.data('format');
@@ -12,6 +16,12 @@
 
       input.attr('placeholder', format);
       input.val(date);
+
+      // don't initialize the datepicker on readonly fields
+      if(input.is('[readonly]')) {
+        return false;
+      }
+
       input.on('change', function() {
         var val = input.val();
         if(val) {
@@ -21,7 +31,7 @@
         }
       });
 
-      new Pikaday({
+      var pikaday = new Pikaday({
         field    : this,
         firstDay : 1,
         format   : format,
@@ -30,6 +40,8 @@
           hidden.val(moment(date).format('YYYY-MM-DD'));
         }
       });
+
+      $(this).data('pikaday', pikaday);
 
     });
 

@@ -14,7 +14,7 @@
  */
 class Str {
 
-  static public $ascii = array(
+  public static $ascii = array(
     '/Ä/' => 'Ae',
     '/æ|ǽ|ä/' => 'ae',
     '/œ|ö/' => 'oe',
@@ -108,7 +108,7 @@ class Str {
    * @param  boolean $keepTags True: lets stuff inside html tags untouched.
    * @return string  The html string
    */
-  static public function html($string, $keepTags = true) {
+  public static function html($string, $keepTags = true) {
     return html::encode($string, $keepTags);
   }
 
@@ -125,7 +125,7 @@ class Str {
    * @param  string  $string
    * @return string  The html string
    */
-  static public function unhtml($string) {
+  public static function unhtml($string) {
     return html::decode($string);
   }
 
@@ -145,7 +145,7 @@ class Str {
    * @param  boolean $html True: convert to html first
    * @return string
    */
-  static public function xml($text, $html = true) {
+  public static function xml($text, $html = true) {
     return xml::encode($text, $html);
   }
 
@@ -164,7 +164,7 @@ class Str {
    * @param  string  $string
    * @return string
    */
-  static public function unxml($string) {
+  public static function unxml($string) {
     return xml::decode($string);
   }
 
@@ -197,28 +197,23 @@ class Str {
    *
    * @param  string  $string
    * @param  string  $mode
-   * @return string
+   * @return mixed
    */
-  static public function parse($string, $mode = 'json') {
+  public static function parse($string, $mode = 'json') {
 
-    if(is_array($string) or is_object($string)) return $string;
+    if(is_array($string) || is_object($string)) return $string;
 
     switch($mode) {
       case 'json':
         return (array)@json_decode($string, true);
-        break;
       case 'xml':
         return xml::parse($string);
-        break;
       case 'url':
         return (array)@parse_url($string);
-        break;
       case 'php':
         return @unserialize($string);
-        break;
       default:
         return $string;
-        break;
     }
 
   }
@@ -229,7 +224,7 @@ class Str {
    * @param  string  $string
    * @return string
    */
-  static public function encode($string) {
+  public static function encode($string) {
     $string  = (string)$string;
     $encoded = '';
     for($i=0; $i < static::length($string); $i++) {
@@ -248,12 +243,12 @@ class Str {
    *
    * </code>
    *
-   * @param string $href The url for the a tag
+   * @param string $email The url for the a tag
    * @param mixed $text The optional text. If null, the url will be used as text
    * @param array $attr Additional attributes for the tag
    * @return string the generated html
    */
-  static public function email($email, $text = false, $attr = array()) {
+  public static function email($email, $text = false, $attr = array()) {
     return html::email($email, $text, $attr);
   }
 
@@ -265,7 +260,7 @@ class Str {
    * @param array $attr Additional attributes for the tag
    * @return string the generated html
    */
-  static public function link($href, $text = null, $attr = array()) {
+  public static function link($href, $text = null, $attr = array()) {
     return html::a($href, $text, $attr);
   }
 
@@ -274,7 +269,7 @@ class Str {
    *
    * @param string $string
    */
-  static public function words($string) {
+  public static function words($string) {
     preg_match_all('/(\pL{4,})/iu', $string, $m);
     return array_shift($m);
   }
@@ -285,7 +280,7 @@ class Str {
    * @param string $string
    * @return string
    */
-  static public function sentences($string) {
+  public static function sentences($string) {
     return preg_split('/(?<=[.?!])\s+/', $string, -1, PREG_SPLIT_NO_EMPTY);
   }
 
@@ -295,7 +290,7 @@ class Str {
    * @param string $string
    * @return array
    */
-  static public function lines($string) {
+  public static function lines($string) {
     return str::split($string, PHP_EOL);
   }
 
@@ -305,7 +300,7 @@ class Str {
    * @param string $string
    * @return boolean
    */
-  static public function isURL($string) {
+  public static function isURL($string) {
     return filter_var($string, FILTER_VALIDATE_URL);
   }
 
@@ -323,11 +318,11 @@ class Str {
    * </code>
    *
    * @param  string  $string The string to be shortened
-   * @param  int     $chars The final number of characters the string should have
+   * @param  int     $length The final number of characters the string should have
    * @param  string  $rep The element, which should be added if the string is too long. Ellipsis is the default.
    * @return string  The shortened string
    */
-  static public function short($string, $length, $rep = '…') {
+  public static function short($string, $length, $rep = '…') {
     if(!$length) return $string;
     if(static::length($string) <= $length) return $string;
     $string = static::substr($string, 0, $length);
@@ -344,7 +339,7 @@ class Str {
    * @param  string  $rep The element, which should be added if the string is too long. Ellipsis is the default.
    * @return string  The shortened string
    */
-  static public function excerpt($string, $chars = 140, $removehtml = true, $rep='…') {
+  public static function excerpt($string, $chars = 140, $removehtml = true, $rep='…') {
     if($removehtml) $string = strip_tags($string);
     $string = str_replace(PHP_EOL, ' ', trim($string));
     if(static::length($string) <= $chars) return $string;
@@ -359,7 +354,7 @@ class Str {
    * @param string $string
    * @return string
    */
-  static public function widont($string = '') {
+  public static function widont($string = '') {
     return preg_replace_callback('|([^\s])\s+([^\s]+)\s*$|', function($matches) {
       if(str::contains($matches[2], '-')) {
         return $matches[1] . ' ' . str_replace('-', '&#8209;', $matches[2]);
@@ -377,8 +372,8 @@ class Str {
    * @param  int     $length
    * @return string
    */
-  static public function substr($str, $start, $length = null) {
-    return MB ? mb_substr($str, $start, $length == null ? static::length($str) : $length, 'UTF-8') : substr($str, $start, $length);
+  public static function substr($str, $start, $length = null) {
+    return MB ? mb_substr($str, $start, $length === null ? static::length($str) : $length, 'UTF-8') : substr($str, $start, $length);
   }
 
   /**
@@ -387,7 +382,7 @@ class Str {
    * @param  string  $str
    * @return string
    */
-  static public function lower($str) {
+  public static function lower($str) {
     return MB ? mb_strtolower($str, 'UTF-8') : strtolower($str);
   }
 
@@ -397,7 +392,7 @@ class Str {
    * @param  string  $str
    * @return string
    */
-  static public function upper($str) {
+  public static function upper($str) {
     return MB ? mb_strtoupper($str, 'UTF-8') : strtoupper($str);
   }
 
@@ -407,7 +402,7 @@ class Str {
    * @param  string  $str
    * @return string
    */
-  static public function length($str) {
+  public static function length($str) {
     return MB ? mb_strlen($str, 'UTF-8') : strlen($str);
   }
 
@@ -419,7 +414,7 @@ class Str {
    * @param  boolean $i ignore upper/lowercase
    * @return string
    */
-  static public function contains($str, $needle, $i = true) {
+  public static function contains($str, $needle, $i = true) {
     if($i) {
       $str    = static::lower($str);
       $needle = static::lower($needle);
@@ -433,7 +428,7 @@ class Str {
    * @param  int  $length The length of the random string
    * @return string
    */
-  static public function random($length = false, $type = 'alphaNum') {
+  public static function random($length = false, $type = 'alphaNum') {
     $length = $length ? $length : rand(5,10);
     $pool   = static::pool($type);
     shuffle($pool);
@@ -448,24 +443,24 @@ class Str {
   /**
    * Convert a string to a safe version to be used in a URL
    *
-   * @param  string  $text The unsafe string
+   * @param  string  $string The unsafe string
    * @param  string  $separator To be used instead of space and other non-word characters.
    * @return string  The safe string
    */
-  static public function slug($string, $separator = '-', $allowed = 'a-z0-9') {
+  public static function slug($string, $separator = '-', $allowed = 'a-z0-9') {
 
     $string = trim($string);
     $string = static::lower($string);
     $string = static::ascii($string);
 
     // replace spaces with simple dashes
-    $string = preg_replace('![^' . $allowed . ']!i','-', $string);
+    $string = preg_replace('![^' . $allowed . ']!i', $separator, $string);
     // remove double dashes
-    $string = preg_replace('![-]{2,}!','-', $string);
+    $string = preg_replace('![' . preg_quote($separator) . ']{2,}!', $separator, $string);
     // trim trailing and leading dashes
-    $string = trim($string, '-');
+    $string = trim($string, $separator);
     // replace slashes with dashes
-    $string = str_replace('/', '-', $string);
+    $string = str_replace('/', $separator, $string);
 
     return $string;
 
@@ -482,7 +477,7 @@ class Str {
    * @param  int     $length The min length of values.
    * @return array   An array of found values
    */
-  static public function split($string, $separator = ',', $length = 1) {
+  public static function split($string, $separator = ',', $length = 1) {
 
     if(is_array($string)) return $string;
 
@@ -492,7 +487,7 @@ class Str {
 
     foreach($parts AS $p) {
       $p = trim($p);
-      if(static::length($p) > 0 and static::length($p) >= $length) $out[] = $p;
+      if(static::length($p) > 0 && static::length($p) >= $length) $out[] = $p;
     }
 
     return $out;
@@ -505,7 +500,7 @@ class Str {
    * @param  string  $string
    * @return string
    */
-  static public function ucwords($string) {
+  public static function ucwords($string) {
     return MB ? mb_convert_case($string, MB_CASE_TITLE, 'UTF-8') : ucwords(strtolower($string));
   }
 
@@ -515,7 +510,7 @@ class Str {
    * @param  string $string
    * @return string
    */
-  static public function ucfirst($string) {
+  public static function ucfirst($string) {
     return static::upper(static::substr($string, 0, 1)) . static::lower(static::substr($string, 1));
   }
 
@@ -525,7 +520,7 @@ class Str {
    * @param string $string
    * @return string
    */
-  static public function encoding($string) {
+  public static function encoding($string) {
 
     if(MB) {
       return mb_detect_encoding($string, 'UTF-8, ISO-8859-1, windows-1251');
@@ -546,7 +541,7 @@ class Str {
    * @param string $sourceEncoding (optional)
    * @return string
    */
-  static public function convert($string, $targetEncoding, $sourceEncoding = null) {
+  public static function convert($string, $targetEncoding, $sourceEncoding = null) {
     // detect the source encoding if not passed as third argument
     if(is_null($sourceEncoding)) $sourceEncoding = static::encoding($string);
     return iconv($sourceEncoding, $targetEncoding, $string);
@@ -558,7 +553,7 @@ class Str {
    * @param  string  $string
    * @return string
    */
-  static public function utf8($string) {
+  public static function utf8($string) {
     return static::convert($string, 'utf-8');
   }
 
@@ -568,7 +563,7 @@ class Str {
    * @param  string  $string
    * @return string
    */
-  static public function stripslashes($string) {
+  public static function stripslashes($string) {
     if(is_array($string)) return $string;
     return get_magic_quotes_gpc() ? stripslashes($string) : $string;
   }
@@ -578,10 +573,10 @@ class Str {
    * which replaces tags like {mytag} with any other string
    *
    * @param  string $string
-   * @param  array  $replace An associative array with keys, which should be replaced and values.
+   * @param  array  $data An associative array with keys, which should be replaced and values.
    * @return string
    */
-  static public function template($string, $data = array()) {
+  public static function template($string, $data = array()) {
     $replace = array();
     foreach($data as $key => $value) $replace['{' . $key . '}'] = $value;
     return str_replace(array_keys($replace), array_values($replace), $string);
@@ -593,7 +588,7 @@ class Str {
    * @param  string  $string
    * @return string
    */
-  static public function ascii($string) {
+  public static function ascii($string) {
     $foreign = static::$ascii;
     $string  = preg_replace(array_keys($foreign), array_values($foreign), $string);
     return preg_replace('/[^\x09\x0A\x0D\x20-\x7E]/', '', $string);
@@ -605,7 +600,7 @@ class Str {
    * @param string $string
    * @param string $name Optional name for the downloaded file
    */
-  static public function download($string, $name = null) {
+  public static function download($string, $name = null) {
 
     header::download(array(
       'name' => $name ? $name : 'text.txt',
@@ -624,8 +619,8 @@ class Str {
    * @param string $needle
    * @return boolean
    */
-  static public function startsWith($string, $needle) {
-    return $needle === '' or strpos($string, $needle) === 0;
+  public static function startsWith($string, $needle) {
+    return $needle === '' || strpos($string, $needle) === 0;
   }
 
   /**
@@ -635,8 +630,8 @@ class Str {
    * @param string $needle
    * @return boolean
    */
-  static public function endsWith($string, $needle) {
-    return $needle === '' or static::substr($string, -static::length($needle)) === $needle;
+  public static function endsWith($string, $needle) {
+    return $needle === '' || static::substr($string, -static::length($needle)) === $needle;
   }
 
   /**
@@ -646,7 +641,7 @@ class Str {
    * @param  boolean $array
    * @return string
    */
-  static public function pool($type, $array = true) {
+  public static function pool($type, $array = true) {
 
     $pool = array();
 

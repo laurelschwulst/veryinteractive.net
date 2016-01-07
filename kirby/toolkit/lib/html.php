@@ -18,7 +18,7 @@ class Html {
    *
    * @return array
    */
-  static public $entities = array(
+  public static $entities = array(
     '&nbsp;' => '&#160;', '&iexcl;' => '&#161;', '&cent;' => '&#162;', '&pound;' => '&#163;', '&curren;' => '&#164;', '&yen;' => '&#165;', '&brvbar;' => '&#166;', '&sect;' => '&#167;',
     '&uml;' => '&#168;', '&copy;' => '&#169;', '&ordf;' => '&#170;', '&laquo;' => '&#171;', '&not;' => '&#172;', '&shy;' => '&#173;', '&reg;' => '&#174;', '&macr;' => '&#175;',
     '&deg;' => '&#176;', '&plusmn;' => '&#177;', '&sup2;' => '&#178;', '&sup3;' => '&#179;', '&acute;' => '&#180;', '&micro;' => '&#181;', '&para;' => '&#182;', '&middot;' => '&#183;',
@@ -59,7 +59,7 @@ class Html {
    * @param string $tag
    * @return param
    */
-  static public function isVoid($tag) {
+  public static function isVoid($tag) {
 
     $void = array(
       'area', 
@@ -89,7 +89,7 @@ class Html {
    *
    * @return array
    */
-  static public function entities() {
+  public static function entities() {
     return static::$entities;
   }
 
@@ -100,9 +100,11 @@ class Html {
    * @param  boolean $keepTags True: lets stuff inside html tags untouched.
    * @return string  The html string
    */
-  static public function encode($string, $keepTags = true) {
+  public static function encode($string, $keepTags = true) {
     if($keepTags) {
-      return stripslashes(implode('', preg_replace_callback('/^([^<].+[^>])$/', create_function('$match', 'return htmlentities($match[1], ENT_COMPAT, "utf-8");'), preg_split('/(<.+?>)/', $string, -1, PREG_SPLIT_DELIM_CAPTURE))));
+      return stripslashes(implode('', preg_replace_callback('/^([^<].+[^>])$/', function($match) {
+        return htmlentities($match[1], ENT_COMPAT, 'utf-8');
+      }, preg_split('/(<.+?>)/', $string, -1, PREG_SPLIT_DELIM_CAPTURE))));
     } else {
       return htmlentities($string, ENT_COMPAT, 'utf-8');
     }
@@ -121,7 +123,7 @@ class Html {
    * @param  string  $string
    * @return string  The html string
    */
-  static public function decode($string) {
+  public static function decode($string) {
     $string = strip_tags($string);
     return html_entity_decode($string, ENT_COMPAT, 'utf-8');
   }
@@ -132,7 +134,7 @@ class Html {
    * @param string $string
    * @return string
    */
-  static public function breaks($string) {
+  public static function breaks($string) {
     return nl2br($string);
   }
 
@@ -144,7 +146,7 @@ class Html {
    * @param array $attr An associative array with additional attributes for the tag
    * @return string The generated Html
    */
-  static public function tag($name, $content = null, $attr = array()) {
+  public static function tag($name, $content = null, $attr = array()) {
 
     if(is_array($content)) {
       $attr    = $content;
@@ -173,7 +175,7 @@ class Html {
    * @param string $value if used for a single attribute, pass the content for the attribute here
    * @return string the generated html
    */
-  static public function attr($name, $value = null) {
+  public static function attr($name, $value = null) {
     if(is_array($name)) {
       $attributes = array();
       foreach($name as $key => $val) {
@@ -183,7 +185,7 @@ class Html {
       return implode(' ', $attributes);
     }
 
-    if(empty($value) and $value !== '0' and $value !== 0) {
+    if(empty($value) && $value !== '0' && $value !== 0) {
       return false;
     } else if(is_bool($value)) {
       return $value === true ? strtolower($name) : '';
@@ -201,7 +203,7 @@ class Html {
    * @param array $attr Additional attributes for the tag
    * @return string the generated html
    */
-  static public function a($href, $text = null, $attr = array()) {
+  public static function a($href, $text = null, $attr = array()) {
     $attr = array_merge(array('href' => $href), $attr);
     if(empty($text)) $text = $href;
     return static::tag('a', $text, $attr);
@@ -210,15 +212,18 @@ class Html {
   /**
    * Generates an "a mailto" tag
    *
-   * @param string $href The url for the a tag
+   * @param string $email The url for the a tag
    * @param mixed $text The optional text. If null, the url will be used as text
    * @param array $attr Additional attributes for the tag
    * @return string the generated html
    */
-  static public function email($email, $text = null, $attr = array()) {
-    $email = str::encode($email, 3);
+  public static function email($email, $text = null, $attr = array()) {
+    if(empty($text)) {
+      // show only the eMail address without additional parameters (if the 'text' argument is empty)
+      $text = str::encode(a::first(str::split($email, '?'))); 
+    }
+    $email = str::encode($email);
     $attr  = array_merge(array('href' => 'mailto:' . $email), $attr);
-    if(empty($text)) $text = $email;
     return static::tag('a', $text, $attr);
   }
 
@@ -229,7 +234,7 @@ class Html {
    * @param array $attr Additional attributes for the image tag
    * @return string the generated html
    */
-  static public function img($src, $attr = array()) {
+  public static function img($src, $attr = array()) {
     $attr = array_merge(array('src' => $src, 'alt' => pathinfo($src, PATHINFO_FILENAME)), $attr);
     return static::tag('img', null, $attr);
   }
@@ -239,7 +244,7 @@ class Html {
    *
    * @return string the generated html
    */
-  static public function shiv() {
+  public static function shiv() {
     return '<!--[if lt IE 9]>' . PHP_EOL .
            '<script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>' . PHP_EOL .
            '<![endif]-->' . PHP_EOL;

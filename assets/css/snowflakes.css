@@ -1,0 +1,31 @@
+#snowflakeContainer {
+    position: absolute;
+    top: 0;
+    right: 0;
+    left: 0;
+    bottom: 0;
+}
+
+.snowflake {
+    padding-left: 15px;
+    line-height: 24px;
+    position: fixed;
+    color: #FFFFFF;
+    user-select: none;
+    z-index: 1000;
+    pointer-events: none !important;
+    font-family: 'Inconsolata', courier new, courier;
+    opacity: 1 !important;
+    z-index: 1000;
+    -webkit-font-smoothing: antialiased;
+}
+
+.snowflake:hover {
+    cursor: default;
+}
+
+.container {
+    position: absolute;
+    left: 0;
+    right: 0;
+}

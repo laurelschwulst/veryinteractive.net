@@ -13,16 +13,16 @@
  */
 class Url {
 
-  static public $home    = '/';
-  static public $to      = null;
-  static public $current = null;
+  public static $home    = '/';
+  public static $to      = null;
+  public static $current = null;
 
-  static public function scheme($url = null) {
+  public static function scheme($url = null) {
     if(is_null($url)) {      
       if(
-        (isset($_SERVER['HTTPS']) and !empty($_SERVER['HTTPS']) and strtolower($_SERVER['HTTPS']) != 'off') or
-        server::get('SERVER_PORT')            == '443' or 
-        server::get('HTTP_X_FORWARDED_PORT')  == '443' or 
+        (isset($_SERVER['HTTPS']) && !empty($_SERVER['HTTPS']) && strtolower($_SERVER['HTTPS']) != 'off') ||
+        server::get('SERVER_PORT')            == '443' || 
+        server::get('HTTP_X_FORWARDED_PORT')  == '443' || 
         server::get('HTTP_X_FORWARDED_PROTO') == 'https'
       ) {
         return 'https';
@@ -39,7 +39,7 @@ class Url {
    *
    * @return string
    */
-  static public function current() {
+  public static function current() {
     if(!is_null(static::$current)) return static::$current;
     return static::$current = static::base() . server::get('REQUEST_URI');
   }
@@ -49,13 +49,13 @@ class Url {
    *
    * @return string
    */
-  static public function currentDir() {
+  public static function currentDir() {
     return dirname(static::current());
   }
 
   /**
    */
-  static public function host($url = null) {
+  public static function host($url = null) {
     if(is_null($url)) $url = static::current();
     return parse_url($url, PHP_URL_HOST);
   }
@@ -65,15 +65,16 @@ class Url {
    *
    * @return mixed
    */
-  static public function port($url = null) {
+  public static function port($url = null) {
     if(is_null($url)) $url = static::current();
-    return parse_url($url, PHP_URL_PORT);
+    $port = intval(parse_url($url, PHP_URL_PORT));
+    return v::between($port, 1, 65535) ? $port : false;
   }
 
   /**
    * Returns only the cleaned path of the url
    */
-  static public function path($url = null) {
+  public static function path($url = null) {
 
     if(is_null($url)) $url = static::current();
 
@@ -86,17 +87,27 @@ class Url {
   }
 
   /**
+   * Returns the correct separator for parameters
+   * depending on the operating system
+   * 
+   * @return string
+   */
+  public static function paramSeparator() {
+    return detect::windows() ? ';' : ':';
+  }
+
+  /**
    * Returns the params in the url
    */
-  static public function params($url = null) {
+  public static function params($url = null) {
     if(is_null($url)) $url = static::current();
     $path = static::path($url);
     if(empty($path)) return array();
     $params = array();
     foreach(explode('/', $path) as $part) {
-      $pos = strpos($part, ':');
+      $pos = strpos($part, static::paramSeparator());
       if($pos === false) continue;
-      $params[substr($part, 0, $pos)] = substr($part, $pos+1);
+      $params[substr($part, 0, $pos)] = urldecode(substr($part, $pos+1));
     }
     return $params;
   }
@@ -104,13 +115,13 @@ class Url {
   /**
    * Returns the path without params
    */
-  static public function fragments($url = null) {
+  public static function fragments($url = null) {
     if(is_null($url)) $url = static::current();
     $path = static::path($url);
     if(empty($path)) return null;
     $frag = array();
     foreach(explode('/', $path) as $part) {
-      if(strpos($part, ':') === false) $frag[] = $part;
+      if(strpos($part, static::paramSeparator()) === false) $frag[] = $part;
     }
     return $frag;
   }
@@ -118,7 +129,7 @@ class Url {
   /**
    * Returns the query as array
    */
-  static public function query($url = null) {
+  public static function query($url = null) {
     if(is_null($url)) $url = static::current();
     parse_str(parse_url($url, PHP_URL_QUERY), $array);
     return $array;
@@ -127,19 +138,19 @@ class Url {
   /**
    * Checks if the url contains a query string
    */
-  static public function hasQuery($url = null) {
+  public static function hasQuery($url = null) {
     if(is_null($url)) $url = static::current();
     return str::contains($url, '?');
   }
 
   /**
    */
-  static public function hash($url = null) {
+  public static function hash($url = null) {
     if(is_null($url)) $url = static::current();
     return parse_url($url, PHP_URL_FRAGMENT);
   }
 
-  static public function build($parts = array(), $url = null) {
+  public static function build($parts = array(), $url = null) {
 
     if(is_null($url)) $url = static::current();
 
@@ -164,29 +175,29 @@ class Url {
 
   }
 
-  static public function queryToString($query = null) {
+  public static function queryToString($query = null) {
     if(is_null($query)) $query = url::query();
     return http_build_query($query);
   }
 
-  static public function paramsToString($params = null) {
+  public static function paramsToString($params = null) {
     if(is_null($params)) $params = url::params();
     $result = array();
-    foreach($params as $key => $val) $result[] = $key . ':' . $val;
+    foreach($params as $key => $val) $result[] = $key . static::paramSeparator() . $val;
     return implode('/', $result);
   }
 
-  static public function stripPath($url = null) {
+  public static function stripPath($url = null) {
     if(is_null($url)) $url = static::current();
     return static::build(array('fragments' => array(), 'params' => array()), $url);
   }
 
-  static public function stripFragments($url = null) {
+  public static function stripFragments($url = null) {
     if(is_null($url)) $url = static::current();
     return static::build(array('fragments' => array()), $url);
   }
 
-  static public function stripParams($url = null) {
+  public static function stripParams($url = null) {
     if(is_null($url)) $url = static::current();
     return static::build(array('params' => array()), $url);
   }
@@ -204,7 +215,7 @@ class Url {
    * @param  string  $url
    * @return string
    */
-  static public function stripQuery($url = null) {
+  public static function stripQuery($url = null) {
     if(is_null($url)) $url = static::current();
     return static::build(array('query' => array()), $url);
   }
@@ -222,7 +233,7 @@ class Url {
    * @param  string  $url
    * @return string
    */
-  static public function stripHash($url) {
+  public static function stripHash($url) {
     if(is_null($url)) $url = static::current();
     return static::build(array('hash' => ''), $url);
   }
@@ -232,9 +243,9 @@ class Url {
    *
    * @return boolean
    */
-  static public function isAbsolute($url) {
+  public static function isAbsolute($url) {
     // don't convert absolute urls
-    return (str::startsWith($url, 'http://') or str::startsWith($url, 'https://') or str::startsWith($url, '//'));
+    return (str::startsWith($url, 'http://') || str::startsWith($url, 'https://') || str::startsWith($url, '//'));
   }
 
   /**
@@ -244,7 +255,7 @@ class Url {
    * @param string $home
    * @return string
    */
-  static public function makeAbsolute($path, $home = null) {
+  public static function makeAbsolute($path, $home = null) {
 
     if(static::isAbsolute($path)) return $path;
 
@@ -264,7 +275,7 @@ class Url {
    * @param string $url
    * @return string
    */
-  static public function fix($url) {
+  public static function fix($url) {
     // make sure to not touch absolute urls
     return (!preg_match('!^(https|http|ftp)\:\/\/!i', $url)) ? 'http://' . $url : $url;
   }
@@ -274,7 +285,7 @@ class Url {
    *
    * @return string
    */
-  static public function home() {
+  public static function home() {
     return static::$home;
   }
 
@@ -283,7 +294,7 @@ class Url {
    *
    * @return string
    */
-  static public function to() {
+  public static function to() {
     return call_user_func_array(static::$to, func_get_args());
   }
 
@@ -292,7 +303,7 @@ class Url {
    *
    * @return string
    */
-  static public function last() {
+  public static function last() {
     return r::referer();
   }
 
@@ -302,7 +313,7 @@ class Url {
    * @param string $url
    * @return string
    */
-  static public function base($url = null) {
+  public static function base($url = null) {
     if(is_null($url)) {
       $port = server::get('SERVER_PORT');
       $port = in_array($port, array(80, 443)) ? null : $port;
@@ -310,7 +321,7 @@ class Url {
     } else {
       $port   = static::port($url);
       $scheme = static::scheme($url);
-      $host   = static::host($url) . r($port, ':' . $port);
+      $host   = static::host($url) . r(is_int($port), ':' . $port);
       return r($scheme, $scheme . '://') . $host;      
     }
   }
@@ -327,12 +338,12 @@ class Url {
    * </code>
    *
    * @param  string  $url The URL to be shortened
-   * @param  int     $chars The final number of characters the URL should have
+   * @param  int     $length The final number of characters the URL should have
    * @param  boolean $base True: only take the base of the URL.
    * @param  string  $rep The element, which should be added if the string is too long. Ellipsis is the default.
    * @return string  The shortened URL
    */
-  static public function short($url, $length = false, $base = false, $rep = '…') {
+  public static function short($url, $length = false, $base = false, $rep = '…') {
 
     if($base) $url = static::base($url);
 
@@ -352,7 +363,7 @@ class Url {
    * 
    * @return string
    */
-  static public function index() {
+  public static function index() {
     if(r::cli()) {
       return '/';
     } else {

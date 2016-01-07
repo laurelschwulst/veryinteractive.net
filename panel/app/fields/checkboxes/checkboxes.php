@@ -8,10 +8,11 @@ class CheckboxesField extends RadioField {
     $input = parent::input($value);
     $input->replaceClass('radio', 'checkbox');
     $input->attr(array(
-      'name'    => $this->name() . '[]',
-      'type'    => 'checkbox',
-      'value'   => $value,
-      'checked' => in_array($value, (array)$this->value()),
+      'name'     => $this->name() . '[]',
+      'type'     => 'checkbox',
+      'value'    => $value,
+      'checked'  => ($this->value === 'all') ? true : in_array($value, (array)$this->value()),
+      'required' => false,
     ));
 
     return $input;
@@ -32,7 +33,7 @@ class CheckboxesField extends RadioField {
 
   public function result() {
     $result = parent::result();
-    return is_array($result) ? implode(', ', $result) : null;
+    return is_array($result) ? implode(', ', $result) : '';
   }
 
   public function item($value, $text) {

@@ -13,6 +13,7 @@
   <?php
 
     echo css('assets/css/main.css');
+    echo css('assets/css/snowflakes.css');
 
     $cssURI  = 'assets/css/' . $page->template() . '.css';
     $cssRoot = c::get('root') . '/' . $cssURI;
@@ -23,3 +24,7 @@
 
 </head>
 <body>
+
+  <div id="snowflakeContainer">
+    <p class="snowflake">*</p>
+  </div>

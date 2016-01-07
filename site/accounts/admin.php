@@ -7,8 +7,6 @@ password: >
 language: en
 role: admin
 history:
-  - projects/css-typeface
-  - people
-  - calendar/week-6
-  - workshops/name-generator
-  - projects/variations
+  - resources
+  - resources/sister-classes
+  - info
