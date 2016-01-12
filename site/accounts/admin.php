@@ -7,6 +7,6 @@ password: >
 language: en
 role: admin
 history:
+  - info
   - resources
   - resources/sister-classes
-  - info
