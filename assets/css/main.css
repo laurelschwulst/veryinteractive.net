@@ -149,6 +149,19 @@ footer .source,
   -webkit-font-smoothing: antialiased;
 }
 
+a.button {
+  background: white;
+  border-bottom: 1px solid white;
+  /*padding: 16px 20px;*/
+  display: inline-block;
+  margin: 0.5em 0;
+}
+
+a.button:hover {
+  background: white;
+  border-bottom: 1px solid white;
+}
+
 
 
 /* NAVIGATION
