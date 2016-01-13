@@ -11,7 +11,7 @@
       <?php endif ?>
     </li>
     <?php endforeach ?>
-    <a class="info-link" href="info"></a>
+    <!-- <a class="info-link" href="info"></a> -->
   </ul>
 
 </nav>

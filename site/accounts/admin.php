@@ -7,6 +7,8 @@ password: >
 language: en
 role: admin
 history:
+  - workshops/aaaa
   - info
-  - resources
-  - resources/sister-classes
+  - workshops/name-generator
+  - projects/css-typeface
+  - projects/living-aggregator

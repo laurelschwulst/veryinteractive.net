@@ -1,15 +1,11 @@
 <?php snippet('header') ?>
-<?php snippet('top-link') ?>
+<?php snippet('menu') ?>
 
 <div class="container">
 
-	<div class="document-side metadata">
-		<?php echo $page->metadata()->html() ?>
-	</div>
-
 	<div class="document">
-		<h1><?php echo $page->title()->html() ?></h1>
 		<?php echo $page->text()->kirbytext() ?>
+		<?php snippet('children-list') ?>
 	</div>
 
 </div>
