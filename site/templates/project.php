@@ -11,8 +11,8 @@
 
 <div class="container">
 
-	<div class="document-side project-code">
-		<?php echo $page->project_code()->html() ?>
+	<div class="document-side metadata">
+		<?php echo $page->metadata()->html() ?>
 	</div>
 
 	<div class="document">

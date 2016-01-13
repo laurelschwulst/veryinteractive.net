@@ -7,10 +7,11 @@ fields:
   title:
     label: Title
     type:  text
-  project_code:
-    label: Project code
+  Metadata:
+    label: Metadata
     type:  text
     width: 1/2
+    help: Such as what semester the project was given ("Fall 2020")
   color:
     label: Color
     type:  color
