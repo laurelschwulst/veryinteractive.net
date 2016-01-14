@@ -717,4 +717,14 @@ a.shuffle:hover {
     line-height: 1.2;
   }
 
+  #meta-bar .back-to-top {
+    text-align: center;
+    width: 100%;
+    padding: 17px 0;
+  }
+
+  #meta-bar .inside {
+    display: none;
+  }
+
 }
