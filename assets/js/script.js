@@ -11,16 +11,22 @@ $(document).ready(function(){
 
 	/* MAKE META BAR SIT AT BOTTOM IF IT'S A SHORT PAGE */
 
-	var window_height = $(window).height();
-	var document_height = $(document).height();
+	// $(window).load(function(){
 
-	if(document_height <= window_height) {
-		$('#meta-bar').addClass("bottom");
-	}
+		var window_height = $(window).height();
+		var document_height = $(document).height();
 
-	else {
-		$('#meta-bar .back-to-top').show();
-	}
+		if(document_height <= window_height) {
+			$('#meta-bar').addClass("bottom");
+		}
+
+		else {
+			$('#meta-bar .back-to-top').show();
+		}
+
+		$('#meta-bar').show();
+
+	// });
 
 	/* CALENDAR TOGGLE */
 

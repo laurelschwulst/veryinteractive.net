@@ -4,53 +4,53 @@
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="1200px" height="806.537px" viewBox="0 0 1200 806.537" enable-background="new 0 0 1200 806.537" xml:space="preserve">
 <rect fill="#BFC6C9" width="1200" height="805.562"/>
-<line vector-effect="non-scaling-stroke" fill="none" stroke="#000000" stroke-width="0.75" stroke-miterlimit="10" x1="1063.343" y1="232.363" x2="1200" y2="232.363"/>
-<line fill="none" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="0.75" stroke-miterlimit="10" x1="471.479" y1="232.363" x2="683.129" y2="232.363"/>
-<line fill="none" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="0.75" stroke-miterlimit="10" x1="194.988" y1="232.363" x2="310.494" y2="232.363"/>
-<path fill="none" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="0.75" stroke-miterlimit="10" d="M0,232.363"/>
-<path fill="none" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="0.75" stroke-miterlimit="10" d="M0,805.562"/>
-<path fill="none" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="0.75" stroke-miterlimit="10" d="M1200,805.562"/>
-<polyline fill="none" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="0.75" stroke-miterlimit="10" points="1202,805.562 1086.6,695.463 
+<line vector-effect="non-scaling-stroke" fill="none" stroke="#000000" stroke-width="1" stroke-miterlimit="10" x1="1063.343" y1="232.363" x2="1200" y2="232.363"/>
+<line fill="none" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="1" stroke-miterlimit="10" x1="471.479" y1="232.363" x2="683.129" y2="232.363"/>
+<line fill="none" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="1" stroke-miterlimit="10" x1="194.988" y1="232.363" x2="310.494" y2="232.363"/>
+<path fill="none" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="1" stroke-miterlimit="10" d="M0,232.363"/>
+<path fill="none" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="1" stroke-miterlimit="10" d="M0,805.562"/>
+<path fill="none" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="1" stroke-miterlimit="10" d="M1200,805.562"/>
+<polyline fill="none" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="1" stroke-miterlimit="10" points="1202,805.562 1086.6,695.463 
 	1200.993,695.463 "/>
-<polyline fill="none" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="0.75" stroke-miterlimit="10" points="279.9,470.363 351.5,470.363 0,805.562 
+<polyline fill="none" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="1" stroke-miterlimit="10" points="279.9,470.363 351.5,470.363 0,805.562 
 	"/>
-<line fill="none" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="0.75" stroke-miterlimit="10" x1="0" y1="400.363" x2="0" y2="470.363"/>
-<polyline fill="none" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="0.75" stroke-miterlimit="10" points="811.999,347.363 721.5,347.363 
+<line fill="none" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="1" stroke-miterlimit="10" x1="0" y1="400.363" x2="0" y2="470.363"/>
+<polyline fill="none" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="1" stroke-miterlimit="10" points="811.999,347.363 721.5,347.363 
 	601,232.363 424.9,400.363 279.9,400.363 "/>
-<polyline fill="none" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="0.75" stroke-miterlimit="10" points="1200.993,501.363 883,501.363 
+<polyline fill="none" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="1" stroke-miterlimit="10" points="1200.993,501.363 883,501.363 
 	760.9,384.863 811.999,384.863 "/>
-<polyline fill="none" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="0.75" stroke-miterlimit="10" points="680,235.363 779.2,140.263 
+<polyline fill="none" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="1" stroke-miterlimit="10" points="680,235.363 779.2,140.263 
 	841.676,223.375 "/>
-<polyline fill="none" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="0.75" stroke-miterlimit="10" points="812,332.363 737.8,332.363 
+<polyline fill="none" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="1" stroke-miterlimit="10" points="812,332.363 737.8,332.363 
 	737.8,242.363 823.837,242.363 "/>
-<polyline fill="none" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="0.75" stroke-miterlimit="10" points="738,242.363 680,235.363 679.8,283.063 
+<polyline fill="none" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="1" stroke-miterlimit="10" points="738,242.363 680,235.363 679.8,283.063 
 	737.8,332.363 "/>
 <g>
-	<path fill="none" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="0.75" stroke-miterlimit="10" d="M599,232.363"/>
+	<path fill="none" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="1" stroke-miterlimit="10" d="M599,232.363"/>
 </g>
-<polyline fill="none" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="0.75" stroke-miterlimit="10" points="279.9,310.363 60,108.363 0,195.463 "/>
-<polygon fill="none" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="0.75" stroke-miterlimit="10" points="279.9,496.363 110,636.363 
+<polyline fill="none" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="1" stroke-miterlimit="10" points="279.9,310.363 60,108.363 0,195.463 "/>
+<polygon fill="none" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="1" stroke-miterlimit="10" points="279.9,496.363 110,636.363 
 	109.9,366.363 279.9,310.363 "/>
-<polyline fill="none" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="0.75" stroke-miterlimit="10" points="0,636.363 110,636.363 110,366.363 
+<polyline fill="none" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="1" stroke-miterlimit="10" points="0,636.363 110,636.363 110,366.363 
 	0,366.463 "/>
-<polyline fill="none" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="0.75" stroke-miterlimit="10" points="812,254.963 961,96.363 1110,294.363 
+<polyline fill="none" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="1" stroke-miterlimit="10" points="812,254.963 961,96.363 1110,294.363 
 	"/>
-<path fill="none" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="0.75" stroke-miterlimit="10" d="M940,444.363"/>
-<rect x="899" vector-effect="non-scaling-stroke" y="294.363" fill="none" stroke="#000000" stroke-width="0.75" stroke-miterlimit="10" width="211" height="186"/>
-<polyline fill="none" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="0.75" stroke-miterlimit="10" points="899,294.363 812,254.963 812,406.363 
+<path fill="none" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="1" stroke-miterlimit="10" d="M940,444.363"/>
+<rect x="899" vector-effect="non-scaling-stroke" y="294.363" fill="none" stroke="#000000" stroke-width="1" stroke-miterlimit="10" width="211" height="186"/>
+<polyline fill="none" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="1" stroke-miterlimit="10" points="899,294.363 812,254.963 812,406.363 
 	899,480.363 "/>
-<path fill="none" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="0.75" stroke-miterlimit="10" d="M367,204.363"/>
-<polyline fill="none" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="0.75" stroke-miterlimit="10" points="415,269.461 415,372.363 367,372.363 
+<path fill="none" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="1" stroke-miterlimit="10" d="M367,204.363"/>
+<polyline fill="none" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="1" stroke-miterlimit="10" points="415,269.461 415,372.363 367,372.363 
 	367,269.489 "/>
 <g>
-	<path fill="none" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="0.75" stroke-miterlimit="10" d="M391,272.338c55.781,0,101-45.22,101-101
+	<path fill="none" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="1" stroke-miterlimit="10" d="M391,272.338c55.781,0,101-45.22,101-101
 		c0-55.78-45.219-101-101-101s-101,45.22-101,101c0,55.825,45.2,101.025,101,101.025"/>
 </g>
-<path fill="none" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="0.75" stroke-miterlimit="10" d="M279.9,470.363"/>
-<path fill="none" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="0.75" stroke-miterlimit="10" d="M279.9,400.363"/>
-<path fill="none" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="0.75" stroke-miterlimit="10" d="M1110,347.092c0,0,86.226,0,90,0"/>
-<path fill="none" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="0.75" stroke-miterlimit="10" d="M1110,384.863c0,0,86.226,0,90,0"/>
-<line fill="none" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="0.75" stroke-miterlimit="10" x1="1400.551" y1="262.363" x2="1400.551" y2="448.363"/>
+<path fill="none" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="1" stroke-miterlimit="10" d="M279.9,470.363"/>
+<path fill="none" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="1" stroke-miterlimit="10" d="M279.9,400.363"/>
+<path fill="none" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="1" stroke-miterlimit="10" d="M1110,347.092c0,0,86.226,0,90,0"/>
+<path fill="none" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="1" stroke-miterlimit="10" d="M1110,384.863c0,0,86.226,0,90,0"/>
+<line fill="none" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="1" stroke-miterlimit="10" x1="1400.551" y1="262.363" x2="1400.551" y2="448.363"/>
 <path fill="#FFFFFF" vector-effect="non-scaling-stroke" d="M961,89.769l-62,63c0,0-11.5,22.164,8.5,18.582s43-11.582,49-11.582s32,0,41,5s31,30.594,31,30.594
 	s18,4.406,7-14.594S961,89.769,961,89.769z"/>
 <path fill="#FFFFFF" vector-effect="non-scaling-stroke" d="M778.167,135.435l-21.334,20.333c0,0-5.324,5.333,4.005,9.667c0,0,6.299,4.819,19.98,0

@@ -456,6 +456,7 @@ figure.left {
 }
 
 #meta-bar {
+  display: none;
 }
 
 #meta-bar .inside {
