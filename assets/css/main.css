@@ -34,13 +34,6 @@ ol {
   padding-left: 1.25em;
 }
 
-ul li {
-  list-style-type: disc;
-  list-style-position: inside;
-  text-indent: -1em;
-  padding-left: 1em;
-}
-
 img {
   max-width: 100%;
 }
@@ -168,6 +161,13 @@ a.button {
 a.button:hover {
   background: white;
   border-bottom: 1px solid white;
+}
+
+.document ul li {
+  list-style-type: disc;
+  list-style-position: inside;
+  text-indent: -1em;
+  padding-left: 1em;
 }
 
 
