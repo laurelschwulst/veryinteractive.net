@@ -9,5 +9,7 @@ role: admin
 history:
   - >
     classes/spring-2015-interactive-design-at-yale
+  - classes/fall-2015-interactive-2-at-cca/syllabus
+  - classes/fall-2015-interactive-2-at-cca
   - projects/republish-a-text
   - info
