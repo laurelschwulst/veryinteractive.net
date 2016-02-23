@@ -142,7 +142,8 @@ ul.calendar .title,
 footer .source,
 #meta-bar,
 .project-code,
-.projects-start-end {
+.projects-start-end,
+.sections-index {
   font-family: "Inconsolata", "Courier New", Courier, monospace;
   font-size: 17px;
   line-height: 1.2;
@@ -659,6 +660,40 @@ footer .source {
 a.shuffle,
 a.shuffle:hover {
   background: none;
+}
+
+
+/* SECTIONS
+--------------------------------------------------------- */
+
+.sections-index {
+  position: fixed;
+  background: yellow;
+  top: 88px;
+  left: 20px;
+}
+
+.sections-index a,
+.sections-index a:hover {
+  display: block;
+  background: none;
+}
+
+.section {
+  margin-top: 4em;
+}
+
+.paper {
+  background: white;
+  padding: 60px;
+  margin: 1em -60px;
+}
+
+header.paper-header {
+  font-size: 1em;
+  margin-top: -85px;
+  margin-bottom: 85px;
+  font-style: italic;
 }
 
 

@@ -50,5 +50,14 @@ $(document).ready(function(){
 		w.html('<p>' + zz + '</p>');
 		$(this).fadeOut('fast');
 	});
+
+	/* SECTIONS SMOOTH SCROLL TABLE OF CONTENTS */
+
+	$('.sections-index a').click(function(){
+	    $('html, body').animate({
+	        scrollTop: $( $(this).attr('href') ).offset().top
+	    }, 500);
+	    return false;
+	});
 	
 });

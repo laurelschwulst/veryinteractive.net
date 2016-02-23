@@ -7,8 +7,7 @@ password: >
 language: en
 role: admin
 history:
-  - workshops/name-generator
-  - syllabus
+  - >
+    classes/spring-2015-interactive-design-at-yale
   - projects/republish-a-text
-  - workshops/aaaa
   - info

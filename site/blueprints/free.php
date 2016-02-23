@@ -7,6 +7,11 @@ fields:
   title:
     label: Title
     type:  text
+    width: 3/4
+  hide_title:
+    label: Hide title?
+    type:  checkbox
+    width: 1/4
   metadata:
     label: Metadata
     type:  text

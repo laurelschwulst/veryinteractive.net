@@ -1,9 +1,14 @@
 <?php
-
 kirbytext::$tags['centered'] = array(
   'html' => function($tag) {
-    return '<div class="centered">' . $tag->attr('centered') . '</div>';
+    switch ($tag->attr('centered')) {
+      case 'open':
+        $markup = '<div class="centered" markdown="1">';
+        break;
+      case 'close':
+        $markup  = '</div>';
+        break;
+    }
+    return $markup;
   }
 );
-
-?>

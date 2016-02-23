@@ -34,3 +34,5 @@ c::set('debug', true);
 c::set('footnotes.global', true);
 c::set('footnotes.smoothscroll', true);
 c::set('footnotes.offset', 0);
+
+c::set('markdown.extra', true);
