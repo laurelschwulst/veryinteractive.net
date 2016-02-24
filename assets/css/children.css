@@ -1,4 +1,5 @@
 .document ul li {
 	list-style-type: none;
+	text-indent: none;
 	padding: 0;
 }

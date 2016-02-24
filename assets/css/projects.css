@@ -1,6 +1,5 @@
-/*.document ul.projects li {
-	font-size: 28px;
-    line-height: 32px;
-    font-weight: bold;
-    margin-bottom: 0;
-}*/
+.document ul li {
+	list-style-type: none;
+	text-indent: none;
+	padding: 0;
+}
