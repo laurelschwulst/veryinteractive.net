@@ -1,5 +1,5 @@
 .document ul li {
 	list-style-type: none;
-	text-indent: none;
+	text-indent: 0;
 	padding: 0;
 }

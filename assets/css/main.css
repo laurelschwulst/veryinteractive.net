@@ -441,7 +441,7 @@ figure.left {
 
 .document {
   max-width: 640px;
-  margin: 0 auto 28px;
+  margin: 2em auto;
 }
 
 .document h2,
@@ -504,9 +504,9 @@ figure.left {
 /* PROJECTS
 --------------------------------------------------------- */
 
-.document ul.projects {
+/*.document ul.projects {
   margin: 2em 0;
-}
+}*/
 
 .document ul.projects li {
   list-style-type: none;
