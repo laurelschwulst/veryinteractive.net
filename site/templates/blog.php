@@ -1,30 +1,20 @@
 <?php snippet('header') ?>
 <?php snippet('menu') ?>
 
-<div class="container">
+<ul class="blog">
 
-	<div class="blog-symbol"></div>
+	<?php foreach($page->children()->visible()->sortBy('date') as $post): ?>
+	<li class="blog-row">
+		<a href="<?php echo $post->url() ?>" class="blog-post">
+			<div class="date">
+	    		<?php $real_date = $post->date(); ?>
+				<?php echo date('F j, Y', $real_date); ?>
+	    	</div>
+	    	<h2><?php echo $post->title()->html() ?></h2>
+	  	</a>
+	</li>
+	<?php endforeach ?>
 
-    <div class="blog-container">
-
-        <?php foreach($page->children()->visible() as $post): ?>
-
-			<div class="blog-post">
-				<a href="<?php echo $post->url() ?>">
-					<div class="blog-date"></div>
-				</a>
-				<h1><?php echo $post->title()->html() ?></h1>
-				<?php echo $post->text()->kirbytext() ?>
-			</div>
-
-        <?php endforeach ?>
-
-    </div>
-
-</div>
-
-
-
-<?php snippet('meta-bar') ?>
+</ul>
 
 <?php snippet('footer') ?>

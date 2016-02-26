@@ -3,8 +3,7 @@
 
 <div class="container">
 
-
-	<div class="blog-post">
+	<div class="blog-post text">
 		<a href="<?php echo $page->parent()->url() ?>">
 			<div class="blog-date">
 			</div>
