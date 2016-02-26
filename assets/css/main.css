@@ -139,6 +139,7 @@ code,
 nav,
 .library,
 .blog-row,
+.blog-date,
 .metadata,
 ul.calendar .title,
 footer .source,
@@ -715,9 +716,10 @@ header.paper-header {
 /* BLOG
 --------------------------------------------------------- */
 
-/*.blog-date {
-  width: 150px;
-  height: 150px;
+.blog-date {
+  float: left;
+  width: 200px;
+  height: 200px;
   background: url('../images/no-symbol.gif') no-repeat;
   background-size: 100% 100%;
   box-sizing: border-box;
@@ -725,8 +727,9 @@ header.paper-header {
   align-items: center;
   justify-content: center;
   text-align: center;
-  margin-top: -10px;
-}*/
+  margin-right: 28px;
+  margin-bottom: 28px;
+}
 
 .blog-post.text h1 {
   font-weight: bold;
