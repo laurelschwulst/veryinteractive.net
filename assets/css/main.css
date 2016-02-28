@@ -56,6 +56,7 @@ section {
 }
 
 .clearer {
+  float: none !important;
   clear: both;
 }
 
@@ -414,12 +415,35 @@ a.top-link {
   -o-transition: .1s background ease-out;
 }
 
+figure {
+  margin-bottom: 1em;
+}
+
 figure.right {
   float: right;
+  margin-left: 1em;
 }
 
 figure.left {
   float: left;
+  margin-right: 1em;
+}
+
+figure.small {
+  max-width: 250px;
+}
+
+figure.medium {
+  max-width: 400px;
+}
+
+figure.large {
+  max-width: 700px;
+}
+
+.blog-post h1 {
+  display: inline-block;
+  margin-top: 0;
 }
 
 .text h1,
