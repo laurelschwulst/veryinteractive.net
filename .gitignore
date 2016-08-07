@@ -1,5 +1,4 @@
 .DS_Store
-/site/accounts/*
-/site/accounts/admin.php
-/assets/avatars/*
+/site/accounts
+/assets/avatars
 content/**
