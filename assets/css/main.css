@@ -170,11 +170,25 @@ a.button:hover {
 .document ul li {
   list-style-type: disc;
   list-style-position: inside;
-  text-indent: -1em;
-  padding-left: 1em;
+  text-indent: -1.3em;
+  padding-left: 1.25em;
+  margin-bottom: 1em;
 }
 
+.document ul.projects li,
+.document ul.children li {
+  margin-bottom: 0;
+}
 
+.document ol li {
+  padding-left: 0.25em;
+  margin-bottom: 1em;
+  margin-left: -0.25em;
+}
+
+.document blockquote {
+  margin-left: 1.25em;
+}
 
 /* NAVIGATION
 --------------------------------------------------------- */
@@ -316,7 +330,7 @@ nav#subnav li.top:hover {
   white-space: nowrap;
   overflow: hidden;
 }
-    
+
 a.library-item,
 a.blog-post {
   color: #000;
@@ -335,7 +349,7 @@ a.blog-post {
 .library-row .class-item h2 {
   text-transform: uppercase;
 }
-    
+
 a.library-item:hover,
 a.top-link:hover,
 a.blog-post:hover {

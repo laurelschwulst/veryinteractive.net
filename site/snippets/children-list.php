@@ -1,4 +1,4 @@
-<ul>
+<ul class="children">
 	<?php foreach($page->children()->visible() as $child): ?>
 	<li>
 		<a href="<?php echo $child->url() ?>">

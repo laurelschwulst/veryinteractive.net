@@ -4,6 +4,7 @@
 
   <meta charset="utf-8" />
   <link rel="shortcut icon" type="image/png" href="/assets/images/favicon.ico">
+  <link href='http://fonts.googleapis.com/css?family=Inconsolata' rel='stylesheet' type='text/css'>
   <meta name="viewport" content="width=device-width,initial-scale=1.0">
 
   <title><?php echo $site->title()->html() ?> | <?php echo $page->title()->html() ?></title>
