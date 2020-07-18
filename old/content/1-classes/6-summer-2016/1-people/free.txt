@@ -1,0 +1,38 @@
+Title: People
+
+----
+
+Hide-title: 1
+
+----
+
+Metadata: 
+
+----
+
+Text: 
+
+*People ... Summer 2016 Intro to Interactive Design at Yale*
+
+(image: summer-2016-day-one.jpg caption: Day 1)
+
+##Participants
+
+Eason Haozhi Chen
+Daniil Gannota
+Andrey Iskornev
+Tina Mengyuan Li
+Hana Ruoxi Li
+Peter Mahony
+Audrey Odonkor
+Scott Huaiwei Sun
+Richard Chen Tian
+Steve Nan Yi
+
+##TA
+
+Chase Booker
+
+##Instructor
+
+Laurel Schwulst

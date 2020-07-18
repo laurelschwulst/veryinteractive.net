@@ -1,0 +1,41 @@
+Title: People
+
+----
+
+Hide-title: 1
+
+----
+
+Metadata: 
+
+----
+
+Text: 
+
+*People ... Spring 2014 Interactive Design at Yale*
+
+##Participants
+
+Laura Alvarez
+Becky Aston
+Megan Billman
+Laura Foxgrover
+Jerome Harris
+Allyn Hughes
+Emmett Kim
+Qiong Li
+Viveca Morris
+Joe Nagle
+Sonja Peterson
+Sasha Portis
+David Shatan-Pardo
+Alex Terrell
+Madeleine Witt
+
+##TA
+
+Grace Robinson-Leo
+
+##Instructor
+
+Laurel Schwulst

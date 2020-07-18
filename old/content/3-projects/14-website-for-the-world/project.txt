@@ -1,0 +1,78 @@
+Title: Website for the World
+
+----
+
+Metadata: 
+
+----
+
+Color: #B1D5F8
+
+----
+
+Text: 
+
+*By the end of this course, we will have seen many websites. Now it is your turn to add to the world's pool. In this project, you will produce a hermetic (not relying on external data) website to be accessible by the public, with its own unique design and domain name. You may wish to produce an innovative image gallery or archive, a game or a puzzle, a personal portfolio or a blog, etc. Ideally, it won't fit into any one of these categories but be something unique unto its own, perhaps even inspired through your fascination presentation. Since your site will be public, create a website you'll want to show outside of this class — and maybe one you'll continue to develop over time.*
+
+##Instructions
+
+1. Design your site. You may want to do this in pencil and paper first, and then mock it up in Sketch. Then translate your design into a series of HTML pages with CSS styling.
+
+2. If you're creating a game or a puzzle, consider using some JavaScript. If you're creating something with lots of content that will need to be updated on a regular basis (like an image gallery, blog, or portfolio), consider using a CMS (content management system).
+
+3. Obtain a custom domain name and hosting for this project. For your domain, choose an available name using the resources below. Remember that in this modern world there are many TLD's (top-level domains) other than .com (including .pizza). Purchase hosting using one of the resources below. Remember that sometimes hosting and domain name can be purchased on the same website. We'll go over the details of this more in class.
+
+## Resources
+
+Hosting
+- (link: https://www.dreamhost.com/ text: Dreamhost.com)
+- (link: https://www.godaddy.com/ text: GoDaddy.com)
+- (link: https://help.github.com/articles/using-a-custom-domain-with-github-pages/ text: Using GitHub Pages as Hosting)
+
+Domains
+- (link: https://domainr.com/ text: Domainr.com)
+- (link: https://tld-list.com/ text: TLD-list.com)
+- (link: https://www.name.com/ text: Name.com)
+- (link: http://namecheap.com text: Namecheap.com)
+
+Content Management Systems
+- (link: https://getkirby.com/ text: Kirby) — my favorite CMS, uses PHP
+- (link: https://wordpress.com/ text: Wordpress) — most popular CMS, uses PHP
+- (link: https://www.tumblr.com text: Tumblr) — easy to customize, no hosting needed
+- (link: https://jekyllrb.com/ text: Jekyll) — not really a CMS, but a static-site generator
+
+JavaScript
+- (link: http://eloquentjavascript.net/ text: Eloquent JavaScript)
+- (link: https://www.amazon.com/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742 text: JavaScript: The Good Parts)
+
+jQuery examples
+- (link: http://jsfiddle.net/w0a3Lgx6/ text: Events — click)
+- (link: http://jsfiddle.net/cvyxp15z/ text: Events — mouse)
+- (link: http://jsfiddle.net/o1udqwbm/ text: Events — hover)
+- (link: http://jsfiddle.net/p0uxmv0n/ text: Events — scroll)
+- (link: http://jsfiddle.net/d9d8zcc8/ text: Events — toggle)
+- (link: http://jsfiddle.net/70Lnbvor/ text: Events — slideToggle)
+- (link: http://jsfiddle.net/vaaesw6b/2/ text: Change CSS)
+- (link: https://jsfiddle.net/mf1vdqb0/10/ text: If Statement)
+- (link: https://jsfiddle.net/233jcchh/ text: General Practice) — and (link: https://jsfiddle.net/233jcchh/3/ text: solution)
+
+Domains as art
+- (link: http://www.hottesttocoldest.com text: hottesttocoldest.com)
+- (link: http://www.xn--slarsteinn-gbb.com text: xn--slarsteinn-gbb.com)
+- (link: http://www.sometimesredsometimesblue.com text: sometimesredsometimesblue.com)
+- (link: http://www.snackdata.com text: snackdata.com)
+- (link: http://www.openthiswindow.com text: openthiswindow.com)
+- (link: http://www.jellotime.com text: jellotime.com)
+- (link: http://www.tinycursor.com text: tinycursor.com)
+- (link: http://po.ta.to text: po.ta.to)
+- (link: http://traveller.xn--q9jyb4c/ text: http://traveller.xn--q9jyb4c)
+- (link: http://etherealself.com text: etherealself.com)
+- (link: http://etherealothers.com text: etherealothers.com)
+- (link: http://www.purple.com text: purple.com)
+
+Domains can also be...
+- blogs
+- portfolios
+- galleries
+- collections
+- ...

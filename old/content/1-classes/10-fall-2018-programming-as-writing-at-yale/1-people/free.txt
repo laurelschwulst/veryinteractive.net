@@ -1,0 +1,42 @@
+Title: People
+
+----
+
+Hide-title: 1
+
+----
+
+Metadata: 
+
+----
+
+Text: 
+
+*People ... Fall 2018 Programming as Writing at Yale*
+
+##Participants
+
+Kyla Arsadjaja
+Jinu Hong
+Laura Huaranga
+Cindy Hwang
+Dawoon Jeon
+Jeong Kim Woo
+Kang Ma
+Tuan Pham
+Steven Rodriguez
+Julia Schäfer
+Yuanbo Wang
+Bryant Wells
+Nicholas Weltyk
+Sam Wood
+Orysia Zabeida
+Wenwen Zhang
+
+##Teaching assistant
+
+Rosa McElheny
+
+## Instructor
+
+Laurel Schwulst

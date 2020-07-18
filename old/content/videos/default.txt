@@ -1,0 +1,17 @@
+Title: Videos
+
+----
+
+Text: 
+
+<iframe width="100%" height="500" src="https://www.youtube.com/embed/9lMcdENI4X0" frameborder="0" allowfullscreen></iframe>
+Lecture by Victoria Sobel & Casey Gollan
+April 2017
+*Long live communication, down with telecommunication!
+And down with all kings but King Ludd!*
+<br>
+
+<iframe width="100%" height="500" src="https://www.youtube.com/embed/wAL0TZpmW7s" frameborder="0" allowfullscreen></iframe>
+Lecture by Minkyoung Kim
+February 2017
+*Series*

@@ -1,0 +1,30 @@
+Title: Classes
+
+----
+
+Text: 
+
+##Future
+Fall 2020, (link: http://fruitful.school text: Fruitful School), Independently Organized (with John Provencher)
+
+##Past
+Winter 2020, (link: http://fruitful.school text: Fruitful School), Independently Organized (with John Provencher)
+Spring 2020, Special Web Projects, Rutgers University
+Spring 2020, Graphic Design: Image, Princeton University
+(link: classes/fall-2019-writing-as-metadata-at-yale text: Fall 2019, Writing as Metadata, Yale University)
+(link: classes/spring-2019-interactive-design-at-yale text:Spring 2019, Interactive Design, Yale University)
+Spring 2019, Design Thesis, Rutgers University (with Jacqueline Thaw)
+(link: classes/fall-2018-programming-as-writing-at-yale text: Fall 2018, Programming as Writing, Yale University)
+Fall 2018, Design Thesis, Rutgers University (with Jacqueline Thaw)
+(link: classes/spring-2018-interactive-design-at-yale text:Spring 2018, Interactive Design, Yale University)
+(link: classes/spring-2018-design-2b-at-rutgers text: Spring 2018, Design 2B, Rutgers University)
+(link: classes/spring-2017-interactive-design-at-yale text:Spring 2017, Interactive Design, Yale University)
+(link: classes/summer-2016 text: Summer 2016, Intro to Interactive Design, Yale University)
+(link: classes/fall-2015-interactive-2-at-cca text: Fall 2015, Interactive 2, California College of the Arts)
+(link: classes/spring-2015-interactive-design-at-yale text: Spring 2015, Interactive Design, Yale University)
+(link: classes/fall-2014-interactive-concrete-poetry-at-yale text: Fall 2014, Interactive Concrete Poetry, Yale University)
+(link: classes/spring-2014-interactive-design-at-yale text: Spring 2014, Interactive Design, Yale University)
+(link: classes/spring-2013-interactive-design-at-yale text: Spring 2013, Interactive Design, Yale University)
+
+##Related
+(link: classes/sister-classes text: Sister classes)

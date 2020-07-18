@@ -1,0 +1,38 @@
+Title: People
+
+----
+
+Hide-title: 1
+
+----
+
+Metadata: 
+
+----
+
+Text: 
+
+*People ... Spring 2013 Interactive Design at Yale*
+
+(image: computer-lab.jpg)
+
+##Participants
+
+Jon Gorman
+Jenny Hung
+Jiyo Kim
+Anna Miller
+Rachel Needle
+Andrew Nelson
+Eric Nylund
+Machisté Quintana
+Tim Ripper
+Ria Roberts
+Zach Schiller
+Emma Sokoloff
+
+##TA
+Julia Novitch
+
+##Instructor
+Laurel Schwulst

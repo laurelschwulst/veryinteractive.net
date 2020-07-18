@@ -1,0 +1,37 @@
+Title: Fuck Content
+
+----
+
+Subtitle: 
+
+----
+
+Author-first: Michael
+
+----
+
+Author-last: Rock
+
+----
+
+Year: 2009
+
+----
+
+Further-authors: 
+
+----
+
+Download-sentence: 
+
+----
+
+Further-metadata: 
+
+----
+
+Text: 
+
+----
+
+Selected-image: content.gif

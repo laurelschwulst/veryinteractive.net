@@ -1,0 +1,42 @@
+Title: Coding from Life
+
+----
+
+Metadata: 
+
+----
+
+Color: #FAF6B1
+
+----
+
+Text: 
+
+(button: View still life archive link: http://codingfromlife.veryinteractive.net)
+
+
+## Instructions
+
+From the staged still life in class, make a drawing using only HTML and CSS.
+
+
+## Resources
+
+* (link: https://css-tricks.com/examples/ShapesOfCSS/ text: Shapes of CSS)
+* (link: https://pattle.github.io/simpsons-in-css/ text: Simpsons in CSS)
+* (link: http://appendto.com/2014/03/replacing-common-ui-icons-with-css-2/ text: Common UI elements in CSS)
+* (link: http://www.cssmatic.com/ text: CSS Matic)
+* (link: http://devdocs.io/css/ text: Devdocs: CSS)
+* (link: http://devdocs.io/html/ text: Devdocs: HTML)
+
+
+## Documentation
+
+(image: coding-from-life.jpg)
+*Wednesday, October 14, 2015 — California College of the Arts*
+
+(link: https://www.are.na/laurel-schwulst/coding-from-life text: Are.na channel)
+
+## Credit
+
+Thanks to Chris Vamos who had a similar idea in 2010.

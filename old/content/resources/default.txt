@@ -1,0 +1,53 @@
+Title: Resources
+
+----
+
+Text: 
+
+##Basics
+
+For code editing, we will use (link: http://www.sublimetext.com text: Sublime Text).
+
+For website hosting, we will use (link: https://pages.github.com/ text: Github Pages).
+
+For code learning, we will use (link:https://www.codecademy.com/ text: Codecademy).
+
+
+##Troubleshooting
+
+If you find yourself stuck while writing code, remember to be patient. If you haven't already, try breaking your problem down into smaller, more manageable parts. Search Google or (link: http://stackoverflow.com/ text: Stack Overflow) for how to solve those parts, one at a time. Or brush up your skills through some of the other links on this page. Remember that most of the time you spend writing code will be fixing bugs. (And sometimes bugs will allow you to discover something new you haven't ever seen before!) 
+
+However, if you reach a point in which you absolutely need help and must ask another human, please considerately phrase your code question in the form of a (link: http://jsfiddle.net/ text: jsFiddle). (To do this, type your code in the appropriate boxes and press "Run". Once it looks right, press "Save".  Copy and paste the URL at the top.) In an email, explain everything you know so far about the problem and paste the link to the jsFiddle.
+
+
+## More technical resources
+
+(link: http://learn.shayhowe.com/ text: Shay Howe's Guide to HTML & CSS)
+(link: http://learnlayout.com/ text: Learn Layout)
+(link: https://css-tricks.com/examples/ShapesOfCSS/ text: The Shapes of CSS)
+(link: http://freecodecamp.com/ text: Free Code Camp)
+(link: http://6.470.scripts.mit.edu/2015/lectures text: MIT Code Lectures)
+(link:http://eloquentjavascript.net/ text: Eloquent Javascript)
+(link:https://www.atlassian.com/git/ text: Getting Git Right)
+(link: http://www.lynda.com/Mac-OS-X-10-6-tutorials/Unix-for-Mac-OS-X-Users/78546-2.html text: Unix for Mac OS X Users)
+(link: http://copypastecharacter.com/ text: Copy Paste Character)
+(link: https://validator.w3.org/ text: W3C Code Validator)
+(link: http://devdocs.io/ text: Devdocs)
+(link: resources/open-source-web-fonts text: Open Source Web Fonts)
+
+
+## Art resources
+
+(link: https://docs.google.com/spreadsheets/d/1o__WKUBTHLoQX8pSRJsh0wMC8fCGzycQ0ezxe5CklxM/edit#gid=0 text: Residencies, Fellowships, Summer Schools)
+(link: http://rhizome.org text: Rhizome)
+
+## Sister classes
+
+(link: http://www.designforthe.net text: Design for the Net) by Mindy Seu, CCA
+(link: http://minkyoungkim.com/wbs16 text:Web Design Basics) by Minkyoung Kim, CCA
+(link: http://mobile-desktop.xyz text: Mobile Desktop) by Luke Archer, Yale
+(link: http://interactive1fall2015.kellyannwalters.com/ text: Interactive 1) by Kelly Walters, CCA
+(link: http://art.yale.edu/Art742b text: Networks and Transactions) by Dan Michaelson, Yale
+(link: http://gdfwf15.cvalla.com/ text: GD for the Web) by Clement Valla, RISD
+(link: http://ci.brianwatterson.com/ text: Core Interaction) by Brian Watterson, The New School
+(link: http://www.rey.sc/pucd-2035-fall-2015.html text: Creative Computing) by Jeffrey Scudder, The New School

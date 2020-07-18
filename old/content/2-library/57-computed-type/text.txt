@@ -1,0 +1,37 @@
+Title: Computed Type
+
+----
+
+Subtitle: 
+
+----
+
+Author-first: Christoph
+
+----
+
+Author-last: Knoth
+
+----
+
+Year: 2012
+
+----
+
+Further-authors: 
+
+----
+
+Download-sentence: 
+
+----
+
+Further-metadata: 
+
+----
+
+Text: 
+
+----
+
+Selected-image: computed-type.png

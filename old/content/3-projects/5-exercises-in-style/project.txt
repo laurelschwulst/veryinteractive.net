@@ -1,0 +1,82 @@
+Title: Exercises in Style
+
+----
+
+Metadata: 
+
+----
+
+Color: #ceb079
+
+----
+
+Text: 
+
+##*Phase 1*
+
+## Instructions
+
+1. Choose a text that is longer than 1000 words. It should have a title, author, date written, and any other meaningful metadata you can find about it. Please pick a text that fascinates you since you will spend a lot of time with it while working on this project. You can also choose a text from the (link: library text:/Library) section of the class website. 
+
+2. Render this text as an HTML file. Make sure to use the appropriate HTML tags to make it semantically correct as possible. (This means using correct headings, sections, etc.) 
+
+3. When you are happy with your base HTML, create 15 copies. Each one will become an “exercise in style”. That said, you will then style each one in a different way. Specifically, on each one you will try to recreate the style of an existing website as closely as possible. 
+ 
+As a class we will try to make a master list of all the different kind of web styles that are at large in the year 2015. We will also discuss styles from the web’s past, and styles today that are reminiscent of those times. In selecting your 15 different styles, I ask that you not only select styles that are memorable or interesting to you but that you also cover a range of styles that shows the breadth of 2015 web aesthetics. If you find a certain style repulsive or ineffective, it might be a good reason to try it out. Or, maybe it’s a good reason to explore other sites like it to see if there is a “good” one within that particular style or genre. 
+ 
+To copy the styles, you will need to learn to use your browser’s developer tools. Unlike print, the web is incredibly easy to copy from because the instructions for the design are at your fingertips. In class we will go through the basics of learning “Web Inspector” (in Google Chrome) and how to extract styles from it. (In organizing your styles, I suggest that you give each page its own body class. That way you can easily organize your CSS and reuse classes within your text.)
+
+## Goals
+
+This project takes its name from (link: library/exercises-in-style-preface-and-excerpts text: Raymond Queneau’s *Exercises in Style*), which narrates a simple encounter on a bus 100 times, each in a different style that alters — subtly or radically — how we understand the basic story. This project will allow you to see how style alters the message of a text.  It will also expose you to the many different styles at large today on the web. By trying them all out, you will gain power by not only learning how they were made but also why they exist so that you can apply judiciously from here on out.
+
+ ----------
+
+##*Phase 2*
+
+## Instructions
+
+1. Now that you have 15 different styles, please add 5 more. At the end of this step, you will have 20 total styles. For these 5 additional styles, you can either choose to do mashups or your own inventions: 
+ 
+(underline: Mashups)
+For each one, combine two or three of your previous styles
+into one. You can title them “Style 1 x Style 2” or “Style 1 x Style 2: Mashup Name” etc. 
+ 
+(underline: Inventions)
+Maybe you use tactics you absorbed in the other exercises but through new means, or maybe they are completely new altogether. Create unique names for these styles. 
+
+2. Create cover pages for your 20 styles. This means that you will create a new HTML file for each one. (In total you will have 40 HTML pages.) The title of your text and the author (if there is one) should be on each cover page. Think of it like the cover of a book or a splash/intro page. 
+ 
+When making these, make sure to: 
+
+— Use some of the visual elements that were in the long-form text.
+— Focus on hierarchy, scale, pacing, etc.
+— Utilize the unique properties the browser space allows you.
+
+ ------
+
+##*Phase 3*
+
+## Instructions
+
+1. Find a way to link each cover page to its corresponding text treatment. This could be the same on each style or unique to each one. 
+
+2. Now that each cover and treatment are linked, create a navigation system to view the 25 styles. The navigation system will be both a landing page (or, homepage for the project) and some sort of consistent device on each page within your project.
+
+### The landing page should... 
+
+* Contain links to each of the 25 styles 
+ 
+### The consistent page device should...
+
+* Contain next and previous links to the next and previous style
+* Be relatively subtle; not interfere with the visual priority of the style
+* Be relatively the same on each page
+* Possibly visually relate to your landing page
+* Contain “random” link to chance style (optional)
+
+### Somewhere logical within these pages you should have...
+
+* Title of each style 
+* Link to sites you copied from 
+* Purpose of copying (in your own words)

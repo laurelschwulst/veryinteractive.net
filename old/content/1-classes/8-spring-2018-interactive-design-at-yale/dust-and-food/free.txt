@@ -1,0 +1,25 @@
+Title: Dust and Food
+
+----
+
+Hide-title: 0
+
+----
+
+Metadata: 
+
+----
+
+Text: 
+
+"Dust and Food” is the Spring 2018 Interactive Design Reader.
+
+(image: dust.png)
+
+It has been compiled for the Yale Graphic Design courses "Networks and Transactions" taught by Dan Michaelson, and "Interaction Design and the Internet" taught by Laurel Schwulst.
+
+Inside are readings used in both courses, as well as the transcripts from "Vacuuming and Digesting," a public conversation series in Fall 2017 led by Dan Michaelson, Laurel Schwulst, and Ayham Ghraowi. The series discussed themes relevant to both classes.
+
+This Spring 2018 edition was edited by Ayham Ghraowi, Ghayde Ghraowi, and Laurel Schwulst.
+
+(link: classes/spring-2018-interactive-design-at-yale/dust-and-food/dust-and-food-spring-2018-yale-interactive-design-reader.pdf text: Download as a PDF)

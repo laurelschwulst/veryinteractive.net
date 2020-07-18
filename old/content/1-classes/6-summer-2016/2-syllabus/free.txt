@@ -1,0 +1,99 @@
+Title: Syllabus
+
+----
+
+Hide-title: 1
+
+----
+
+Metadata: 
+
+----
+
+Text: 
+
+(centered: open)
+Summer 2016
+Art 167 01, Introduction to Interactive Design
+210 Green Hall; Mondays and Wednesdays, 1:30–6:30pm
+Instructor: Laurel Schwulst, laurel.schwulst@linkedbyair.net
+TA: Chase Booker, chase.booker@yale.edu
+(centered: close)
+<br>
+
+## Description
+
+This course is built around a series of weekly workshops and corresponding projects that teach beginning and intermediate interaction design through hands-on engagement with HTML, CSS, and some JavaScript.
+
+This course focuses on interaction design with projects that are based online. Questions asked during the course include:
+
+* Is it specific?
+* Is it memorable?
+* Does it communicate the idea through its form?
+
+*(This course has a formal emphasis, using what knowledge students have about composition, typography, and hierarchy as a basis.)*
+
+* What is the prompt?
+* What is the corresponding feedback?
+* Do the prompt and feedback make sense together?
+
+*(We will look at an interaction as a prompt and feedback, an input and output, a call and response. We will examine their relation but also not limit an interaction to a closed, hermetic environment, but view the web as a very social ecosystem in which time and performance play an important role.)*
+
+* Where is the navigation?
+* Is this worth a click?
+* Is this worth scrolling?
+* What are the different conditions in which this can exist?
+* How does this change in each of those conditions?
+* What happens to this when it expands?
+
+*(We will examine web-specific design problems, focusing on navigating a website and the pacing throughout. Design should be conditional online, changing in response to its users and environment, so we will create accommodating, flexible systems.)*
+
+The course will heavily employ real-world, contemporary examples of design, art, and presences online. These thematic groupings of artwork, portfolios, archives, exhibition platforms, blogs, web apps, etc. will be examined with a critical eye and mind. 
+
+##Class activities 
+
+Each class will contain any combination of:
+* example-based lecture / discussion
+* project critique / discussion
+* reading discussion
+* group activity to examine design of books or websites
+* ~10 minute "fascination presentation" (see below)
+* skill-based workshop
+* working lab time
+* individual consultation
+
+##Fascination presentations
+
+Each class (starting Week 2 on Monday, July 11), two students will give a quick ~10 minute “fascination presentation.” Instructions: Present on something that completely fascinates you. This something should not be related to interactive design. (It does not need to be something you know a lot about. However, if you do know a lot about it, make sure you can make it interesting to new people.) Please be as specific as possible. Some examples: fashion in 1980’s Japan, cattle branding marks, methods of cutting garlic, etc. A one page outline of your presentation is due (send to laurel@linkedbyair.net) one class before your scheduled presentation. 
+
+##Projects
+
+(project: P1) ... 25 Variations
+(project: P2) ... Timer App
+(project: P3) ... Website for the World
+
+##Evaluation
+
+In this class, students will strive to make memorable, functional online experiences. Projects should both take a stance (be poetic, critical, and clear) and also be functional (achieve their goals and not break). The invention of useful products is not the focus of this class, but the invention of useful, surprising techniques and approaches might be. Craft (in both code and design) and overall presentation are also important. Taking risks and having fun are encouraged.
+
+##Grading
+
+15% … (project: P1)
+15% … (project: P2)
+30% … (project: P3)
+20% … Workshops
+20% … Class participation, diligence, and attitude
+
+At the end of the term, you will be required to send me an archival .zip file of all project materials divided into folders (project: P1), (project: P2), and (project: P3). Please keep this in mind as you organize your materials throughout the semester.
+
+##Academic Integrity
+
+Students will become familiar with using pre-existing language, images, and software as raw material while creating entirely new works. While making websites, we will learn what technologies are good (and necessary) to appropriate and how to properly credit their inclusion.
+
+##Attendance
+
+Attendance is required. There are only 10 total classes, so each one is very important. Three or more absences or excessive tardiness will result in a failing grade. If you absolutely must miss class, email me in advance.
+
+##Materials
+
+The class takes place in a computer lab. Students can choose to use their own personal laptops or the computers in the lab. Either way, students should be responsible for their own files, making sure to back them up in some way. For editing and updating code, we will use code editor Sublime Text. For hosting our files, we will use Github Desktop and Github Pages. For image-making and sketching, Adobe Photoshop, Illustrator, and InDesign are standard tools that are available on most Yale computers. Other good digital-image making tools include a phone, digital camera, scanner, screen capture, etc.

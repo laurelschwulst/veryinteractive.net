@@ -1,0 +1,69 @@
+Title: The Designer as Producer
+
+----
+
+Subtitle: 
+
+----
+
+Author-first: Ellen
+
+----
+
+Author-last: Lupton
+
+----
+
+Year: 1998
+
+----
+
+Further-authors: First published in published in The Education of a Graphic Designer, ed. Steven Heller (1998)
+
+----
+
+Download-sentence: Link to article: http://elupton.com/2010/10/the-designer-as-producer/
+
+----
+
+Further-metadata: 
+
+----
+
+Text: 
+
+The slogan “designer as author” has enlivened debates about the future of graphic design since the early 1990s. The word author suggests agency, intention, and creation, as opposed to the more passive functions of consulting, styling, and formatting. Authorship is a provocative model for rethinking the role of the graphic designer at the start of the millennium; it hinges, however, on a nostalgic ideal of the writer or artist as a singular point of origin. As an alternative to “designer as author” I suggest “designer as producer.”
+
+The avant-garde movements of the 1910s and 20s critiqued the ideal of authorship as a process of dredging unique forms from the depths of the interior self. Artists and intellectuals challenged romantic definitions of art by plunging into the worlds of mass media and mass production.
+
+Production is a concept embedded in the history of modernism. Avant-garde artists and designers treated the techniques of manufacture not as neutral, transparent means to an end but as devices equipped with cultural meaning and aesthetic character. In 1934, the German critic Walter Benjamin wrote “The Author as Producer,” a text that attacked the conventional view of authorship as a purely literary enterprise. He exclaimed that new forms of communication–film, radio, advertising, newspapers, the illustrated press–were melting down traditional artistic genres and corroding the borders between writing and reading, authoring and editing.
+
+Benjamin was a Marxist, committed to the notion that the technologies of manufacture should be owned by the workers who operate them. In Marxist terminology, the “means of production” are the heart of human culture and should be collectively owned. Benjamin claimed that writing (and other arts) are grounded in the material structures of society, from the educational institutions that foster literacy to the publishing networks that manufacture and distribute texts. In detailing an agenda for a politically engaged literary practice, Benjamin demanded that artists must not merely adopt political “content,” but must revolutionize the means through which their work is produced and distributed.
+
+Benjamin attacked the model of the writer as an “expert” in the field of literary form, equipped only to craft words into texts and not to question the physical life of the work. The producer must ask, Where will the work be read? Who will read it? How will it be manufactured? What other texts and pictures will surround it? Benjamin argued that artists and photographers must not view their task as solely visual, lest they become mere suppliers of form to the existing apparatus of bourgeois publishing: “What we require of the photographer is the ability to give his picture the caption that wrenches it from modish commerce and gives it a revolutionary useful value. But we shall make this demand most emphatically when we–the writers–take up photography. Here, too, therefore, technical progress is for the author as producer the foundation of political progress” (230).
+
+Benjamin claimed that to bridge the divide between author and publisher, author and reader, poet and popularizer, is a revolutionary act, because it challenges the professional and economic categories upon which the institutions of “literature” and “art” are erected. Benjamin’s Marxist emphasis has a tragic edge when viewed from the vantage point of today. By the time he wrote “The Author as Producer,” abstract art was already at variance with Stalin’s state-enforced endorsement of social realism. Benjamin applauded Dada and Surrealism for challenging the institutions of art, and yet such experimental forms were forbidden in the Soviet state he so admired. Benjamin’s theory of the author as producer remains relevant today, however, even if one proposes more modest challenges to the existing structures of media and publishing, opening new paths of access to the means of manufacture and dissemination.
+
+In the 1920s, Benjamin met Laszlo Moholy-Nagy, the Hungarian Constructivist whose work as a photographer, typographer, artist, and writer made him a prominent figure at the Bauhaus. Benjamin’s 1928 collection of essays One-Way Street reflects on experimental typography and the proliferation of such commercial media as the pamphlet, poster, and advertisement, which were upending the classical book as literature’s sacred vessel. Benjamin wrote: “Printing, having found in the book a refuge in which to lead an autonomous existence, is pitilessly dragged out onto the street by advertisements and subjected to the brutal heteronomies of economic chaos. This is the hard schooling of its new form.” Describing the relation of authorship to technology, Benjamin predicted that the writer will begin to compose his work with a typewriter instead of a pen when “the precision of typographic forms has entered directly into the conception of his books. One might suppose that new systems with more variable typefaces might then be needed” (79).
+
+Such “new systems” are, of course, ubiquitous today in the form of software for word-processing and desk-top publishing. These tools have altered the tasks of graphic designers, enlarging their powers as well as burdening them with more kinds of work to do. Such is the rub of de-specialization. Benjamin celebrated the proletarian ring of the word “production,” and the word carries those connotations forward into the current period. Within the professional context of graphic design, “production” is linked to the preparation of “artwork” for mechanical reproduction, rather than to the intellectual realm of “design.” Production belongs to the physical activity of the base, the factory floor: it is the traditional domain of the paste-up artist, the stripper, the letterer, the typesetter. The “desktop” revolution that began in the mid-1980s brought these roles back into the process of design. The proletarianization of design offers designers a new crack at materialism, a chance to re-engage the physical aspects of our work. Whereas the term “author,” like “designer,” suggests the cerebral workings of the mind, production privileges the activity of the body. Production is rooted in the material world. It values things over ideas, making over imagining, practice over theory.
+
+When Benjamin called for authors to become producers, he did not mean for them to become factory workers alienated from the form and purpose of the manufactured thing. The challenge for educators today is to help designers become the masters, not the slaves, of technology. There exist oportunities to seize control–intellectually and economically–of the means of production, and to share that control with the reading public, empowering them to become producers as well as consumers of meaning. As Benjamin phrased it in 1934, the goal is to turn “readers or spectators into collaborators” (233). His words resonate in current educational models, which encourage students to view the reader as a participant in the construction of meaning.
+
+How can schools help students along such a path at this critical juncture in our history?
+
+*Language is a raw material.* Enhance students’ verbal literacy, giving them the confidence to work with and as editors, without forcing them to become writers.
+
+*Theory is a practice.* Foster literacy by integrating the humanities into the studio. Infuse the act of making with the act of thinking.
+
+*Writing is a tool.* Casual writing experiences encourage students to use writing as a device for “prototyping,” to be employed alongside sketching, diagramming, and other forms of conceptualization.
+
+*Technology is physical.* Whether the product of our work is printed on paper or emitted from a screen, designers deal with the human, material response to information.
+
+*The medium is on the menu.* Familiarize students with the many ways that information and ideas are disseminated in contemporary life. Give them the tools to find their rightful place in the food chain.
+
+The power of the term “author”–its cultural authority–lies in its connection to the written text. In order for designers to take charge of the content and social function of their work, they need not become fluent writers, no more than an art director must become a professional photographer or illustrator in order to use these media effectively. In the business of film, a “producer” brings together a broad range of skills–writing, directing, acting, cinematography, editing, and so on–in a work whose authorship is shared. For the designer to become a producer, she must have the skills to begin directing content, by critically navigating the social, aesthetic, and technological systems across which communications flow.
+
+----
+
+Selected-image: 

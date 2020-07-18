@@ -1,0 +1,9 @@
+Title: Info
+
+----
+
+Text: 
+
+## About this site
+
+This website is a hub for courses taught by (link: http://laurelschwulst.com/ text: Laurel Schwulst). It archives related materials as a resource for past and future students or web visitors, whether the class is in session or not. During these times of rest, this site’s visual (link: info/themes text: theme) has been known to change on a semi-regular basis.

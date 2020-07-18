@@ -1,0 +1,31 @@
+Title: Fall 2019 Writing as Metadata at Yale
+
+----
+
+Hide-title: 0
+
+----
+
+Metadata: 
+
+----
+
+Text: 
+
+##Highlights
+
+- Most classes began with constraint-based writing exercises
+- First time having a (link: http://suddenly.rocks/living-the-puzzle.html text: class wiki) that documented those exercises
+- First time doing project "51 Images" which was about developing own taxonomy for images brought in by each student
+- First time doing project "Writer's Notebook" which was web-based process notebook
+- First time doing project "Screensaver and Score" which was an evolution of the performances from last year
+- Guest (link: http://taichi.pink text: Taichi Aritomo) gave demo about JavaScript used in screensavers
+- Performances of screensavers on last day of course
+
+##See also
+
+(link: http://veryinteractive.net/content/1-classes/12-fall-2019-writing-as-metadata-at-yale/syllabus-090219-v2.pdf text: Syllabus)
+
+(link: fall-2019-writing-as-metadata-at-yale/people text: People)
+
+(link: http://suddenly.rocks text: Class site, www.suddenly.rocks)

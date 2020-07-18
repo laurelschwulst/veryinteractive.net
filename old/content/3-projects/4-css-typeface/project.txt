@@ -1,0 +1,68 @@
+Title: CSS Typeface
+
+----
+
+Metadata: 
+
+----
+
+Color: #76cf47
+
+----
+
+Text: 
+
+## Instructions
+
+1. Create a typeface using only HTML and CSS. It should have a complete character set.
+
+2. Once you've designed and built your typeface, create a website to display your complete typeface. On this website, your typeface itself should be used as the primary form of communication.
+
+
+## Goals
+
+Through this project, you will experiment formally in HTML and CSS through creation of your very own typeface. That said, your typeface should somehow take advantage of its unique material. How is a typeface online (on a screen) different than one in a book (on a printed page)? How do the media differ? What are the dynamic properties of the web that printed matter lacks? And vice-versa: is there anything that printed matter has that the web doesn't? The concept for your typeface should come across formally and also allude to the way it was created (programming HTML and CSS).
+
+When it is time to create the website to display your typeface, consider its subject. How can your website's focus not only reinforce but push forward the concept of your typeface? How will your typeface be used? What material can you present in your typeface to take it to a new level? Can the website surprise viewers in some way to further explore the concept even more?
+
+
+## Examples of innovative typography specific for screen
+
+* (link: https://www.youtube.com/watch?v=tPxgi-PiNFE text: Enter the Void Trailer) by Gasper Noe, 2011
+* (link: https://www.youtube.com/watch?v=Ud4NN8pE74A text: Watch Wyoscan) by Dexter Sinister, 2012
+* (link: https://vimeo.com/65248695 text: Letter & Spirit) by Dexter Sinister, 2012
+* (link: https://www.youtube.com/watch?v=xWRRAw6xzos text: Rhythmetic) by Norman McLaren and Evelyn Lambart, 1956
+* (link: http://weiyi.li/now/ text: Now) by Weiyi Li, 2011
+* (link: http://nowismorethanever.com/ text: Now Is More Than Ever) by Damon Zucconi
+* (link: https://vimeo.com/36132600 text: Unicode) by Joerg Piringer, 2012
+* (link: http://www.sweetheartsweetheart.com/ text: Sweethearts) by Emmett Williams, 1966, and Mindy Seu, 2014
+* (link: http://whitney.org/NewIdentity text: Whitney's Responsive W) by Experimental Jetset, 2013 — (link: http://www.experimentaljetset.nl/archive/whitney-museum-identity text: more)
+* (link: https://www.youtube.com/watch?v=n4MDsCmGkto text: bOOg) by (link: http://www.delaware.gr.jp/ text: Freeware/Delaware), 2012
+* (link: https://vimeo.com/60651938 text: Computed Type) by Christoph Knoth, 2013 — (link: https://twitter.com/ComputedType text: more)
+* (link: http://instructionsforatypeface.laurelschwulst.com text: Instructions for a Typeface) by Laurel Schwulst, 2010
+* (link: http://www.radimpesko.com/ text: Radim Pesko)'s typefaces
+
+
+##Schedule
+
+(underline: First Sketch) — *Due Wednesday, October 21*
+Create three unique directions for your typeface after viewing the demo in class. Begin by sketching the letters H O D N O P. Conceptually and formally, each direction should be uniquely different from each other. While sketching, consider how each typeface would exist as code and in the browser space. (Do this in InDesign or Illustrator, and come to class on Wednesday with a PDF.)
+
+(underline: Second Sketch) — *Due Monday, October 26*
+Based on feedback, design "HODNOP" in three additional directions for P3. If you have a favorite direction, see how far you can push it. Try creating specific words in your typeface that aren't HODNOP. Try seeing what happens when you have a whole sentence. Then show how at least one letter of your typeface exists in code. Continue to think about how your typeface as a whole will behave on the web.
+
+Tips:
+* Revisit the examples on this page (above)
+* Ask yourself: What makes a typeface specific to the screen or the web?
+* Think about your typeface in two states. (How does your typeface "breathe"?)
+* Think about what your typeface would do if it were a screen saver.
+
+(underline: Website development) — *Due Monday, November 2*
+Present two directions your website could take.
+
+(underline: Final) — *Due Monday, November 9*
+Present a final website containing typeface.
+
+## Credit
+
+Thank you to (link: http://www.brianwatterson.com/ text: Brian Watterson) for letting me adapt this project to this class.

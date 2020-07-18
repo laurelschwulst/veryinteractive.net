@@ -1,0 +1,24 @@
+Title: Spring 2014 Interactive Design at Yale
+
+----
+
+Hide-title: 0
+
+----
+
+Metadata: 
+
+----
+
+Text: 
+
+##Highlights
+
+* First time doing "Tutorial as Form" project
+* Guest Sally Thurer critiqued "25 Variations" projects
+* Guest Jeffrey Scudder lectured about JavaScript
+
+##See also
+
+* (link: classes/spring-2014-interactive-design-at-yale/syllabus text: Syllabus)
+* (link: classes/spring-2014-interactive-design-at-yale/people text: People)

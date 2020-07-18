@@ -1,0 +1,38 @@
+Title: People
+
+----
+
+Hide-title: 0
+
+----
+
+Metadata: 
+
+----
+
+Text: 
+
+*People ... Spring 2018 Interactive Design at Yale*
+
+##Participants
+
+Kyla Arsadjaja
+Maria Candanoza
+Evan Chang
+Lauren Chun
+Rosa Chung
+Jake Brussel Faria
+Taylor Hobbs
+Jinu Hong
+Zhiyan Huang
+Daniel Lee
+Danielle Lotridge
+Kang Ma
+Zack Robbins
+José Rodríguez
+Steven Rodriguez
+Wenwen Zhang
+
+##TA
+
+Matthew Wolff

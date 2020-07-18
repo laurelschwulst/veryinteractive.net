@@ -1,0 +1,80 @@
+Title: Poem Cube
+
+----
+
+Metadata: 
+
+----
+
+Color: #aae0d2
+
+----
+
+Text: 
+
+##Instructions
+
+1. Create a poem to be displayed on a *physical* 8" x 8" x 8" cube.
+
+2. Please obey the following constraints:
+ 
+* Each side must have no more than 50 characters.
+* Each side must only have typography (no imagery).
+* The cube must have no color. It must be in black and white (no gray).
+* You must only use found text. That said, it should exist somewhere else.
+ 
+3. Please make up three of your own constraints. You can do this before or during the making of your poem cube. (Make sure that at the end, your poem cube follows these constraints.) You do not have to tell us the constraints, but we may guess.
+
+
+##Guidelines
+
+(underline: Consider your text)
+
+Since you must use found text, where does it come from? If you choose multiple sources, how do they relate? Select your text wisely. 
+ 
+Some good sources of found text include:
+* books, articles
+* news headlines 
+* flyers, ads
+* receipts
+* weather reports 
+* instructions (manual for device, how-to, self-help, recipes) 
+* table of contents 
+* emails, letters, correspondence
+* tweets
+* user comments (YouTube, Facebook, etc.) 
+* captions of images 
+
+For the purposes of this project, a bad source is another poem (mostly because we are already using an existing poem in our other project, (link: projects/variations text:25 Variations)). 
+ 
+You are free to remix your text(s) as you choose. The words themselves must come from your source(s).
+
+(underline: Consider your text’s appearance)
+
+Think about your typographic decisions. Will it have very small, small, medium, or large, or extra large text? Will it be light weight, bold, italic, and/or all caps? What typefaces will you choose? 
+ 
+Please also make sure that your poem’s appearance relates to your content in some way. I encourage you to be critical in the relationship between text and how it is displayed. Stay away from the obvious or cliché.
+
+(underline: Think about how your cube will be handled)
+
+How do the sides relate to each other? When you are one side, which one will you go to next? Is there a “right way” to view or handle your cube, or is any way correct?
+
+(underline: Consider your cube’s ideal environment)
+
+How should it exist in the world? Is it a gift you buy in a gift shop? Is it something to look at in a garden near flowers? Is it a desk toy? Is it a game to play with your friends?   Is it a tool? Should it live underwater or be suspended in the air? 
+ 
+(underline: Please practice making your poem cube so that it has good craft)
+
+I suggest you use either card stock or foam core for the base of your cube. Make sure that your printed 8" x 8" sides that you glue onto the cube do not have air bubbles. 
+
+(underline: I encourage you to try an extreme approach)
+
+... that is surprising, memorable, monumental, soothing, shocking, unpredictable, radically boring, bizarre, mind-blowing, very quiet and subtle, and/or amazing. Some aspect of your cube should be awesome.
+
+##Evaluation
+A good poem cube will:
+* Obey all the required and self-imposed constraints
+* Have typographic decisions that relate to the content in some way
+* Have sides that relate to each other in some way
+* Be crafted well 
+* Be surprising and memorable to view, read, and handle

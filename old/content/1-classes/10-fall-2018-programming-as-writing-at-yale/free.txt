@@ -1,0 +1,29 @@
+Title: Fall 2018 Programming as Writing at Yale
+
+----
+
+Hide-title: 0
+
+----
+
+Metadata: 
+
+----
+
+Text: 
+
+##Highlights
+
+- First time teaching graduate class
+- Student-led hypertext-weave-style readings
+- Free writing period and constraint writing activity at beginning of each class
+- Readings/performances of websites at the end of course
+- Two virtual guests: (link: https://christoph-knoth.com text: Christoph Knoth) and (link: https://harmvandendorpel.com text: Harm van den Dorpel) — (link: https://youtu.be/VOPuCzSg_xk text: link to lecture)
+
+##See also
+
+(link: http://veryinteractive.net/content/1-classes/10-fall-2018-programming-as-writing-at-yale/syllabus-fall2018.pdf text: Syllabus)
+
+(link: classes/fall-2018-programming-as-writing-at-yale/people text: People)
+
+(link: http://fall2018.veryinteractive.net text: Class site)

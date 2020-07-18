@@ -1,0 +1,24 @@
+Title: Spring 2018 Design 2B at Rutgers
+
+----
+
+Hide-title: 0
+
+----
+
+Metadata: 
+
+----
+
+Text: 
+
+## Highlights
+
+- First time teaching physical computing and Arduino
+- First time teaching at Rutgers
+- "Imagining your dream device" exercise
+
+## See also
+
+* (link: classes/spring-2018-interactive-design-at-rutgers/people text: People)
+* (link: http://spring2018-rutgers.veryinteractive.net text: Class site target: _blank)

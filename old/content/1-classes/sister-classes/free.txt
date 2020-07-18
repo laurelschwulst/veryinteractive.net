@@ -1,0 +1,25 @@
+Title: Sister classes
+
+----
+
+Hide-title: 0
+
+----
+
+Metadata: 
+
+----
+
+Text: 
+
+(link: http://talking-digital.net/purchase-spring-2018/ text: Design for the Web) by Sasha Portis, Purchase
+(link: http://art.yale.edu/Art742b text: Networks and Transactions) by Dan Michaelson, Yale
+(link: http://www.designforthe.net text: Design for the Net) by Mindy Seu, CCA
+(link: http://interactive1fall2015.kellyannwalters.com/ text: Interactive 1) by Kelly Walters, CCA
+(link: http://yaleinteractivesummer2017.com text: Interactive Summer 2017) by Eric Nylund, Yale
+(link: http://www.rey.sc/pucd-2035-fall-2015.html text: Creative Computing) by Jeffrey Scudder, The New School
+(link: http://gdfwf15.cvalla.com/ text: GD for the Web) by Clement Valla, RISD
+(link: https://tchoi8.github.io/poetic-computation-16/ text: Poetics and Politics of Computation) by Taeyoon Choi, SFPC
+(link: http://mobile-desktop.xyz text: Mobile Desktop) by Luke Archer, Yale
+(link: http://www.beckmans.digital/ text: Beckmans Digital) by Peter Ström, Beckmans College of Design in Stockholm
+(link: https://edu.brianwatterson.com/ text: Creative Computing) by Brian Watterson, Parsons

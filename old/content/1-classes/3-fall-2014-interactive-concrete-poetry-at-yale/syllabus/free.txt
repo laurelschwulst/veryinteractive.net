@@ -1,0 +1,79 @@
+Title: Syllabus
+
+----
+
+Hide-title: 1
+
+----
+
+Metadata: 
+
+----
+
+Text: 
+
+(centered: open)
+Fall 2014
+Freshman Seminar
+Art 005, Interactive Concrete Poetry
+209 Green Hall; Tuesday/Thursday 11:35–12:50pm
+Instructor: Laurel Schwulst, laurel@linkedbyair.net
+TA: Marvin de Jong, marvin.dejong@yale.edu
+ 
+(centered: close)
+
+##Seminar description
+
+This seminar and studio focuses on Concrete Poetry, a genre that utilizes the semantic, visual, and phonetic elements of language as raw materials to arrange words in space.
+
+(image: now-now.jpg caption: “Now Now” by Carl Andre, 1967)
+
+The seminar component will survey Concrete Poetry as a historic art movement that was popularized throughout the 1950’s – 70’s. Unlike many movements that are gathered around a specific place, Concrete Poetry is unique for the appearance of parallel work throughout the world (Brazil, Scandinavia, England and Europe, USA and Canada, Japan) during this time. We will consider Concrete Poetry as an umbrella term, including semantic poetry, calligraphic and typographic poetry, and sound poetry. While classical poems are best described as literary descriptions of abstract images or thoughts, concrete poems use language to create environments in space.
+
+For the studio component, students will create digital poems. While the concrete poems of the past were created in response to the constraints of the physical page, we will create poems that respond to contemporary ideas of digital space.  Students will learn HTML and CSS, the code building blocks of webpages, as well as jQuery and Javascript for dynamic event handling and animation. Short assignments and in-class exercises will reinforce these learned tools while also focusing on specific poetic techniques, processes, and/or constraints. Students will work towards conceiving of and completing final web-based volume of concrete poetry whose content, form, and digital technique is both innovative and memorable.
+
+##Readings
+
+I recommend you buy one book: An Anthology of Concrete Poetry by Emmett Williams (1967), which is a great overview of the genre filled with many examples and annotations by the artists themselves.
+
+For learning about works before 1900, we will consult Pattern Poetry: Guide to an Unknown Literature by Dick Higgins (1987). We will also look through UbuWeb’s Visual Poetry section (http://ubu.com/vp/) to understand its significance and reputability as an online source. 
+
+Additionally, we will look at various small works by artists such as: Guillaume Apollinaire (France), Tauba Auerbach (US), Hugo Ball (Germany), Samuel Beckett (England), Augusto de Campos (Brazil), Paul Elliman (US), Bob Cobbing (England), Öyvind Fahlström (Sweden), Ian Hamilton Finlay (Scotland), Christopher Knowles (US), Jiří Kolář (Czechoslovakia), F.T. Marinetti (Italy), bp Nichol (Canada), Seiichi Niikuni (Japan), Dieter Roth (Iceland), Gerhard Rühm (Austria), Mira Schendel (Brazil), Daniel Spoerri (Germany), Mary Ellen Solt (US), Timm Ulrichs (Germany), Emmett Williams (US).
+
+We will consult critical writing and research about concrete poetry by reading selected articles from publications such as Eye Magazine, Typographica, Dot Dot Dot, and Occasional Papers. 
+
+To transition into new media, we will read excerpts from The New Media Reader edited by Noah Wardrip-Fruin and Nick Montfort (2003).
+
+##Exercises
+
+* Create 5 square collages using only the letters of your name on each one.
+* Bring in a flier you found on campus. Transcribe all the text. Then create 5 different versions of it using only bold uppercase 28/34pt Helvetica on letter size paper. No images or other graphics, only text.
+* Create 5 Shrub collages using found text.
+* More to come...
+
+##Projects
+
+* Project 1 ... 25 Variations
+* Project 2 ... Poem Cube
+* Project 3 ... Translated Poem
+
+##Weekly activities
+
+Usually, Tuesday will be the more structured day of class. Tuesday’s class will include any combination of:
+
+* example-based lecture 
+* exercise critique/discussion
+* group activity to identify visual and poetic elements in selected works 
+
+Thursday’s class will include any combination of skill-based workshop with working lab time and/or individual consultation.
+
+##Grading
+
+10% ... Written reading responses
+20% ... Participation, attitude, diligence
+30% ... Exercises
+40% ... Projects
+
+##Academic integrity
+
+Poetry has a rich history of appropriation, so students will become familiar with using pre-existing language as raw material. Because students will be creating digital poems in this class, the culture and legislation surrounding software and its use will be discussed.

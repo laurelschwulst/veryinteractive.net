@@ -1,0 +1,37 @@
+Title: The Website Obesity Crisis
+
+----
+
+Subtitle: 
+
+----
+
+Author-first: Maciej
+
+----
+
+Author-last: Cegłowski
+
+----
+
+Year: 2015
+
+----
+
+Further-authors: 
+
+----
+
+Download-sentence: Link to text: http://idlewords.com/talks/website_obesity.htm
+
+----
+
+Further-metadata: First presented at the Web Directions conference in Sydney.
+
+----
+
+Text: 
+
+----
+
+Selected-image: 

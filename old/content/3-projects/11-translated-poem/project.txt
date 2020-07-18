@@ -1,0 +1,57 @@
+Title: Translated Poem
+
+----
+
+Metadata: 
+
+----
+
+Color: #84938a
+
+----
+
+Text: 
+
+##Instructions
+
+Choose one poem from the book Emmett Williams’ *An Anthology of   Concrete Poetry* (1967) that would be promising to digitize.  
+ 
+You will be translating this poem into two formats:
+
+(underline: 1. A greeting card.)
+ 
+Go to a Walgreens, CVS, Rite-Aid etc. and find a greeting card to model your card after. Your card should obey the following constraints: 
+
+* Sized 5” x 7” (10” x 7” on the inside). 
+* Have text on all planes (front, inside spread, back).
+* Have the same barcode as your greeting card model.
+* Somewhere on the card, you should state the source material in a clear but non-obtrusive way. 
+
+When you are done with your greeting card, make two copies. Return to Walgreens, CVS, Rite-Aid etc. and place one of your cards there. Monitor what happens to it. Adjust as necessary. 
+
+(underline: 2. A website made for phone.  )
+
+You will make a website that uses HTML and CSS made for experiencing on a phone. Your website must obey the following constraints: 
+* Poem should include at least 3 links.  (It can have multiple pages if necessary.)
+* The website should somehow state the source material in a clear but non-obtrusive way.
+
+When you are done with your website, have others test it on their phones. Adjust as necessary.
+
+
+##Guidelines
+
+1. Choose your poem wisely. A good poem for translation is not only meaningful as-is but could also create new meaning as a greeting card or website. How will it be different in each? 
+
+2. For the greeting card, focus on splitting up your poem into a cover, inside, and back. Look at existing greeting cards and decide what common elements you will preserve in order for it to still look like a normal greeting card to possible customers. 
+
+3. For the website made for a phone, focus on making something that works well on a phone. It should be simple to use: don’t overthink it. Consider pacing since you will likely have more than one HTML page. 
+
+4. Overall, this is an exercise in exploring different mediums. Feel free to experiment to figure out what is best in each one. 
+
+##Evaluation
+A good translation (in both mediums) will: 
+
+* Utilize the unique aspects of the medium at hand
+* Retain some integrity of the original poem
+* Be surprising and memorable to experience 
+* Source the original poem (author, date) in a clear and unobtrusive way

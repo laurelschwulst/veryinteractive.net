@@ -1,0 +1,59 @@
+Title: FAQ on Alternumerics
+
+----
+
+Subtitle: 
+
+----
+
+Author-first: Paul
+
+----
+
+Author-last: Chan
+
+----
+
+Year: 2001
+
+----
+
+Further-authors: 
+
+----
+
+Download-sentence: View Alternumerics project on Wayback Machine, 2005: https://web.archive.org/web/20050307124515fw_/http://www.nationalphilistine.com:80/alternumerics/index.html
+
+----
+
+Further-metadata: 
+
+----
+
+Text: 
+
+**What is Alternumerics?**
+
+*Alternumerics* explores the relationship between language and interactivity by transforming the simple computer font into an art form that explores the fissure between what we write and we what mean. By replacing individual letters and numbers (known as alphanumerics) with textual and graphic fragments that signify what is typed in radically different ways, *Alternumerics* transforms any computer connected to a standard printer into an interactive artmaking installation.
+
+There are currently four Alternumeric fonts. They are Macintosh and Windows compatible and work with any application that uses fonts. Each font is accompanied with work that uses the font to explore the relationship between what is typed, what is translated—and fundamentally—what is communicated when we use language to describe the pleasures of utopia, the slipperiness of the self, the friction of desire, and the poetry of silence.
+
+**What do you have against Helvetica?**
+
+I don’t know why I began to mutilate fonts into forms that both reduce and expand their power. It wasn’t as if language had stopped working for me. I could still seduce my enemies and humiliate my friends with the existing alphanumeric set on my keyboard: I could still write. But I wanted more. I got greedy. I wanted language to work for me and no one else. For Mac and Windows.
+
+**Why fonts? Why not a linux based, MIDI controlled linguistics database with an interactive satellite link to a camera spying on Japanese schoolgirls?**
+
+First of all, it is easy to make fonts. Unlike other new media art practices, the technologies used to make fonts have remained relatively unchanged. The politics of perpetual obsolescence in technology forces most new media art into a state of permanent retardation. Technology should never dictate the form; it can only dictate the field.
+
+The field that fonts play in is expansive and intimate. It is loaded into your computer on a systems level, so any application that uses fonts can play. Word processing applications become linguistic desiring machines; database software becomes De Sadean regulator of philosophical pies charts and perverse graphs. Did I mention that fonts are very small? Their file size is invariably under 100K so virtually any computer can work with them. Simple. Ubiquitous. Viral.
+
+**What have you really done? Really.**
+
+I have essentially reduced the material possibilities of these fonts to signify the immaterial by making the material more specific, more historical, less universal, and more accountable, to me. And like any system that reduces a world it is inherently tragic. Think Diderot’s Encyclopedia. Think Socialism.
+
+This is why the word “tragic” always comes to mind. These fonts write with scars from other bodies. They work like systems that bleed.
+
+----
+
+Selected-image: 

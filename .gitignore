@@ -1,6 +1,5 @@
 .DS_Store
-/site/accounts
-/site/cache
-/assets/avatars
-/thumbs
-/content
+old/site/accounts
+old/site/cache
+old/assets/avatars
+old/thumbs

@@ -1,0 +1,41 @@
+Title: People
+
+----
+
+Hide-title: 0
+
+----
+
+Metadata: 
+
+----
+
+Text: 
+
+## Participants
+
+Herdimas Anggara
+Luiza Dale
+Jessica Flemming
+Hajra Haider
+Bianca Ibarlucea
+Furqan Jawed
+Harin Jung
+Jun Jung
+Minhwan Kim
+Ana Lobo
+Nick Massarelli
+Anezka Minarikova
+Mengyi Qian
+Anna Sagström
+Betty Wang
+Mianwei Wang
+
+## Teaching assistants
+
+Kang Ma
+Steven Rodriguez
+
+## Instructor
+
+Laurel Schwulst

@@ -1,0 +1,92 @@
+Title: Website for a Future Event
+
+----
+
+Metadata: 
+
+----
+
+Color: #1194f4
+
+----
+
+Text: 
+
+## Instructions
+
+Choose a future event. This could be an already-existing future event such as one within the Yale community. Or, this future even could be completely fictional altogether.   Then create three pieces of design: 
+
+(underline: 1. Event Website)
+
+Make a website providing information about your event. This website could serve as an invitation and/or as a general information hub. Focus on giving your event a distinct visual identity and language specific to the theme or content of your event.
+
+Your website should include...
+* the title of the event
+* the time and date of the event
+* the location of the event
+* a map of the event’s location(s), if applicable
+* a trace of the passing of time (in some way)
+* a piece of text (min 500 words) about or related to the event
+* documentation of your physical object explained above
+* a navigation to view all these pieces
+
+(underline: 2. Physical object related to your event)
+
+Options include...
+* Invitation object
+* Flyer/poster about the event
+* Brochure of event agenda
+* Tote bag purchasable at event
+* Other designed object given out at event
+* …
+
+(underline: 3. Event website as time capsule )
+
+Make either a separate website or an addendum to your current event website showing your event as you would like it perceived now that is over. On this website, include artifacts that are important for future visitors of your website to understand and reference your event. This could include event documentation or other evidence that the event is now over.
+
+*Both your event website and event time capsule website must be responsive between mobile (320px wide) and desktop (1200px wide). We will have a responsive workshop to ensure you all know how to do this.*
+
+## Goals
+
+This project is about visual identity over time. You will do this by creating a cohesive website for the event, focusing on giving your event a visual identity to transmit the event’s purpose and spirit. You will create some sort of designed physical object extend and reinterpret this identity. Finally, you’ll create an event time capsule as an archive, fit for the future.
+
+
+********
+
+## Event artifacts
+
+This list of event artifacts is here to help you mentally picture your event. Create some of these artifacts if doing so helps you better understand (and create an identity for) your event.
+
+(underline: Beginning) (event planning and advertisement)
+*  flyer or poster about event
+*  event invitation with envelope
+*  brochure or PDF of event agenda (if complex, spanning multiple days)
+*  designed item of clothing worn exclusively at event
+*  other designed object(s) given out at event
+*  screenshot from event iPhone app
+*  Google Map of event location(s)
+*  Google Doc of directions to the event
+*  Google Doc of inclement or severe weather plans (if event is outside)
+*  event’s Facebook page (showing people who RSVP’d)
+*  email thread between friends about event (with attachments?)
+*  email thread between event collaborators (with attachments?)
+
+(underline: Middle) (event itself)
+*  audio recording of event
+*  video recording of event
+*  image recording of event
+*  text threads between event participants
+*  tweets with special event hashtag
+*  altered physical objects (somehow transformed during event)
+
+(underline: End) (event aftermath)
+*  curated selection of audio, video, or image recording of event
+*  summary of event on blog or magazine website
+*  event’s Facebook page (showing comments from participants)
+*  event’s Yelp page (showing reviews from participants)
+
+(underline: Websites that produce physical artifacts from digital files)
+*  (link: http://lulu.com text: Lulu.com) (books, calendars, other printed material)
+*  (link: http://spoonflower.com text: Spoonflower.com) (fabric)
+*  (link: http://zazzle.com text: Zazzle.com) (all sorts of useful printable items, like tshirts)
+*  (link: http://shapeways.com text: Shapeways.com) (3D printed objects)

@@ -1,0 +1,29 @@
+Title: Weather and Moon
+
+----
+
+Metadata: 
+
+----
+
+Color: #ffb600
+
+----
+
+Text: 
+
+##Instructions
+
+1. Explore aerisweather.com and decide, using its functionality, whether you want to present weather forecast data or moon phase data .
+
+2. Find a good way to display this data for three different cities on one page.
+
+##Goals
+
+It is your responsibility to frame this content in a way you see useful and meaningful. This could be done simply be through specific styling of style.css, or you could also add other content to your site that gives the data new meaning. My only requirement is that you have at least the data for three different places (as shown in the template). For this project, I am most interested in surprise and poetics of utility.
+
+“Everyone has a different ‘function’ or necessities. ... Maybe a young man wants to put his rolls in a container, whereas a young woman wants to put all her books there. I don’t know. There is no generic function. Function is life. I cannot foresee function. The furniture I have designed has always been functional. However, one needs to know what it is for.” — Ettore Sottsass, Italian architect and designer
+
+##Credit
+
+Thanks to Dan Michaelson who has done a similar project in his class (link: http://art.yale.edu/Art742b text: Networks & Transactions).

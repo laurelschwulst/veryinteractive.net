@@ -1,0 +1,98 @@
+Title: Syllabus
+
+----
+
+Hide-title: 1
+
+----
+
+Metadata: 
+
+----
+
+Text: 
+
+(centered: open)
+Spring 2013
+Art 367b, Intermediate Graphic Design
+210 Green Hall; Tuesday/Thursday 1:30–3:20pm
+Instructor: Laurel Schwulst, laurel@linkedbyair.net
+TA: Julia Novitch, julia.novitch@yale.edu
+ 
+(centered: close)
+
+##Course description
+
+This course focuses on interaction design with projects that are based online. Questions asked during the course include:
+* Is it specific?
+* Is it memorable?
+* Does it communicate the idea through its form?
+
+*This course has a formal emphasis, using what knowledge students have about composition, typography, and hierarchy as a basis.*
+
+* What is the prompt?
+* What is the corresponding feedback?
+* Do the prompt and feedback make sense together?
+
+*We will look at an interaction as a prompt and feedback, an input and output, a call and response. We will examine their relation but also not limit an interaction to a closed, hermetic environment, but view the web as a very social ecosystem in which time and performance play an important role.*
+
+* Where is the navigation?
+* Is this worth a click?
+* Is this worth scrolling?
+* What are the different conditions in which this can exist?
+* How does this change in each of those conditions?
+* What happens to this when it expands?
+
+*We will examine web-specific design problems, focusing on navigating a website and the pacing throughout. Design should be conditional online, changing in response to its users and environment, so we will create accommodating, flexible systems.*
+
+Students will learn best-practices online, both in code craft and website design. Students will be given instruction in basic front-end programming languages HTML, CSS, and some JavaScript in order to complete four multi-phase projects. No prior programming experience is necessary.
+
+We will also examine the history of the web from its creation in the 1960s to its more widespread use today. We will understand the web’s shift from a specialized zone for nerds and the technologically-minded to a more mainstream world for just about everyone.
+
+The course will heavily employ real-world, contemporary examples of design, art, and presences online. These thematic groupings of portfolios, archives, exhibition platforms, magazines, web apps, etc. will be examined with a critical eye and mind. Additionally, we will discuss what makes a design practice and the importance of discovering each student’s unique methodology.
+
+This course is open to undergraduate students who have taken Intro to Graphic Design or Typography courses, graduate students in the Preliminary year, or through my permission.
+
+##Weekly activities
+
+Tuesday’s class will include any combination of...
+
+* example-based lecture
+* skill-based workshop
+* project critique and discussion
+* class discussion of readings
+* group activity to identify design elements in selected websites or books
+* ten-minute student presentation on living designer or online presence
+
+Thursday’s class will be working lab time and individual consultation.
+
+##Projects
+
+(project: P0) ... Visual Tweets
+(project: P1) ... 25 Variations
+(project: P2) ... Website for an Event
+(project: P3) ... Weather and Moon
+
+##Evaluation
+
+In this class, students will strive to make memorable, functional online experiences. Assignments should both take a stance (be poetic, critical, and clear) and also be functional (achieve their goals and not break). The invention of useful products is not the focus of this class, but the invention of useful techniques and approaches might be. Craft (in both code and design) and overall presentation are also important. Taking risks and having fun are encouraged.
+
+##Academic Integrity
+
+In the context of the web, we will discuss maintaining integrity by finding the right balance of original and appropriated content. In creating websites, we will learn what technologies are good (and necessary) to appropriate, how to credit, and the implications of being open source. We will also examine proper blogging etiquette, the difference between good and bad sources online, and the morality of “stealing” from the internet.
+
+##Grading
+
+20% ... (project: P0)
+20% ... (project: P1)
+20% ... (project: P2)
+20% ... (project: P3)
+20% ... Homework
+
+##Attendance
+
+Attendance is mandatory. Three or more absences or excessive tardiness will result in a failing grade. If you must miss class, please email me in advance.
+
+##Materials
+
+Since the class takes place in a lab with computers, personal laptops are not required. However, students should be responsible for their files and either bring a physical zip drive to class or back up their files with a file hosting service. (I recommend dropbox.com, with free cloud hosting starting at 2GB.) Finally, for image-making and sketching, I recommend Adobe Photoshop and InDesign.

@@ -1,0 +1,108 @@
+Title: Syllabus
+
+----
+
+Hide-title: 1
+
+----
+
+Metadata: 
+
+----
+
+Text: 
+
+(centered: open)
+Spring 2015
+Art 367b, Interactive Design
+209 Green Hall (Computer Lab); Monday 1:30–5:20pm
+Instructor: Laurel Schwulst, laurel@linkedbyair.net
+TA: Eric Nylund, eric.nylund@yale.edu
+ 
+(centered: close)
+
+##Course description
+
+This course focuses on interaction design with projects that are based online. Questions asked during the course include:
+* Is it specific?
+* Is it memorable?
+* Does it communicate the idea through its form?
+
+*(This course has a formal emphasis, using what knowledge students have about composition, typography, and hierarchy as a basis.)*
+
+* What is the prompt?
+* What is the corresponding feedback?
+* Do the prompt and feedback make sense together?
+
+*(We will look at an interaction as a prompt and feedback, an input and output, a call and response. We will examine their relation but also not limit an interaction to a closed, hermetic environment, but view the web as a very social ecosystem in which time and performance play an important role.)*
+
+* Where is the navigation?
+* Is this worth a click?
+* Is this worth scrolling?
+* What are the different conditions in which this can exist?
+* How does this change in each of those conditions?
+* What happens to this when it expands?
+
+*(We will examine web-specific design problems, focusing on navigating a website and the pacing throughout. Design should be conditional online, changing in response to its users and environment, so we will create accommodating, flexible systems.)*
+
+The course will heavily employ real-world, contemporary examples of design, art, and presences online. These thematic groupings of artwork, portfolios, archives, exhibition platforms, blogs, web apps, etc. will be examined with a critical eye and mind. Additionally, we will discuss what makes a design practice and the importance of discovering each student’s unique approach and methodology.
+
+This course is open to ~12 students. It is required for the ~6 graduate students in the Preliminary year of the Graphic Design track. The other ~6 spaces are open to undergraduate students who have taken Intro to Graphic Design or Typography courses (Art 132 and Art 264). Preference is given first to those undergraduates who have these two courses, then to art majors, then to seniors of other majors. Interested students with special circumstances can speak to me directly. *(I will be in touch via email on Monday, January 19 about the final class roster.)*
+
+##Class activities 
+
+In general, the four hour long class will be broken into two halves. 
+
+One half will include any combination of:
+* example-based lecture/discussion
+* project critique/discussion
+* reading discussion
+* group activity to identify design elements in selected websites or books
+* short, ten-minute student presentation on interview findings
+
+The other half will include any combination of skill-based workshop with working lab time and/or individual consultation.
+
+##Weekly interview findings
+
+Each class (starting Class 3), one student will give a ~10 minute presentation on a living designer, artist, or online presence. This person/ presence should be contactable via the internet, and this should be someone you haven’t communicated with before. Conduct an interview (via email, chat, Skype, etc.) with this person and then present your findings. For the class website, email me documentation of the interview that takes the form of a PDF presentation. *It is important that you start contacting your interviewee as soon as possible in the semester.*
+
+##Themes
+Throughout the duration of the course, groups of content (readings and videos) will be given around these specific themes:
+* Performance is Change Over Time
+* Laws and Constraints
+* Typography re: Technology
+* Design is ...
+* Multiplicity and the Internet
+
+##Projects
+(project: P1) ... Simple Frame
+(project: P2) ... Exercises in Style
+(project: P3) ... Website for a Future Event
+(project: P4) ... Living Aggregator
+
+##Evaluation
+In this class, students will strive to make memorable, functional online experiences. Projects should both take a stance (be poetic, critical, and clear) and also be functional (achieve their goals and not break). The invention of useful products is not the focus of this class, but the invention of useful, surprising techniques and approaches might be. Craft (in both code and design) and overall presentation are also important. Taking risks and having fun are encouraged.
+
+##Grading
+20% ... (project: P1)
+20% ... (project: P2)
+20% ... (project: P3)
+20% ... (project: P4)
+20% ... Class participation, diligence, and attitude
+
+At the end of the term, you will be required to send me an archival .zip file of all project materials divided into folders (project: P1), (project: P2), (project: P3), and (project: P4). Please keep this in mind as you organize your materials throughout the semester.
+
+##Academic Integrity
+Students will become familiar with using pre-existing language, images, and software as raw material while creating entirely new works. While making websites, we will learn what technologies are good (and necessary) to appropriate and how to properly credit their inclusion.
+
+##Attendance
+Attendance is required. There are only 14 total classes since we meet only once each week, so each one is very important. Three or more absences or excessive tardiness will result in a failing grade. If you absolutely must miss class, email me in advance.
+
+##Materials
+The class takes place in a computer lab. Students can choose to use their own personal laptops or the computers in the lab. Either way, students should be responsible for their own files, making sure to back them up in some way. For editing and updating code, a code editor such as Sublime Text is needed. For image-making and sketching, Adobe Photoshop, Illustrator, and InDesign are standard tools that are available on most Yale computers. Other good digital-image making tools include a phone, digital camera, scanner, screen capture, etc.
+
+##iPads   
+This Spring 2015 semester, each student enrolled will receive an iPad Air from The Yale Center for Teaching and Learning. The iPads will loaded with a handful of image-making apps for use on (project: P1). If you already have an iPad that you would like to use, please let me know.
+
+##Dump   
+Also new this Spring 2015 semester is the class dump. Each week there will be a different theme, and each week each student should dump at least two times according to this theme. Dump means post a link on the “dump” section of the class website.

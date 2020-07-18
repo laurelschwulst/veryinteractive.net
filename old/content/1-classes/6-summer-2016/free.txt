@@ -1,0 +1,23 @@
+Title: Summer 2016 Intro to Interactive Design at Yale
+
+----
+
+Hide-title: 0
+
+----
+
+Metadata: 
+
+----
+
+Text: 
+
+## Highlights
+* First time doing "Timer App" project
+* First time doing "Website for the World" project
+* First time teaching intensive (5-week) summer course
+
+## See also
+* (link: classes/summer-2016/syllabus text: Syllabus)
+* (link: classes/summer-2016/people text: People)
+* (link: http://summer2016.veryinteractive.net text: Class site)

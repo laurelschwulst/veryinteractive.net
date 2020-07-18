@@ -1,0 +1,40 @@
+Title: People
+
+----
+
+Hide-title: 1
+
+----
+
+Metadata: 
+
+----
+
+Text: 
+
+*People ... Spring 2015 Interactive Design at Yale*
+
+##Participants
+
+Shoshana Bieler
+Chase Booker
+Carr Chadwick
+Laura Coombs
+Walden Davis
+Bobby Dresser
+Lian Fumerton-Liu
+Marta Galazcancio
+Cindy Hwang
+Theodore Mathias
+Caroline Potter
+Kai Takahashi
+Megan Valentine
+Mariah Xu
+
+##TA
+
+Eric Nylund
+
+##Instructor
+
+Laurel Schwulst

@@ -1,0 +1,38 @@
+Title: People
+
+----
+
+Hide-title: 1
+
+----
+
+Metadata: 
+
+----
+
+Text: 
+
+*People ... Spring 2019 Interactive Design at Yale*
+
+##Participants
+
+Herdimas Anggara
+Milo Bonacci
+Jessica Flemming
+Vicky Gebert
+Tommy Huang
+Harin Jung
+Minhwan Kim
+Monica Kim
+David Knowles
+Sunnie Liu
+Julia Ma
+Adam Moftah
+Mengyi Qian
+Anna Sagström
+Vlad Vykhodets
+Betty Wang
+
+##Teaching assistant
+
+Willis Kingery

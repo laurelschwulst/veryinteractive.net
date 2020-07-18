@@ -1,0 +1,37 @@
+Title: Balconism
+
+----
+
+Subtitle: 
+
+----
+
+Author-first: Constant
+
+----
+
+Author-last: Dullaart
+
+----
+
+Year: 2014
+
+----
+
+Further-authors: 
+
+----
+
+Download-sentence: Link to article: http://artpapers.org/feature_articles/feature3_2014_0304.html
+
+----
+
+Further-metadata: 
+
+----
+
+Text: (image: balcony.png width: 200)
+
+----
+
+Selected-image: 

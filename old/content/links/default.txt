@@ -1,0 +1,44 @@
+Title: Links
+
+----
+
+Text: 
+
+## Technical resources
+
+(link: http://www.sublimetext.com text: Sublime Text)
+(link: https://pages.github.com/ text: Github Pages)
+(link:https://www.codecademy.com/ text: Codecademy)
+(link: http://freecodecamp.com/ text: Free Code Camp)
+(link: http://learn.shayhowe.com/ text: Shay Howe's Guide to HTML & CSS)
+(link: http://learnlayout.com/ text: Learn Layout)
+(link: https://css-tricks.com/examples/ShapesOfCSS/ text: The Shapes of CSS)
+(link: http://6.470.scripts.mit.edu/2015/lectures text: MIT Code Lectures)
+(link:http://eloquentjavascript.net/ text: Eloquent Javascript)
+(link:https://www.atlassian.com/git/ text: Getting Git Right)
+(link: http://www.lynda.com/Mac-OS-X-10-6-tutorials/Unix-for-Mac-OS-X-Users/78546-2.html text: Unix for Mac OS X Users)
+(link: http://cpc.my-domain.se text: Copy Paste Character)
+(link: https://validator.w3.org/ text: W3C Code Validator)
+(link: http://devdocs.io/ text: Devdocs)
+
+
+## Art resources
+
+(link: https://docs.google.com/spreadsheets/d/1o__WKUBTHLoQX8pSRJsh0wMC8fCGzycQ0ezxe5CklxM/edit#gid=0 text: Residencies, Fellowships, Summer Schools)
+(link: http://rhizome.org text: Rhizome)
+(link: http://conversations.e-flux.com text: e-flux Conversations)
+(link: http://www.spikeartmagazine.com/en text: Spike Art Magazine)
+
+
+## Sister classes
+
+(link: http://www.designforthe.net text: Design for the Net) by Mindy Seu, CCA
+(link: http://art.yale.edu/Art742b text: Networks and Transactions) by Dan Michaelson, Yale
+(link: http://yaleinteractivesummer2017.com text: Interactive Summer 2017) by Eric Nylund, Yale
+(link: http://www.beckmans.digital/ text: Beckmans Digital) by Peter Ström, Beckmans College of Design in Stockholm
+(link: http://mobile-desktop.xyz text: Mobile Desktop) by Luke Archer, Yale
+(link: http://interactive1fall2015.kellyannwalters.com/ text: Interactive 1) by Kelly Walters, CCA
+(link: http://gdfwf15.cvalla.com/ text: GD for the Web) by Clement Valla, RISD
+(link: http://ci.brianwatterson.com/ text: Core Interaction) by Brian Watterson, The New School
+(link: http://www.rey.sc/pucd-2035-fall-2015.html text: Creative Computing) by Jeffrey Scudder, The New School
+(link: https://tchoi8.github.io/poetic-computation-16/ text: Poetics and Politics of Computation) by Taeyoon Choi, SFPC

@@ -1,0 +1,88 @@
+Title: Visual Tweets
+
+----
+
+Metadata: 
+
+----
+
+Color: #ffc4b5
+
+----
+
+Text: 
+
+##*Phase 1*
+
+## Instructions
+
+1. Chose a well-known person, company, or other presence on Twitter. This person/company/presence should, on a regular basis, tweet.
+
+2. Create a new Twitter account specifically for this assignment.
+
+3. For five out of seven days a week for the duration of the 12-week course, make a visual tweet. A visual tweet...
+— has dimensions 700 x 700px
+— is in either .jpg or .png file format
+— includes one of your chosen person/company/presence’s tweets
+— includes a separate image, graphic, and/or other visual element
+— should not take longer than 30 minutes to create
+
+4. Email me your newly created Twitter handle and your chosen person/ company/presence’s Twitter handle.
+
+## Guidelines
+
+This assignment is an exercise in endurance. By the end of the 12-week course, you will have ~60 visual tweets, showing both your and your chosen Twitter’s evolution over time.
+
+This assignment is also a good testing ground: I encourage you to try new techniques and surprising combinations. No single visual tweet you make is that important since there will be many.
+
+However, at the same time, these tweets should be worthwhile to show an audience. After a week or two of tweeting, think about encouraging people to follow you. There are various ways to grow and interact with an audience, but one method is to follow those people who you hope follow you back in return.
+
+## Who to choose
+
+If you have not used Twitter before, knowing whose tweets to make visual might require some research. Many actors and actresses, artists, athletes, authors, comedians, fast food restaurants, fictional characters, hackers, museums, musicians, newspapers, politicians, scientists, and television shows tweet.
+
+Twitter is grounded on relationships and interaction. Finding someone relevant on Twitter will lead to people similar by checking out who the person follows, who he retweets, and whose tweets he has favorited.
+
+## Twitter syntax
+
+Clicking on an individual tweet within a stream of tweets will expand it. In its expanded form, you can see...
+
+(image: twitter-syntax.png)
+
+Tweets are limited to 140 characters. Through text-based URLs, tweets can contain media such as images, video, and audio. These media appear below the tweet in its expanded form. For the sake of our assignment, we will only be posting images. For more information on Twitter technicalities, consult the (link: https://support.twitter.com/articles/166337 text: Twitter Glossary).
+
+## Social style
+
+Using #hashtags, @replies and @mentions are a matter of personal social style. You can decide if and how you want to use these along with your images. They are not necessary but could help in cultivating an audience.
+
+Additionally, you can chose any tweet in your chosen person/company/ presence’s stream to make visual: a tweet from 2 hours ago or one from a year ago is fair game. Experiment to see what seems the most relevant.
+
+## In conclusion
+
+For now, focus strongly on doing these visual tweets as regular exercise, growing and maintaining your creative muscle.
+
+*People may lose 20 to 40 percent of their muscle — and, along with it, their strength — as they age. Scientists have found that a major reason people lose muscle is because they stop doing everyday activities that use muscle power, not just because they grow older.*
+
+ -------
+
+##*Phase 2*
+
+By the end of this course, you will have approximately 60 visual tweets. Now find a way to display them as a collection.
+
+##Instructions
+
+1. Using Tumblr as a platform, upload your visual tweets.
+
+2. How should your collection be displayed? You can start by (link: http://tumblr.com/themes/ text: exploring available themes). See the theme you select as a structural foundation, but something you can still modify.
+
+3. Modify your theme to suit your collection. Refer to (link: http://www.tumblr.com/docs/en/custom_themes/ text: this guide) for reference.
+
+## Tumblr specifics
+
+* Tags (#tagname) can be used to sort your collection
+* “Notes” (likes or reblogs) can be displayed or not displayed
+* Any Tumblr’s archive is viewable here: yourname.tumblr.com/archive
+
+## Short assignment
+
+*This is an internal, self-reflection exercise, not necessarily meant to be displayed on your Tumblr. Write about your visual tweets so far. Who did you initially follow and why? What are your visual tweets about? What are your methods? How did your methods change over time? Now that you have around 40 to 60 visual tweets, what do you think of their collective mass? Did you envision them looking like this?*

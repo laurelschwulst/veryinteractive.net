@@ -1,0 +1,92 @@
+Title: Naming Generator
+
+----
+
+Metadata: 
+
+----
+
+Text: 
+
+Saturday, September 26, 2015
+10am–3pm
+California College of the Arts
+
+(button: View workshop archive link: http://namegenerator.veryinteractive.net)
+
+(image:naming-workshop.jpg)
+
+*"I often come up with a name that I like and then invent a dish to go with it. That's what happened here. I wanted to come up with a soup for the (link: content/workshops/1-name-generator/madras-shirt.png text: Madras shirt) I wore in high school. I felt really good whenever I wore that shirt. The soup has all the colors that were in the plaid: green, yellow, and cranberry. I put some Indian spices in the soup because of the name, but that's not really want the soup is about. It's about the shirt." — Kenny Shopsin of (link: http://www.shopsins.com/ text: Shopsins)*
+
+##1. Walk and think about names
+
+Download (link: http://99percentinvisible.org/episode/title-tk/ text: Title TK) podcast onto your phone or computer. Take a walk outside (or if you only have a computer, find a place somewhere in the building you like) and listen to it.
+
+##2. Look at some generators
+
+(button: See them here link: naming-generator/look-at-some-generators/)
+
+##3. Go into the wild and collect words you see
+
+Leave the classroom for 30 minutes. Take photos of words you see in the wild. (If you don't have a camera, write them down.) They can be any words. Try to get words that interest you, but don't be too picky. Aim to get as many words as you can.  (Try to get at least 30 words or more.)
+
+By "the wild" — I mean outside of the classroom. This can mean outside the building, but it can also mean printed material that are within this building. If decide to collect words from printed material (signs, posters, books, etc.), aim to use multiple sources.
+
+##4. Create two to four lists of words or phrases
+
+Based on your outing, look at the words you collected. Use a few of them as starting points. Create two to four lists of words. Each list should have some sort of theme, or be similar in some way. As a guiding principle, each list should have 10+ items to start.  Your lists should be separate in some way (in theme, purpose, or structure).
+
+##5. Look at code and see how it works for *A House of Dust*
+
+I made two versions of Alison Knowles' poem. Download this (link: http://namegenerator.veryinteractive.net/a-house-of-dust.zip text: .zip) file to view. Pick one of the versions. Then view its source code in your web browser. Paste it into a new Sublime Text document. Save that document as "index.html" and place it in a new folder (you could call it "generator") . Drag your index.html to your web browser to see that you have an identical copy to the one online. We'll then go over some coding basics.
+
+##6. Insert your lists into the code
+
+Replace *A House of Dust* lists in the code with your own lists (in the Javascript). 
+
+##7. Test your generator by refreshing your page, modify as necessary
+
+Ask yourself: What is a good generator? How should you feel each time you press the button and see the result? One answer is that a good generator should create surprising combinations. They should feel new in some way. Modify your source lists if necessary to make this happen. Then think about how you want to connect your words. Do you want them to touch? Do you need short phrases in between them? Modify your HTML if necessary. Then tweak how your page looks (in the CSS) if it helps you think about the content better.
+
+##8. Return to the wild for more words
+
+(Optional) Take another trip into the wild, this time for 20 minutes. Collect more words. Modify your lists accordingly.
+
+##9. Writing exercise based on generator
+
+1. Pick a type of thing. (Such as city, country, perfume, chair, fruit, disease, chair, pet, etc.)
+
+2. Open up your generator and have your pen/pencil or computer notepad ready.
+
+3. Set a timer for 1 minute. Start it.
+
+4. In this minute, write a short description of what your (thing) would be like. For example: "A chair that is ..." etc. I would recommend that you use parallel structure here. (That is, always start or end it with the same thing, for example.)
+
+5. Finish your description. Press the button on your generator and reset your time for 1 minute.
+
+6. Repeat until you have 15 short descriptions of your (thing). So, this will only take 15 minutes!
+
+***
+
+(image: blank-sign.jpg)
+
+##Tools we will use
+
+* (link: http://www.sublimetext.com/ text: Sublime Text) for editing code
+* (link: https://www.bitballoon.com/ text: Bit Balloon) for uploading our sites
+* (link: https://docs.google.com/document/d/1t_m_1aVElkA2VbsnOs4SlrIx2zYXgJ15a0_DYcL-_j0/edit?usp=sharing text: Google Doc) for sharing text and links
+
+##Some helpful code links
+
+* (link: http://learn.shayhowe.com/html-css/getting-to-know-html/ text: Getting to know HTML)
+* (link: http://learn.shayhowe.com/html-css/getting-to-know-css/ text: Getting to know CSS)
+* (link: http://chancejs.com/ text: Chance.js)
+* (link: http://www.lpb-riannetrujillo.com/blog/haiku-generator/ text: Javascript Haiku Generator)
+* (link: http://bigab.github.io/jQuery-Combinations-Plugin/ text: jQuery Combinations Plugin)
+
+##Text tools online
+
+* (link: http://www.eddeaddad.net/charNG/ text: charNG)
+* (link: http://patorjk.com/software/taag/#p=display&f=Graffiti&t=Type%20Something%20 text: ASCII Text Generator)
+* (link: http://www.panix.com/~eli/unicode/convert.cgi?text=This+is+pretty+fun+too.+Do+something+for+your+group+tag text: Unicode Text Converter)
+* (link: http://copypastecharacter.com/ text: Copy Paste Character)

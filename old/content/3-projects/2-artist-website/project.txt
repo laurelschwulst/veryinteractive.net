@@ -1,0 +1,57 @@
+Title: Artist Website
+
+----
+
+Metadata: 
+
+----
+
+Color: #9D9D9D
+
+----
+
+Text: 
+
+**Instructions**
+
+1. Read Orit Gat's essay, “(link: http://veryinteractive.net/library/scroll-skim-stare target: _blank text: Scroll, Skim, Stare)”.
+
+2. Choose an artist to make a website for. This should be a non-fictional artist, that is, someone who is alive or once lived as an artist in the world.
+
+3. Create a website for this artist that takes an active stance on Orit Gat's essay. She will be our final guest critic on the last day of class, so you should make something you are excited to show and discuss with her.
+
+**Rules**
+
+- Your website should somehow change on mobile and/or tablet devices.
+- If you have the ability, do not communicate with your artist during the course of this project. This project is not about managing a client relationship. If you want to communicate with your artist, wait until the project is complete, as then you'll have something interesting to talk about.
+- Please note that while you will be exposed to JavaScript and jQuery during the course of this project, their use is optional on this project.
+
+**Schedule**
+
+<u>Class 10 — Research</u>
+
+After rereading Gat's essay, choose 3 “good” artist websites and write a little explanation for each. Then choose 3 “bad” artist websites and write a little explanation for each. Email me these sites and explanations.
+
+<u>Class 11 — Readings 1: “Laws in Art & Design” and small group meetings</u>
+
+Read both “(link: http://veryinteractive.net/library/a-lawless-proposition target: _blank text: A Lawless Proposition)” (2011) by Paul Chan and “(link: http://veryinteractive.net/library/sometimes-it-looks-like-a-duck-sometimes-it-looks-like-a-rabbit-governance-structures-in-graphic-design-decorative-form-in-law-and-schools-in-the-public-sphere text: Sometimes it looks like a duck, sometimes it looks like a rabbit target: _blank)” (2012), and interview between Yale law professor Jack Balkin and designer Dan Michaelson. Choose one of the following prompts and create a written reponse (and upload it to your class homepage):
+
+1. “When the school asked my company to redesign it, we knew the school was an incredibly vibrant community, where students unceasingly develop new ideas about what art should be.” says Dan Michaelson about art.yale.edu. So, what should art be? The Yale School of Art’s website was made 10 years ago now. If you were tasked with a redesign or update, how might you change it to reflect your opinion?
+
+2. “Art appears when what is made feels as if there is a profound misunderstanding at the heart of what it is, as if it were made with the wrong use in mind, or the wrong idea about what it is capable of, or simply the wrong set of assumptions about what it means to fully function in the world. A work works by not working at all. By not obeying the law of any system or authority external to the process of its own making, a work emphatically expresses its own right to exist for itself and in itself, and questions — by merely existing — the rule of law that works to bind all to semblance of the common good. Art is a lawless proposition.” Do you agree with Chan’s definition of art? Do you think this can be extended to design as well?
+
+<u>Class 12 — Readings 2: “Design is ...” and individual meetings</u>
+
+Read “(link: http://veryinteractive.net/library/the-crystal-goblet text: The Crystal Goblet target: _blank)” by Beatrice Warde (1932, 1955), “(link: http://veryinteractive.net/library/fuck-content text: Fuck Content target: _blank)” by Michael Rock (2009), and “(link: http://veryinteractive.net/library/research-destroy text: Research and Destroy target: _blank)” by Daniel van der Velden (2006). Then create a written response (and upload it to your class homepage):
+
+<blockquote>What is your personal working definition of “design”? (By “working” I mean for you currently and it is okay if this definition is aspirational.) You can reference the articles, and you can bring your own references if desired.</blockquote>
+
+<u>Class 13 — Working session</u>
+
+<u>Class 14 — Final critique with Orit Gat</u>
+
+***
+
+*Optional viewing:*
+
+*Young Hae Chang Heavy Industries, (link: http://www.yhchang.com/PERFECT_ARTISTIC_WEB_SITE.html target: _blank text: Perfect Artistic Web Site).*

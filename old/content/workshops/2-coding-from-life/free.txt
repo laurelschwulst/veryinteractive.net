@@ -1,0 +1,51 @@
+Title: Coding from Life
+
+----
+
+Metadata: 
+
+----
+
+Text: 
+
+Wednesday, October 14, 2015
+California College of the Arts
+
+*This was the first iteration. It has since been repeated and modified over the years...*
+
+(button: View workshop archive link: http://codingfromlife.veryinteractive.net)
+
+
+## Instructions
+
+1. Download this (link: http://veryinteractive.net/content/workshops/coding-from-life/coding-from-life.zip text: starter kit).
+
+2. During class today, we will make two still life drawings using only HTML and CSS. You will have about one hour for each one.
+
+3. Follow my demo. Then you’ll do your own still life drawings.
+
+When you’re done, you should have two div's with class of "canvas" on your page. Each should contain a different drawing you did in class. Make sure to link your “Coding from Life” drawings from your class homepage.
+
+
+## Resources
+
+* (link: https://css-tricks.com/examples/ShapesOfCSS/ text: Shapes of CSS)
+* (link: https://pattle.github.io/simpsons-in-css/ text: Simpsons in CSS)
+* (link: http://appendto.com/2014/03/replacing-common-ui-icons-with-css-2/ text: Common UI elements in CSS)
+* (link: http://www.cssmatic.com/ text: CSS Matic)
+* (link: http://devdocs.io/css/ text: Devdocs: CSS)
+* (link: http://devdocs.io/html/ text: Devdocs: HTML)
+
+
+## Documentation
+
+(image: coding-from-life.jpg)
+
+
+## Credit
+
+Thanks to Chris Vamos who had a similar idea in 2010.
+
+----
+
+Hide-title: 0

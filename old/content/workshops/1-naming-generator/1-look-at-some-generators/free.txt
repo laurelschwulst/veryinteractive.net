@@ -1,0 +1,25 @@
+Title: Look at some generators
+
+----
+
+Metadata: 
+
+----
+
+Text: 
+
+(image: house-of-dust-bw.jpg caption: A House of Dust by Allison Knowles and James Tenney, 1967)
+
+(image: mark-tansey-wheel.jpg caption: Wheel of Langauge by Mark Tansey)
+
+(image: queneau-cent-mil-book.jpg caption: A Hundred Thousand Billion Poems by Raymond Queneau, 1961)
+
+(link: http://nickm.com/poems/upstart.html text: Upstart) by Nick Montfort
+
+(link: http://nickm.com/poems/taroko_gorge.html text: Taroko Gorge) by Nick Montfort
+
+(link: http://slowverb.com text: Slow Verb) by Damon Zucconi
+
+(link: https://twitter.com/artassignbot text: Art Assignment Bot) by Jeff Thompson
+
+(link: https://twitter.com/horse_ebooks text: @horse_ebooks) by Synydyne

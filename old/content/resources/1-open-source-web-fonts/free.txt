@@ -1,0 +1,32 @@
+Title: Open Source Web Fonts
+
+----
+
+Text: 
+
+## Tools to find webfonts
+
+(link: http://usemodify.com/ text: Use Modify)
+(link: http://www.typesample.com/ text: Type Sample)
+(link: https://www.typewolf.com/ text: Type Wolf)
+
+
+## Individual designers, artists, and/or studios who give out open source fonts
+
+(link: http://brycewilner.com/fonts.html text: Bryce Wilner)
+(link: http://www.etienneozeray.fr/ text: Étienne Ozeray)
+(link: http://ospublish.constantvzw.org/foundry/ text: OSP Foundry)
+(link: http://raphaelbastide.com/ text: Raphaël Bastide)
+(link: https://github.com/weiweihuanghuang text: Wei Huang)
+
+
+## Make your own
+
+(link:http://fontforge.github.io/en-US/ text:FontForge)
+(link: http://www.fontsquirrel.com/tools/webfont-generator text: Font Squirrel Webfont Generator)
+
+
+## Websites with easy to use custom web fonts
+
+(link: https://www.google.com/fonts text: Google Fonts)
+(link: http://www.fontsquirrel.com/ text: Font Squirrel)

@@ -1,0 +1,37 @@
+Title: A Handmade Web
+
+----
+
+Subtitle: 
+
+----
+
+Author-first: J. R.
+
+----
+
+Author-last: Carpenter
+
+----
+
+Year: 2015
+
+----
+
+Further-authors: 
+
+----
+
+Download-sentence: Link to article: http://luckysoap.com/statements/handmadeweb.html
+
+----
+
+Further-metadata: 
+
+----
+
+Text: 
+
+----
+
+Selected-image: 

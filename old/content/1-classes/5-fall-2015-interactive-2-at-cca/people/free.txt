@@ -1,0 +1,56 @@
+Title: People
+
+----
+
+Hide-title: 1
+
+----
+
+Metadata: 
+
+----
+
+Text: 
+
+*People ... Fall 2015 Interactive 2 at CCA*
+
+(image: class-at-internet-archive.jpg caption: Class field trip to San Francisco's Internet Archive)
+
+##Participants
+
+(columns...)
+
+##Section 1
+
+Laluna Chabbani
+Gurleen Gill
+Alfonso Martin
+Ryan McSwain
+Lynn Tian
+Emely Vertiz
+Kyoka Wu
+Reaji Xue
+Yaqi Zhang
+
+++++
+
+##Section 2
+
+Lauren Abele
+Mike Boyce
+Kianna Carlisle
+Tammy Chen
+Jady Chuang
+Janice Echevarria
+Nally Gong
+Yasmeen Khaja
+Jared Kitade
+Heike Kupp
+Ashley Sabatino
+Kelly Stuckey
+
+(...columns)
+
+##Instructor
+
+Laurel Schwulst

@@ -1,0 +1,182 @@
+Title: 25 Variations
+
+----
+
+Metadata: 
+
+----
+
+Color: #fdee2f
+
+----
+
+Text: 
+
+##*Phase 1*
+
+##Instructions
+
+1. Choose an existing poem. It should be written by someone else — someone who is not yourself and someone you do not know on a personal level. As a general rule, the poem should also be able to fit on approximately one printed page (no epic poems).
+
+2. You will be making 25 formal variations using this poem. Each variation will be a separate webpage. For each variation, you will focus on changing the poem's form through shifts in composition, typography, hierarchy, scale, and pacing. The poem's content must remain intact throughout all 25 variations.
+
+3. The 25 variations are divided into 5 levels of 5 variations each. The levels start with my constraints and gradually allow more freedom.
+
+##Level 1
+
+(underline: Restrictions)
+
+* Only use HTML (no CSS of any kind)
+
+* In addition to the required (code: html), (code: head), (code: title), and (code: body) elements, you can use any of the following HTML elements:
+  * (code: p)
+  * (code: br)
+
+* You can use (code: & n b s p ;) (but without spaces) to equal a visible space.
+
+(underline: Goals)
+
+Focus on breaking up the text in different ways. How does the poem usually look? What happens if you present it more spaced out? More condensed? In a specific shape or form? What happens to the poem when you have to scroll to read it all?
+
+##Level 2
+
+(underline: Restrictions)
+
+* Only use HTML (no CSS of any kind)
+
+* In addition to the elements allowed in Level 1, use any of the following HTML elements:
+  * (code: div)
+  * (code: span)
+  * (code: h1, h2, h3, h4, h5, h6)
+  * (code: strong)
+  * (code: em)
+  * (code: ol, ul, li)
+  * (code: a) (Do not link to external sites, but you can link to parts of your poem using an attribute to assign an id)
+
+* Again, you can use (code: & n b s p ;) (but without spaces)  to equal a visible space.
+
+(underline: Goals)
+
+Focus on presenting the text in different hierarchies and scales using only HTML.
+
+##Level 3
+
+(underline: Restrictions)
+
+* Use both HTML and CSS
+
+* Only use the HTML allowed in Levels 1 and 2.
+
+* Only use the following CSS properties:
+  * (code: padding)
+  * (code: border)
+  * (code: margin)
+  * (code: position)
+  * (code: display)
+  * (code: float)
+  * (code: top, right, bottom, left)
+  * (code: height, width)
+
+(underline: Goals)
+
+Focus on positioning elements using CSS. Experiment with space and possibly try a very tall page or a very wide page.
+
+##Level 4
+
+(underline: Restrictions)
+
+* Use both HTML and CSS
+
+* Only use the HTML allowed in Levels 1 and 2
+
+* In addition to the CSS properties allowed in Level 3, you can use any of the following CSS properties:
+  * (code: font-style)
+  * (code: font-weight)
+  * (code: font-size)
+  * (code: font-family)
+  * (code: text-align)
+  * (code: line-height)
+  * (code: letter-spacing)
+  * (code: text-transform)
+
+(underline: Goals)
+
+Focus on typography using CSS. Experiment with hierarchy and scale. 
+
+##Level 5
+
+(underline: Restrictions)
+
+* Use both HTML and CSS
+
+* Use any HTML element (except for (code: img), (code: iframe), and (code: a) via linking to external sites. This is a purely typographic project, so no external images, links, or other assets should be used.)
+
+* Use any CSS property
+
+(underline: Goals)
+
+Do something you haven't done before. Use colors. Test the limits of what you can do. Experiment with new CSS properties (including animations, if you want).
+
+***
+
+##*Phase 2*
+
+##Instructions
+
+Now that you’ve made at least a first pass on the 25 Variations, please create a navigation system for them. Your navigation system should be both a landing page and some sort of consistent device on each page. (Optionally, you can also have some sort of “cover page” for each Level, describing the constraints and what was allowed in each Level.)
+
+##The landing page should...
+* Contain links to all 25 variations
+
+##The consistent page device should...
+* Contain next and previous links to the next and previous variation
+* Be relatively subtle; not interfere with the visual priority of the poem
+* Be relatively the same on each page
+* Possibly visually relate or resonate with your landing page
+* Contain random link to a chance variation (optional)
+
+##The optional cover page for each Level could do any or all of these...
+* State the Level
+* Describe its constraints
+* Provide visual intermission or rest
+
+##Somewhere within all of these pages you should have...
+* Poem credit (author, date)
+* Poem title
+
+##Examples of navigations
+* (link: http://showcase.commercialtype.com/ text: Commercial Type's Showcase) — consistent bar
+* (link: http://lineto.com/ text: Lineto) — "remote" navigation
+* (link: http://rumors-studio.com/ text: Rumors Studio), (link: http://www.dextersinister.org/ text: Dexter Sinister), and (link: http://anishkapoor.com/ text: Anish Kapoor) — hypertext
+* (link: http://www.harvarddesignmagazine.org/ text: Harvard Design Magazine), (link: http://artasiapacific.com/ text: ArtAsiaPacific), and (link: https://www.klim.co.nz/ text: Klim) — next/prev lateral links
+* (link: http://juerglehni.com/ text: Juerg Lehni) and (link: http://taubaauerbach.com/ text: Tauba Auerbach) — dropdown
+* (link: http://soundfair.net/ text: Soundfair) and (link: http://artype.de/Sammlung/ text: ArtType)— tabs etc.
+* (link: http://allmyfriendsatonce.com/ text: All my friends at once) and (link: http://institut-kunst.ch/ text: Institut Kunst) — images/symbols as navigation
+* (link: http://bagina.kr/ text: Bagina.kr) — interactive poster
+
+***
+
+## Overall project goals
+
+This project is an iterative exploration of typography through HTML and CSS. Since you’ll be making 25 variations on the same text, no one single representation of the poem is important than any other. This should allow you ample room for visual experimentation. You should aim to have a variety of visual treatments that responds to the poem’s content. Additionally, by the end of the project, you will better understand the differences between HTML and CSS and see how each can be used in semantic and visual expression.
+
+##Where to find your poem
+* (link: http://libraries.cca.edu/ text: CCA Oakland Library)
+* (link: http://www.poetryfoundation.org text: Poetry Foundation)
+* (link: http://ubuweb.com text: Ubuweb)
+
+
+##Useful tools
+
+* (link: http://www.smashingmagazine.com/wp-content/uploads/images/css3-cheat-sheet/css3-cheat-sheet.pdf text: CSS3 Cheat Sheet)
+* (link: http://www.webdesignerdepot.com/2015/01/css-you-can-get-excited-about-in-2015/ text: CSS You can get excited about in 2015)
+* (link: https://coolors.co/app text: Coolors)
+* (link: http://www.rothko.me/ text: Rothko.me)
+* (link: https://robots.thoughtbot.com/css-animation-for-beginners text: CSS Animation for Beginners)
+* (link: https://daneden.github.io/animate.css/ text: Animate.css)
+* (link: http://www.html5rocks.com/en/tutorials/filters/understanding-css/ text: CSS Filters)
+
+
+##Credit
+
+Thanks to (link: http://lucindahitchcock.com text: Lucy Hitchcock) for inspiring this project from her print-based version.

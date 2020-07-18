@@ -1,0 +1,23 @@
+Title: Spring 2017 Interactive Design at Yale
+
+----
+
+Hide-title: 0
+
+----
+
+Metadata: 
+
+----
+
+Text: 
+
+## Highlights
+* Minkyoung Kim lectured about "Series"
+* Victoria Sobel & Casey Gollan lectured about their work
+* First time doing (link: http://veryinteractive.net/projects/artist-website text: Artist Website) project
+
+## See also
+* (link: classes/spring-2017-interactive-design-at-yale/spring-2017-interactive-design-laurel-schwulst-syllabus.pdf text: Syllabus)
+* (link: classes/spring-2017-interactive-design-at-yale/people text: People)
+* (link: http://spring2017.veryinteractive.net text: Class site target: _blank)

@@ -1,0 +1,39 @@
+Title: People
+
+----
+
+Hide-title: 0
+
+----
+
+Metadata: 
+
+----
+
+Text: 
+
+*People ... Spring 2017 Interactive Design at Yale*
+
+##Participants
+
+Kendra Farrell
+Emma Gregoline
+Willis Kingery
+Kai Li
+Theresa Liu
+Rosa McElheny
+Isaac Morrier
+Abhi Nayar
+Soomin Shon
+Sarah Sukin
+Athena Wheaton
+Jin Ai Yap
+Liyan Zhao
+
+##TA
+
+Ayham Ghraowi
+
+##Instructor
+
+Laurel Schwulst

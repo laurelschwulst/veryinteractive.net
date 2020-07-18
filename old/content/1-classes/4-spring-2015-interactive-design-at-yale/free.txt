@@ -1,0 +1,23 @@
+Title: Spring 2015 Interactive Design at Yale
+
+----
+
+Metadata: 
+
+----
+
+Text: 
+
+## Highlights
+* Guest Zachary Kaplan of Rhizome lectured on "(link: classes/spring-2015-interactive-design-at-yale/a-history-of-internet-art text: A History of Internet Art)"
+* Guests Stephanie Davidson and Tracy Ma of Bloomberg lectured on their work
+* Guest Adriana Ramić lectured on her work and using living data
+* First time doing project "Living Aggregator" project
+
+## See also
+* (link: classes/spring-2015-interactive-design-at-yale/syllabus text: Syllabus)
+* (link: classes/spring-2015-interactive-design-at-yale/people text: People)
+
+----
+
+Hide-title: 0

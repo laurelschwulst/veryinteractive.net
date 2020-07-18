@@ -1,0 +1,27 @@
+Title: Spring 2019 Interactive Design at Yale
+
+----
+
+Hide-title: 0
+
+----
+
+Metadata: 
+
+----
+
+Text: 
+
+##Guests
+- Christian Oldham
+- Shiraz Gallab
+- Bill Wurtz
+
+##Highlights
+- First time doing "webzine" project
+- Worked with guest editor Meg Miller to publish "interactive onion" (forthcoming Summer 2020)
+
+##See also
+- (link: http://veryinteractive.net/content/1-classes/11-spring-2019-interactive-design-at-yale/syllabus-spring2019.pdf text: Syllabus)
+- (link: classes/spring-2019-interactive-design-at-yale/people text: People)
+- (link: http://spring2019.veryinteractive.net text: Class site)

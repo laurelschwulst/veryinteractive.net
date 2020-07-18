@@ -1,0 +1,51 @@
+Title: Timer App
+
+----
+
+Metadata: 
+
+----
+
+Color: #fcd300
+
+----
+
+Text: 
+
+##Instructions
+
+Create a proposal for a mobile app that:
+- has a timer function (counting up or counting down) 
+- is made for a specific person
+
+Your proposal will have two parts:
+
+1. A multi-page, tabloid-sized PDF document. This document should serve as a thorough proposal for someone unfamiliar with the app: its concept, flows, and visual language. Please show the complete flow throughout your app by showing a series of screen designs. 
+
+2. A set of mobile-friendly .html pages that serve as mockups. Please produce at least three. (These should also be shown in your PDF, but in flat visual form.)
+
+##Goals
+
+In a landscape mired with generic and bland apps seemingly usable by everyone and no one, you will strive to create something specific and memorable by focusing on just one audience member. This should be a person you’d like to reach, appeal to, impress, shock, or otherwise communicate with. To achieve this, remember that in addition to “utility” apps are known for, wonder, amazement, mystery, etc. are also, and especially, legitimate states of mind. You don’t need to personally know your audience member, but please make your app only for one specific person and not a demographic of people. Consider also how your app might dynamically respond to the passing of time and be “living” in its own right.
+
+##Tools
+
+I recommend first using pencil and paper to sketch broad ideas for your app. Once you know its focus, use either (link: https://www.sketchapp.com/ text: Sketch) or Adobe InDesign to visually create your screen designs and tabloid-sized proposal.
+
+##Time explorations online
+
+- (link: http://o-r-g.com/apps/wyoscan text: Wyoscan) by O-R-G
+- (link: http://www.delaware.gr.jp/contents/do_the_mobile/time_is_honey_02/time_is_honey_02.html text: Time is Honey) by Freeware/Delaware
+- (link: http://work.damonzucconi.com/coordinated-mars-time/ text: Coordinated Mars Time) by Damon Zucconi
+- (link: http://garyc.me/swatch/ text: Swatch Internet Time text: Swatch Internet Time) and (link: http://www.swatch.com/en_us/internet-time/ text: Swatch .beats)
+- (link: http://pomodorotechnique.com/ text: Pomodoro Technique)
+
+##Novel apps
+
+- (link: https://itunes.apple.com/us/app/colorchat-by-soft/id1057712795?mt=8 text: ColorChat), a messaging app, by Soft
+- (link: http://shrub.ooo/ text: Shrub), a drawing app, by Linked by Air
+- (link: http://bugg.gg text: Bug), a musical instrument app, by Linked by Air
+
+##Credit
+
+Thanks to Chase Booker and Daniel van der Velden.

@@ -1,0 +1,100 @@
+Title: Syllabus
+
+----
+
+Hide-title: 1
+
+----
+
+Metadata: 
+
+----
+
+Text: 
+
+(centered: open)
+Spring 2014
+Art 369b, Interactive Design
+210 Green Hall; Tuesday/Thursday 1:30–3:20pm
+Laurel Schwulst, instructor, laurel@linkedbyair.net
+Grace Robinson-Leo, TA, grace.robinson-leo@yale.edu
+ 
+(centered: close)
+
+##Course description
+
+This course focuses on interaction design with projects that are based online. Questions asked during the course include:
+
+* Is it specific?
+* Is it memorable?
+* Does it communicate the idea through its form?
+
+*(This course has a formal emphasis, using what knowledge students have about composition, typography, and hierarchy as a basis.)*
+
+* What is the prompt?
+* What is the corresponding feedback?
+* Do the prompt and feedback make sense together?
+
+*(We will look at an interaction as a prompt and feedback, an input and output, a call and response. We will examine their relation but also not limit an interaction to a closed, hermetic environment, but view the web as a very social ecosystem in which time and performance play an important role.)*
+
+* Where is the navigation?
+* Is this worth a click?
+* Is this worth scrolling?
+* What are the different conditions in which this can exist?
+* How does this change in each of those conditions?
+* What happens to this when it expands?
+
+*(We will examine web-specific design problems, focusing on navigating a website and the pacing throughout. Design should be conditional online, changing in response to its users and environment, so we will create accommodating, flexible systems.)*
+
+The course will heavily employ real-world, contemporary examples of design, art, and presences online. These thematic groupings of artwork, portfolios, archives, exhibition platforms, blogs, web apps, etc. will be examined with a critical eye and mind. Additionally, we will discuss what makes a design practice and the importance of discovering each student’s unique approach and methodology.
+
+This course is open to ~12 students. It is required for the ~6 graduate students in the Preliminary year of the Graphic Design track. The other ~6 spaces are open to undergraduate students who have taken Intro to Graphic Design or Typography courses (Art 132 and Art 264). Preference is given first to those undergraduates who have these two courses, then to art majors, then to seniors of other majors. Interested students with special circumstances can speak to me directly.
+
+##Weekly activities
+
+Usually, Tuesday will be the more structured day of class.
+
+Tuesday’s class will include any combination of:
+
+* example-based lecture/discussion
+* project critique/discussion
+* group activity to identify design elements in selected websites or books
+* short, ten-minute student presentation on interview findings
+
+Thursday’s class will include any combination of skill-based workshop with working lab time and/or individual consultation.
+
+##Weekly interview findings
+
+Each week (starting Week 3), one student will give a ~10 minute presentation on a living designer, artist, or online presence. This person/ presence should be contactable via the internet, and this should be someone you haven’t communicated with before. Conduct an interview (via email, chat, Skype, etc.) with this person and then present your findings. For the class website, email me documentation of the interview that takes the form of an HTML page with embedded assets (images, video, and/or sound files) included.
+
+##Projects
+
+(project: P1) ... Visual Tweets
+(project: P2) ... 25 Variations
+(project: P3) ... Tutorial as Form
+(project: P4) ... Weather Presentation
+
+##Evaluation
+
+In this class, students will strive to make memorable, functional online experiences. Projects should both take a stance (be poetic, critical, and clear) and also be functional (achieve their goals and not break). The invention of useful products is not the focus of this class, but the invention of useful, surprising techniques and approaches might be. Craft (in both code and design) and overall presentation are also important. Taking risks and having fun are encouraged.
+
+##Grading
+
+20% ... (project: P1)
+20% ... (project: P2)
+20% ... (project: P3)
+20% ... (project: P4)
+20% ... Homework
+
+At the end of the term, you will be required to send me an archival .zip file of all project materials divided into folders P1, P2, P3, P4, and Homework. Please keep this in mind as you organize your materials throughout the semester.
+
+##Academic integrity
+
+In the context of the web, we will discuss maintaining integrity by finding the right balance of original and appropriated content. In creating websites, we will learn what technologies are good (and necessary) to appropriate, how to credit, and the implications of being open source. We will also look at the difference between good and bad sources online, and the morality of “stealing” from the internet.
+
+##Attendance
+Attendance is mandatory. This is a physical class even though its projects are based online. Three or more absences or excessive tardiness will result in a failing grade. If you must miss class, please email me in advance.
+
+##Materials
+
+Since the class takes place in a lab with computers, personal laptops are not required. However, students should be responsible for their files, making sure to back up their files in some way. For editing and updating code, a simple text editor and FTP software are needed. (See class website for specific resource links.) For image-making and sketching, Adobe Photoshop, Illustrator, and InDesign are standard tools that are available on most Yale computers. Other good digital-image making tools include a phone, digital camera, scanner, screen capture, etc.

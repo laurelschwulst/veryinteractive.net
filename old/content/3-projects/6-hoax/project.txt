@@ -1,0 +1,46 @@
+Title: Hoax
+
+----
+
+Project-code: 
+
+----
+
+Color: #24e2ff
+
+----
+
+Text: 
+
+"The viewer should experience a dilemma: is it serious or not? Real or not? For critical design to be successful, viewers need to make up their own mind." — Fiona Raby and Anthony Dunne from (link: https://mitpress.mit.edu/books/speculative-everything text: Speculative Everything)
+
+## Instructions and goals
+
+Now that you have the skills necessary, you will create a fully-formed website that pretends to be something that it is not. While "hoax" can often be a one-liner trick or joke, the goal of your hoax website is instead to construct a universe — perhaps one you'd like to inhabit. Consider making a website for a hypothetical school, event, institution, club, invention, startup, etc. While I invite you to have fun, please be mature about the intentions of your hoax and aware of the impact your hoax may have on others.
+
+While this project is meant to utilize your imagination, it will also allow you to hone your practical skills. Your hoax website will need to look "believable" to work, so making a website that behaves as others do today in 2015 will be important. Therefore, *your website must be responsive (viewable at all breakpoints: 320, 480, 600, 768, 1024 px) and/or utilize jQuery or JavaScript in some way.*
+
+## Listening and reading
+
+To get yourself in the mindset of this project, I would like you to:
+
+1. Listen to this podcast "(link: http://99percentinvisible.org/episode/show-of-force/ text: Show of Force)" about the “deception unit” that employed artists during World War II. 
+
+2. Read "(link: library/design-noir-the-placebo-project text: The Placebo Project)" which is an excerpt from the book *Design Noir: The Secret Life of Electronic Objects* by Fiona Raby and Anthony Dunne.
+
+
+## Schedule
+
+(underline: Writing response and wireframe) — due Monday, November 23
+
+After absorbing both pieces of media (above), write a paragraph response. Think about the connections between the two and your personal opinion on both. Please paste your response in Week 13 Google Doc before 10am on Monday.
+
+Additionally, you will produce a wireframe/sketch of the hoax website, beginning with the home page. Once your wireframe is complete, you will design one or more basic page templates for the site. If you are proposing a complex user interaction, it may be necessary to quickly code an interaction prototype.
+
+(underline: Working website) — due Monday, November 30
+
+Your site should be online and basically functioning as intended. This will allow us to troubleshoot design and code issues in class and give you the final week to fine tune the elements (such as the responsive-ness) of the site.
+
+(underline: Final) — due Wednesday, December 9
+
+Final review of site.
